@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="瓦米尔拉 vs 利耶帕亚|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d64055c54b470c0a8208a1c41d478205.jpg" group-title="篮球",瓦米尔拉 vs 利耶帕亚|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="北马其顿女篮 vs 爱沙尼亚女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/28cc3919d8eaf85f1229f00cc7d4e7c6.png" group-title="篮球",北马其顿女篮 vs 爱沙尼亚女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="桑鲁玖诺 vs 皇家贝蒂斯B队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/07e5f449cd96a6cc06f24f8f19ad89cc.png" group-title="足球",桑鲁玖诺 vs 皇家贝蒂斯B队|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="拉古纳 vs 维拉圣塔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/387599bede2791586a8d2e86ebec66a2.png" group-title="足球",拉古纳 vs 维拉圣塔|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="HLM vs US古利|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/73e4fa86dfbdfedc023d490534f7c372.png" group-title="足球",HLM vs US古利|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="黑牛 vs 纳马普拉铁路|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/c950ccb343936edc255cdfd7a123320a.png" group-title="足球",黑牛 vs 纳马普拉铁路|完场
@@ -35,17 +27,29 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="卡斯泰洛 vs 巴勒尤文图特|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ea5e977be22334a3548c1e5a51b2444c.png" group-title="篮球",卡斯泰洛 vs 巴勒尤文图特|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="CB托莱多 vs 巴利亚多利德|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/5f448f593afa1d6338714aa34d8111d6.png" group-title="篮球",CB托莱多 vs 巴利亚多利德|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="希别尼克 vs 哈克姆拉多斯特|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/02d867fbe79a2a7a43be15cc882f3a3a.png" group-title="篮球",希别尼克 vs 哈克姆拉多斯特|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="奥尔洛维克 vs 齐维尼采|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/32b9400703b4323f66535d35753c957a.png" group-title="篮球",奥尔洛维克 vs 齐维尼采|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="阿加维罗斯FC vs 特拉奎帕克陶工|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/213547e9331e327bcee9b454c81f57d0.png" group-title="足球",阿加维罗斯FC vs 特拉奎帕克陶工|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="华盛顿精神女足 vs 犹他王室女足|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/76c34622a2b9c6ccdf6d2c363e255cd3.png" group-title="足球",华盛顿精神女足 vs 犹他王室女足|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4667963.m3u8?auth_key=1794682900-0-0-55c6cdf710006fa3e4006c89c5fe181f
-#EXTINF:-1 tvg-name="布莱顿女足 vs 利物浦女足|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/8bdf53dba36eabed4350f4ba768900b3.png" group-title="足球",布莱顿女足 vs 利物浦女足|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-1-4603739.m3u8?auth_key=1794682900-0-0-efc1b6ed8e07e4907118ee5f543cc433
+#EXTINF:-1 tvg-name="斯派斯基 vs 科希策狼队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/dcd4852ec8fa9ba3e9f0fc040adf8789.png" group-title="篮球",斯派斯基 vs 科希策狼队|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="华盛顿精神女足 vs 犹他王室女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/76c34622a2b9c6ccdf6d2c363e255cd3.png" group-title="足球",华盛顿精神女足 vs 犹他王室女足|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="喜达屋俱乐部 vs 托尔特卡斯竞技|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/7a243d0da85d459c7fec27a029bda7a2.png" group-title="足球",喜达屋俱乐部 vs 托尔特卡斯竞技|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="布莱顿女足 vs 利物浦女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/8bdf53dba36eabed4350f4ba768900b3.png" group-title="足球",布莱顿女足 vs 利物浦女足|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="阿尔梅里亚 vs 安道尔FC|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d019943fa39f97f70cf49601cccbfa4b.png" group-title="足球",阿尔梅里亚 vs 安道尔FC|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4567367.m3u8?auth_key=1794682900-0-0-c358345ef06bcfc7bccd0b0564193382
+https://pullgz721.qmuiw.com/live/sd-1-4567367.m3u8?auth_key=1794683215-0-0-ab552eca6d057729dcf46bc1f2b09539
 #EXTINF:-1 tvg-name="马略卡 vs 科尔多瓦|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/fdef90456d2a2eee09976c558457aec7.png" group-title="足球",马略卡 vs 科尔多瓦|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4567362.m3u8?auth_key=1794682900-0-0-fb0cc2e118aaf9f98b7d127d238f924a
+https://pullgz721.qmuiw.com/live/sd-1-4567362.m3u8?auth_key=1794683215-0-0-d69ac42ea56a63101eb6f82a01fc5754
+#EXTINF:-1 tvg-name="博尔多篮球会 vs 皮纳尔|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/162af0c4dd5a5dddfbf402b4f4601698.png" group-title="篮球",博尔多篮球会 vs 皮纳尔|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3929895.m3u8?auth_key=1794683215-0-0-23c6c704abcbaeacae67146624dd075d
+#EXTINF:-1 tvg-name="乌尔姆兰蒂奥帕姆 vs 耶拿|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/5b8eb8cbf5c74c6e1974f94602b74ace.png" group-title="篮球",乌尔姆兰蒂奥帕姆 vs 耶拿|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3936284.m3u8?auth_key=1794683215-0-0-b5fca33f2b682bf8a66c7534f64158fc
+#EXTINF:-1 tvg-name="保罗沙 vs 特力康|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d351dee3aa7155fbec8ef798fcc0f06a.png" group-title="篮球",保罗沙 vs 特力康|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3936254.m3u8?auth_key=1794683215-0-0-f0a33e4fe9d17b7e6e9ebf0e72fd2b2b
