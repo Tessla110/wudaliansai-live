@@ -1,11 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="科莫US vs AS瓦加杜古|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/2c064b62e4dd3ed95b0d3e0e2271a54d.png" group-title="足球",科莫US vs AS瓦加杜古|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="ASFA叶尼加 vs 卡斯卡德竞技|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0c355fe160cfabc0f066caae0bfcf63f.png" group-title="足球",ASFA叶尼加 vs 卡斯卡德竞技|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="捷克女篮 vs 克罗地亚女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/11418ef6648aa43fdd8df9e41d36638e.png" group-title="篮球",捷克女篮 vs 克罗地亚女篮|完场
+#EXTINF:-1 tvg-name="圭久洛 vs 科莱希奥斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e014170f46613af76c2fd62e5eb31a97.png" group-title="足球",圭久洛 vs 科莱希奥斯|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="阿斯托尔加体育会 vs 阿罗萨|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/aa93321bc28ebb260a634d61572edcfd.png" group-title="足球",阿斯托尔加体育会 vs 阿罗萨|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
@@ -14,6 +10,8 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="北爱尔兰U17 vs 阿塞拜疆U17|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/8502a8667180b3a3c7763d3fd44d2c1d.png" group-title="足球",北爱尔兰U17 vs 阿塞拜疆U17|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="丹麦U19 vs 圣马力诺U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b3451136c78923e36c695e2913c8a25f.png" group-title="足球",丹麦U19 vs 圣马力诺U19|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="UD欧云斯 vs 梅里达AD|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/80e568144f236138eabd9a89f27d0397.png" group-title="足球",UD欧云斯 vs 梅里达AD|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="皇家联邦 vs 莱昂文体|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/427e541279c7227b30a41cf17d4857d6.png" group-title="足球",皇家联邦 vs 莱昂文体|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
@@ -40,10 +38,10 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="德乌克斯高原FC vs 塞威体育|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/795f6952b9e0842ee5b02f625378cdea.png" group-title="足球",德乌克斯高原FC vs 塞威体育|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="明约 vs 扬博尔|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/cee2f2a4f10e23a3a8cfa31d70fc9064.png" group-title="篮球",明约 vs 扬博尔|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3946026.m3u8?auth_key=1794677601-0-0-42888ccd67f73c3ea8676bc69214a307
+https://pullgz721.qmuiw.com/live/sd-2-3946026.m3u8?auth_key=1794677939-0-0-bc38f02a2136d1b676ca4c3d5fce98d3
 #EXTINF:-1 tvg-name="查洛摩利 vs BC理工学院|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2c2a1421601f7e3be9103334b0548a1f.jpg" group-title="篮球",查洛摩利 vs BC理工学院|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3946035.m3u8?auth_key=1794677601-0-0-b0e4bb07346398d2973fa7e8db80b2b7
+https://pullgz721.qmuiw.com/live/sd-2-3946035.m3u8?auth_key=1794677939-0-0-1df1387a3ec217fd7d368f49fec7636a
 #EXTINF:-1 tvg-name="乌干达 vs 博茨瓦纳|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/2ba0a31a44fe5fecc6548be61d0e5344.png" group-title="足球",乌干达 vs 博茨瓦纳|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4642736.m3u8?auth_key=1794677601-0-0-e774931718763d089532222a9d9e87cb
+https://pullgz721.qmuiw.com/live/sd-1-4642736.m3u8?auth_key=1794677939-0-0-f5d6905493f24978f60cd65c6b83b3ea
 #EXTINF:-1 tvg-name="英国女篮 vs 乌克兰女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/bcdd09ead308f6b5d77c0eb5a68dca2f.jpg" group-title="篮球",英国女篮 vs 乌克兰女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3957884.m3u8?auth_key=1794677601-0-0-698a2d4c84bf0a382f06fe3be36b34a6
+https://pullgz721.qmuiw.com/live/sd-2-3957884.m3u8?auth_key=1794677939-0-0-bf20edd953d15e35a5f5050c9f731b90
