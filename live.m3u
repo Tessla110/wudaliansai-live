@@ -1,21 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="FC卡塔赫纳U19 vs 比利亚雷亚尔U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a9e379ef26702e7822a6a33cee617a11.png" group-title="足球",FC卡塔赫纳U19 vs 比利亚雷亚尔U19|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="卡塞雷尼奥B队女足 vs 奥林匹亚拉斯罗扎女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ce4346042613808f9c2e3ca5741393c2.png" group-title="足球",卡塞雷尼奥B队女足 vs 奥林匹亚拉斯罗扎女足|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="埃尔切女足 vs 维拉维西奥萨女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/c299e4b8407e723dc9f00d4de5530954.png" group-title="足球",埃尔切女足 vs 维拉维西奥萨女足|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="奥维多女足 vs 马德里CFF II 女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/fcea608232255d56f000ebda36d1148c.png" group-title="足球",奥维多女足 vs 马德里CFF II 女足|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="戈尔尼克科宁 vs 尼尔巴|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f7fb6ad600dd94e9dda7bb6e0def24fb.png" group-title="足球",戈尔尼克科宁 vs 尼尔巴|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="巴洛卡 vs 万能FC|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a52ede0c8046327f25b6349669def12f.png" group-title="足球",巴洛卡 vs 万能FC|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="考文垂联 vs 萨顿克德菲尔德|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/cb64c94b5c481cbf545207f3dbb10994.png" group-title="足球",考文垂联 vs 萨顿克德菲尔德|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="卡达勇士 vs 洛比星队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/4e19c7a4c1e5ed854d119d88625d961a.png" group-title="足球",卡达勇士 vs 洛比星队|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="克雷塔罗U21 vs 蒙特雷U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3275c04e50864662eb660cca20306c83.png" group-title="足球",克雷塔罗U21 vs 蒙特雷U21|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="波格诺尔 vs 利特尔汉普顿|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d09ddc6c6e5221b7537da971a2925a3a.png" group-title="足球",波格诺尔 vs 利特尔汉普顿|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
@@ -39,13 +31,21 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="伊夫舍姆联 vs 戈斯波特|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/cbf22ab286e2ad4900bdf5d6a2e47009.png" group-title="足球",伊夫舍姆联 vs 戈斯波特|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="皇家社会B队 vs 希洪竞技|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d29164c8a90c597e5333f1bf14f289f2.png" group-title="足球",皇家社会B队 vs 希洪竞技|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4567364.m3u8?auth_key=1794676011-0-0-7cb4e8be0d196f21d9d2246821ff0c5f
+#EXTINF:-1 tvg-name="雷德卡竞技 vs 沃灵顿|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ed29f81a90c398576f1962223eb83285.png" group-title="足球",雷德卡竞技 vs 沃灵顿|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="俱乐部大学 vs 阿尤特拉|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/5ef273f0dfd4118e0098c3eb714dbebf.png" group-title="足球",俱乐部大学 vs 阿尤特拉|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="梅赫伦女足 vs 奥尔沙布拉克尔女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d32ed303c481975fec1d6aedc8dddd17.png" group-title="足球",梅赫伦女足 vs 奥尔沙布拉克尔女足|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="皇家社会B队 vs 希洪竞技|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d29164c8a90c597e5333f1bf14f289f2.png" group-title="足球",皇家社会B队 vs 希洪竞技|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="特安崔亚 vs 木提维拉|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/2a64a188c466b07b64f2fb7d6ad7189f.png" group-title="足球",特安崔亚 vs 木提维拉|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="卡尔季察ASK vs 泛塞萨洛尼基人|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8194da86c88940bcbbdaec0d7dd3451f.png" group-title="篮球",卡尔季察ASK vs 泛塞萨洛尼基人|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3942147.m3u8?auth_key=1794676011-0-0-867c49329d34dbf328a956887d06fd5d
+https://pullgz721.qmuiw.com/live/sd-2-3942147.m3u8?auth_key=1794676329-0-0-0dc61dd73c1466684de2ab89a0b45ff6
 #EXTINF:-1 tvg-name="帕特雷普罗米修斯 vs 伊拉克利斯|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/817c22ce5c8e4a07ab366f85049390af.png" group-title="篮球",帕特雷普罗米修斯 vs 伊拉克利斯|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3942148.m3u8?auth_key=1794676011-0-0-f1fee49115256fa962b2aba1cd58c74b
+https://pullgz721.qmuiw.com/live/sd-2-3942148.m3u8?auth_key=1794676329-0-0-b28b55899275de0f0ccf0930495a5e31
 #EXTINF:-1 tvg-name="迪拜祈祷 vs 迪拜胜利|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/17b767b98695df2fb512e992dd8a7af4.png" group-title="足球",迪拜祈祷 vs 迪拜胜利|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4662197.m3u8?auth_key=1794676011-0-0-7eeec79c21180074b03235394aa1db40
+https://pullgz721.qmuiw.com/live/sd-1-4662197.m3u8?auth_key=1794676329-0-0-520b7623ec4cd602030a39e80c91d98d
 #EXTINF:-1 tvg-name="迪拜哈塔 vs 艾因|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/bb546c302434af47cf61e8ae3fd53102.png" group-title="足球",迪拜哈塔 vs 艾因|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4662198.m3u8?auth_key=1794676011-0-0-ba364a88ab158fd135bc119834dcded2
+https://pullgz721.qmuiw.com/live/sd-1-4662198.m3u8?auth_key=1794676329-0-0-b926debc32cad24674a9c4836259548f
