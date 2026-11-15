@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="赫尔索尼索斯 vs 帕卡考斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/79911b26078500d4b5ccc4958d410cd6.png" group-title="足球",赫尔索尼索斯 vs 帕卡考斯|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="马泰奥斯 vs 帕特洛恩|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/cb4c819133faaf28ededac2e26436aa9.png" group-title="足球",马泰奥斯 vs 帕特洛恩|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="伊拉克拉里 vs 沃洛斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/2ddf45c4a38d69f5da5bbeba520be374.png" group-title="足球",伊拉克拉里 vs 沃洛斯|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="德拉马斯 vs 尼斯阿米苏|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a73eed2a462d672390a9f8d5dbe9571f.png" group-title="足球",德拉马斯 vs 尼斯阿米苏|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="拉米亚 vs 里瓦|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/30cbc58c8960348899639e022349fe59.png" group-title="足球",拉米亚 vs 里瓦|完场
@@ -43,11 +37,17 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="神拉斐那港 vs 伊利塞高斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/c92b67eb7555afa2318a4944e1d8d97d.png" group-title="足球",神拉斐那港 vs 伊利塞高斯|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="萨罗尼克 vs 伊利奥波利|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/508d241a554946468795602c67b5ec5c.png" group-title="足球",萨罗尼克 vs 伊利奥波利|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="圭多尼亚 vs AS.奥斯提亚马尔|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/32a9a20cf26ee69ea136370865f7ae90.png" group-title="足球",圭多尼亚 vs AS.奥斯提亚马尔|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4604806.m3u8?auth_key=1794754901-0-0-a779de902193e19c5c30717e5d7d69fc
+https://pullgz721.qmuiw.com/live/sd-1-4604806.m3u8?auth_key=1794755224-0-0-663671c9bfd81426feb65d737519e387
 #EXTINF:-1 tvg-name="佩斯卡拉 vs 圣贝内德托|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0d56685fdcaf6ffc533a4c9bcfb44e91.png" group-title="足球",佩斯卡拉 vs 圣贝内德托|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4604809.m3u8?auth_key=1794754901-0-0-39e4a636f12dfdba9c7bc2a2242ee701
+https://pullgz721.qmuiw.com/live/sd-1-4604809.m3u8?auth_key=1794755224-0-0-76a0b9fe9f8aa8dc001a704929f60326
 #EXTINF:-1 tvg-name="斯佩齐亚 vs 瓦多|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d8c05f02f3ad2bb52a4c539e3453a30a.png" group-title="足球",斯佩齐亚 vs 瓦多|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4604812.m3u8?auth_key=1794754901-0-0-7d8f1fe8323b46f722905da722881f4d
+https://pullgz721.qmuiw.com/live/sd-1-4604812.m3u8?auth_key=1794755224-0-0-1d7a0ff2b2925a2403a0e2878683156b
 #EXTINF:-1 tvg-name="卡维塞 vs 克罗托内|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ab5027d7dc3499f8013da1458af8cd6d.png" group-title="足球",卡维塞 vs 克罗托内|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4605188.m3u8?auth_key=1794754901-0-0-275e92b23bf91970fd148f38de7f3899
+https://pullgz721.qmuiw.com/live/sd-1-4605188.m3u8?auth_key=1794755224-0-0-e23197efca86e2fc66fcc111917ad83a
+#EXTINF:-1 tvg-name="波坦察 vs 斯卡法塔森|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/478c25d465838f37af59cd190207e32a.png" group-title="足球",波坦察 vs 斯卡法塔森|视频直播
+https://pullgz721.qmuiw.com/live/sd-1-4605191.m3u8?auth_key=1794755224-0-0-a422bbf8c0e32af44ad564255ed1e3c2
+#EXTINF:-1 tvg-name="萨勒尼塔纳 vs 卡塔尼亚|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/948e7850b0d6bd6224a99a647e24e29b.png" group-title="足球",萨勒尼塔纳 vs 卡塔尼亚|视频直播
+https://pullgz721.qmuiw.com/live/sd-1-4605192.m3u8?auth_key=1794755224-0-0-1179b6588e2a8a5e73ddea570c05f19d
