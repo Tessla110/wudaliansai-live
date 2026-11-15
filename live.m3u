@@ -1,24 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="泽尼特 vs 特拉布宗|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/19d5361bfdffa4bfc2f936cbb65fd317.png" group-title="足球",泽尼特 vs 特拉布宗|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="RFC韦特伦 vs 奥德纳尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/fb990a4761f95a2d54cbeced1f877936.png" group-title="足球",RFC韦特伦 vs 奥德纳尔|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="班尼瑟 vs 那慕尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b1579591dcacd51ba001a6d45a4f4ce9.png" group-title="足球",班尼瑟 vs 那慕尔|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="SGT欧特拉格 vs CS奥斯蒂什地区|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/bd2df58fdd0fdd0afe733b58684ca327.png" group-title="足球",SGT欧特拉格 vs CS奥斯蒂什地区|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="甘索任 vs 歇尔联|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/8904511c4bb7f5b616cde92e0c3464f4.png" group-title="足球",甘索任 vs 歇尔联|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="波罗尼亚女足 vs 拉多姆女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/57409bda086769944b6db911d1959a24.png" group-title="足球",波罗尼亚女足 vs 拉多姆女足|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="波兹南波兰II女足 vs 比德哥什兹女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/2df730a381604caf88adf445f829d329.png" group-title="足球",波兹南波兰II女足 vs 比德哥什兹女足|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="弗雷德克B队 vs 克拉瓦热|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/960deb075b671d28047a7d54cb9c6fd1.png" group-title="足球",弗雷德克B队 vs 克拉瓦热|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="汉堡 vs 哈伊杜克|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/90f52b30fbdf2ac568ca1d48c07f2bc3.png" group-title="足球",汉堡 vs 哈伊杜克|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="波苏耶 vs 斯图普卡尼卡奥洛沃|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3b3dc5347b3d24cb2315e6520845e88e.png" group-title="足球",波苏耶 vs 斯图普卡尼卡奥洛沃|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="罗德茨 vs 索科尔万特|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/df7a39f7ea6dfce4d46841feac3914fd.png" group-title="篮球",罗德茨 vs 索科尔万特|完场
@@ -37,11 +19,25 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="摩纳哥U19 vs 巴斯蒂亚U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1f8bbf09c8d0f31c5b2730a063ecb347.png" group-title="足球",摩纳哥U19 vs 巴斯蒂亚U19|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="彭特靴尔 vs 维多利亚联林贝|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ce6b1e671762818c9c859fd0d1a37537.png" group-title="足球",彭特靴尔 vs 维多利亚联林贝|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="梅努阿皇家老鹰 vs PWD巴门达|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/5e9df81b9b2ae09518c6d19bad9c1f8d.png" group-title="足球",梅努阿皇家老鹰 vs PWD巴门达|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="阿邦姆邦联 vs APEJES学院|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3ed275a6b375c75fb9c5c87478ebf3a7.png" group-title="足球",阿邦姆邦联 vs APEJES学院|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="Elec体育 vs 班布托斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/95fc795bcc124a05b18b7d3a174fca02.png" group-title="足球",Elec体育 vs 班布托斯|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="索尔比亚泰塞阿尔诺 vs 西塔德拉维斯摩德纳|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/38e718c4f6ba9ec78bc73b01d6acf167.png" group-title="足球",索尔比亚泰塞阿尔诺 vs 西塔德拉维斯摩德纳|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="斯瑟姆比克 vs 恩内珀塔尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b666da276afc9e1f650ac5879d9fd01f.png" group-title="足球",斯瑟姆比克 vs 恩内珀塔尔|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="埃因特拉赫特霍克佩尔 vs 林登塔尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9996efa3469048e4b06805a87b513fae.png" group-title="足球",埃因特拉赫特霍克佩尔 vs 林登塔尔|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="斯罗可候沃 vs 尔肯卫克|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b21d0a9a296d99aafde83ea52229d18f.png" group-title="足球",斯罗可候沃 vs 尔肯卫克|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="罗贝勒斯 vs CF卢卡|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/070f90dc869159493f1828c4f8fb1e8e.png" group-title="足球",罗贝勒斯 vs CF卢卡|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="萨拉基利斯 vs 内普图纳斯|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2d05b2c06841b4f3e6df084479f08594.png" group-title="篮球",萨拉基利斯 vs 内普图纳斯|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3933712.m3u8?auth_key=1794760035-0-0-8abc63ce76a7f8861fc139f93a4ae024
+https://pullgz721.qmuiw.com/live/sd-2-3933712.m3u8?auth_key=1794760356-0-0-21b84871c3442c174ae1e9d7e4906095
 #EXTINF:-1 tvg-name="格拉沃利讷 vs 南锡|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7f75f9d996ba5cc973ccb883dbcadd75.png" group-title="篮球",格拉沃利讷 vs 南锡|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3941641.m3u8?auth_key=1794760035-0-0-3a2fc23ee5c6157a122a04b7ecd36195
+https://pullgz721.qmuiw.com/live/sd-2-3941641.m3u8?auth_key=1794760356-0-0-54a9b1fbec9468bff0a64fea52a406de
