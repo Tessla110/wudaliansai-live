@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="西耶洛 vs 皇家阿安爵之|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/8e5a8909a4ee0b9620cc56e6bf21ef35.png" group-title="足球",西耶洛 vs 皇家阿安爵之|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="莱万特B队 vs 埃登斯B队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e4d9a114b8fc6082a3a3da81ad9819c4.png" group-title="足球",莱万特B队 vs 埃登斯B队|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="卡萨拉雷纳 vs 维安纳斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/6b86b6c106d1dd7b99bc4dfe5f54387c.png" group-title="足球",卡萨拉雷纳 vs 维安纳斯|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ASA阿晓斯女足 vs 布隆德比女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b3d2eead3230796efebcc03afc0e9567.png" group-title="足球",ASA阿晓斯女足 vs 布隆德比女足|完场
@@ -35,7 +31,21 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="安纳利提卡 vs 切德瓦达|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9f33f759b67a6ba8cf6fdae897a4995e.png" group-title="篮球",安纳利提卡 vs 切德瓦达|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="雷奥辛女足 vs 伊巴女足B队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e96467f19c06b0fa6d895ef516cc9d43.png" group-title="足球",雷奥辛女足 vs 伊巴女足B队|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="伏伊伏丁那女足 vs ZFK马希纳女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/877d26cf82f4be56564c95485e68ca05.png" group-title="足球",伏伊伏丁那女足 vs ZFK马希纳女足|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="德班城后备 vs 金箭后备队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/63f7b05db469a2121df2f1d1c7813ac8.png" group-title="足球",德班城后备 vs 金箭后备队|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="贝尔廷齐U19 vs 格林纳丁斯U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/116925b5d5bb24feabc203289a6beeba.png" group-title="足球",贝尔廷齐U19 vs 格林纳丁斯U19|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="UD拉富恩特 vs 佩德罗涅拉斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/413233433a1e0089eb0825a4dffe73ed.png" group-title="足球",UD拉富恩特 vs 佩德罗涅拉斯|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="孔科拉刀片女足 vs 恩昌加流浪者皇后女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/8787d4ce3d98e6768859586bcfda1c57.png" group-title="足球",孔科拉刀片女足 vs 恩昌加流浪者皇后女足|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="多伦多运输 vs 奈克王牌|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/35726e71270b13536dec17e83e3300f4.png" group-title="篮球",多伦多运输 vs 奈克王牌|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="喀拉苏体育 vs ABB艾格体育|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c59db51bc3114ddc0679b4d6afe244d6.png" group-title="篮球",喀拉苏体育 vs ABB艾格体育|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="佐加顿斯 vs 欧斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a6b16c448a1b06a6e15f0212b91694cc.png" group-title="篮球",佐加顿斯 vs 欧斯|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
