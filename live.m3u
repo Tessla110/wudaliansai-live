@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="默克莱 vs 门格贝拉尚古尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/6d0595baa23dc7a876c0b60e8e4a9064.png" group-title="足球",默克莱 vs 门格贝拉尚古尔|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ASD萨拉里亚 vs 福米亚|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/afad7740457b1e480fc77bdc9cbad557.png" group-title="足球",ASD萨拉里亚 vs 福米亚|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="FB雷多万 vs 罗维达|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a9e649a9a93d81253295fa0b22005534.png" group-title="足球",FB雷多万 vs 罗维达|完场
@@ -17,7 +15,7 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="西耶洛 vs 皇家阿安爵之|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/8e5a8909a4ee0b9620cc56e6bf21ef35.png" group-title="足球",西耶洛 vs 皇家阿安爵之|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="迪纳兹维什哥罗德 vs 布拉茨拉夫文尼察|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/94381b0a96ec418599c237b8a1e77295.png" group-title="足球",迪纳兹维什哥罗德 vs 布拉茨拉夫文尼察|未开赛
+#EXTINF:-1 tvg-name="莱万特B队 vs 埃登斯B队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e4d9a114b8fc6082a3a3da81ad9819c4.png" group-title="足球",莱万特B队 vs 埃登斯B队|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="卡萨拉雷纳 vs 维安纳斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/6b86b6c106d1dd7b99bc4dfe5f54387c.png" group-title="足球",卡萨拉雷纳 vs 维安纳斯|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
@@ -40,4 +38,10 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="肯尼亚警察女足 vs KSL女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3adbfc77d740387ab64d12dee00ec316.png" group-title="足球",肯尼亚警察女足 vs KSL女足|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="名古屋钻石海豚 vs 东京太阳摇滚|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/5701c1bc70a4cd2a8f2fe9f3ffc72904.png" group-title="篮球",名古屋钻石海豚 vs 东京太阳摇滚|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="莫斯托莱斯 vs 特里巴尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/64c3df8879940afb8a72f5f7215c2b4a.png" group-title="足球",莫斯托莱斯 vs 特里巴尔|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="尤托纳 vs 比拉萨尔德马尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/47aeee6c1895847b923999db2515803a.png" group-title="足球",尤托纳 vs 比拉萨尔德马尔|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="安纳利提卡 vs 切德瓦达|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9f33f759b67a6ba8cf6fdae897a4995e.png" group-title="篮球",安纳利提卡 vs 切德瓦达|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
