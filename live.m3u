@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="卡拉科普鲁 vs 格里1970|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/17283d74f6d6976e2649a55b0092d844.png" group-title="足球",卡拉科普鲁 vs 格里1970|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="土库克鲁兹卡雷 vs 比特利斯1916|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/2988017a5e362425783596fd9b579ab9.png" group-title="足球",土库克鲁兹卡雷 vs 比特利斯1916|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="马西达吉 vs 尼格德|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f262c1be40a419a74e3fe13ed81e5fe2.png" group-title="足球",马西达吉 vs 尼格德|完场
@@ -39,7 +37,11 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="沙漠之星U20 vs 黎巴嫩联合会U20|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/928793df2016853cc9debc1e3a94c9c5.png" group-title="足球",沙漠之星U20 vs 黎巴嫩联合会U20|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="ASD萨拉里亚 vs 福米亚|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/afad7740457b1e480fc77bdc9cbad557.png" group-title="足球",ASD萨拉里亚 vs 福米亚|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="迪纳兹维什哥罗德 vs 布拉茨拉夫文尼察|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/94381b0a96ec418599c237b8a1e77295.png" group-title="足球",迪纳兹维什哥罗德 vs 布拉茨拉夫文尼察|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4598920.m3u8?auth_key=1794744470-0-0-bad95152b4e72f13a0a77401a54ad739
+https://pullgz721.qmuiw.com/live/sd-1-4598920.m3u8?auth_key=1794744785-0-0-97edd703b0ae9466f60ab34106d2cd0e
 #EXTINF:-1 tvg-name="甸普 vs 西钱马里FC|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/23184d4df8fb45f4e0de26ce3a2a99c4.png" group-title="足球",甸普 vs 西钱马里FC|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4660087.m3u8?auth_key=1794744470-0-0-b8ecc2a7a028e8e50b69769fb7942cbf
+https://pullgz721.qmuiw.com/live/sd-1-4660087.m3u8?auth_key=1794744785-0-0-365f882a136c92b679a0dece19013487
+#EXTINF:-1 tvg-name="名古屋钻石海豚 vs 东京太阳摇滚|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/5701c1bc70a4cd2a8f2fe9f3ffc72904.png" group-title="篮球",名古屋钻石海豚 vs 东京太阳摇滚|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3934311.m3u8?auth_key=1794744785-0-0-5b65a2e88621ccda41a6e17305a219c5
