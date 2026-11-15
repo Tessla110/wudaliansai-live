@@ -1,18 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="凯斯特尔 vs 德尼兹利伊古雷勒|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/70356e252455a38b81b9f2677ef899d6.png" group-title="足球",凯斯特尔 vs 德尼兹利伊古雷勒|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="盖姆利克体育 vs 贝卡士邦|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e7fb87c6f550fc6199089d0454f82638.png" group-title="足球",盖姆利克体育 vs 贝卡士邦|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="伊梅斯古特 vs 加济耶米尔体育|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/5757004e143b2e2b739770e20ceb4bb7.png" group-title="足球",伊梅斯古特 vs 加济耶米尔体育|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="新西伯利亚 vs 阿尔泰巴尔瑙尔|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/71896f12baaa05074a484c43931ef7c6.png" group-title="篮球",新西伯利亚 vs 阿尔泰巴尔瑙尔|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3939699.m3u8?auth_key=1794744170-0-0-cca256ddedc41fe68a357027f4372e3d
-#EXTINF:-1 tvg-name="迪亚巴克尔体育 vs 史立夫科|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3389c10323340806a65f2469c82d1393.png" group-title="足球",迪亚巴克尔体育 vs 史立夫科|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="埃尔吉耶斯 vs 基森海尔|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/130938f392b01e1a951bbf465b330eea.png" group-title="足球",埃尔吉耶斯 vs 基森海尔|未开赛
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="卡拉科普鲁 vs 格里1970|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/17283d74f6d6976e2649a55b0092d844.png" group-title="足球",卡拉科普鲁 vs 格里1970|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="土库克鲁兹卡雷 vs 比特利斯1916|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/2988017a5e362425783596fd9b579ab9.png" group-title="足球",土库克鲁兹卡雷 vs 比特利斯1916|完场
@@ -52,4 +40,6 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="沙漠之星U20 vs 黎巴嫩联合会U20|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/928793df2016853cc9debc1e3a94c9c5.png" group-title="足球",沙漠之星U20 vs 黎巴嫩联合会U20|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="迪纳兹维什哥罗德 vs 布拉茨拉夫文尼察|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/94381b0a96ec418599c237b8a1e77295.png" group-title="足球",迪纳兹维什哥罗德 vs 布拉茨拉夫文尼察|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4598920.m3u8?auth_key=1794744171-0-0-4d68e597ddd1b09d0ae25685909ca41b
+https://pullgz721.qmuiw.com/live/sd-1-4598920.m3u8?auth_key=1794744470-0-0-bad95152b4e72f13a0a77401a54ad739
+#EXTINF:-1 tvg-name="甸普 vs 西钱马里FC|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/23184d4df8fb45f4e0de26ce3a2a99c4.png" group-title="足球",甸普 vs 西钱马里FC|视频直播
+https://pullgz721.qmuiw.com/live/sd-1-4660087.m3u8?auth_key=1794744470-0-0-b8ecc2a7a028e8e50b69769fb7942cbf
