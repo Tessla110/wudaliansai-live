@@ -21,6 +21,8 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="KB联盟 vs 拉赫维斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2b6a9080e3b0d9bc3c430a1c1c7e0682.png" group-title="篮球",KB联盟 vs 拉赫维斯|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="奥林匹亚女足 vs 圣罗伦素体育会女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/6a35a6ffc77c23572104648297fefcd2.png" group-title="足球",奥林匹亚女足 vs 圣罗伦素体育会女足|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="弗吉尼USC vs 圣胡安北部|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f1dbdfdfb5a19a84f45cdf4c62f588f4.png" group-title="足球",弗吉尼USC vs 圣胡安北部|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="波托西矿工足球俱乐部 vs 圣马丁体育|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/095711f62e6d9b71177b58d7a08f94a7.png" group-title="足球",波托西矿工足球俱乐部 vs 圣马丁体育|完场
@@ -34,26 +36,28 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="JCA vs 利比亚伊蒂哈德|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a3f13b646df35d0686dd9e95a4a908b6.png" group-title="篮球",JCA vs 利比亚伊蒂哈德|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="佛罗里达州女篮 vs 佛罗里达州立大学女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7ced2f6fd1fe407987b1ebe64f04763c.png" group-title="篮球",佛罗里达州女篮 vs 佛罗里达州立大学女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960393.m3u8?auth_key=1794776191-0-0-ca41911beb77fbda30868d00f1f13f51
+https://pullgz721.qmuiw.com/live/sd-2-3960393.m3u8?auth_key=1794776501-0-0-db8217f90d9d973a3d5fc5637268bffd
+#EXTINF:-1 tvg-name="北达科他州立大学 vs 加州贝克斯菲尔德|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6467663fcb634f6b9987526c331abe65.png" group-title="篮球",北达科他州立大学 vs 加州贝克斯菲尔德|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="罗德岛大学 vs 普林斯顿大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/91ae10ca67ebbef3e3e931ef561d0402.png" group-title="篮球",罗德岛大学 vs 普林斯顿大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3949322.m3u8?auth_key=1794776191-0-0-a6e18066046dc021cabb5969da59cdbf
+https://pullgz721.qmuiw.com/live/sd-2-3949322.m3u8?auth_key=1794776501-0-0-3e89fff5101a2f84bc46a931e7a0b41b
 #EXTINF:-1 tvg-name="圣十字学院 vs 纽州大阿尔巴尼分校|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d37ad710df912162c298194d831b7192.png" group-title="篮球",圣十字学院 vs 纽州大阿尔巴尼分校|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3949327.m3u8?auth_key=1794776191-0-0-05762aefe8863879f10a2f6c18414fb7
-#EXTINF:-1 tvg-name="密歇根大学 vs 威廉玛丽大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/23d821ab747471dd13d68bfbe533c3f8.png" group-title="篮球",密歇根大学 vs 威廉玛丽大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3949333.m3u8?auth_key=1794776191-0-0-6d1c9ac88221d986daabaf365bfd8e84
+https://pullgz721.qmuiw.com/live/sd-2-3949327.m3u8?auth_key=1794776501-0-0-08a3e70f7bbb381fe290ef93310a86bc
+#EXTINF:-1 tvg-name="密歇根大学 vs 威廉玛丽大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/23d821ab747471dd13d68bfbe533c3f8.png" group-title="篮球",密歇根大学 vs 威廉玛丽大学|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="拉萨尔大学 vs 天普大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/903ffc0421a96bf711500b578f21cc30.png" group-title="篮球",拉萨尔大学 vs 天普大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3950401.m3u8?auth_key=1794776191-0-0-833bef52521e85b7ed2b6a0669954757
+https://pullgz721.qmuiw.com/live/sd-2-3950401.m3u8?auth_key=1794776501-0-0-e39ed1a53af738ffd38bb9b4e30c59fb
 #EXTINF:-1 tvg-name="耶鲁大学 vs 伊曼纽尔学院|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a4971dc4b7ade405be73c6dea97411f0.png" group-title="篮球",耶鲁大学 vs 伊曼纽尔学院|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="查尔斯顿大学 vs 南卡罗来纳州立大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d6e4b917757e1e5da38558288566b629.png" group-title="篮球",查尔斯顿大学 vs 南卡罗来纳州立大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3952966.m3u8?auth_key=1794776191-0-0-c4ce79b39a68abaff97e0ba3a4d2e984
+https://pullgz721.qmuiw.com/live/sd-2-3952966.m3u8?auth_key=1794776501-0-0-1509546058e399cc9c43caf930b554b7
 #EXTINF:-1 tvg-name="卡利博卡青年 vs 云博独立|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/2c435db3d52e1d54601b0724f4e46860.png" group-title="足球",卡利博卡青年 vs 云博独立|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="拉巴斯准备 vs 石油独立|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/4f5b815aa7bca0be2a325494997ad29e.png" group-title="足球",拉巴斯准备 vs 石油独立|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="达努比奥 vs 蒙得维的亚|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/160c9f3f589e2fb4578e984d2e692d18.png" group-title="足球",达努比奥 vs 蒙得维的亚|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4666005.m3u8?auth_key=1794776191-0-0-d59065f3703959cdbc6bfea883359436
+https://pullgz721.qmuiw.com/live/sd-1-4666005.m3u8?auth_key=1794776501-0-0-f04475f5c7d47ee33688696af2e9e480
 #EXTINF:-1 tvg-name="法国 vs 土耳其|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/17883efbf965291049b600c87db36057.png" group-title="足球",法国 vs 土耳其|视频直播
-https://pullgz721.qmuiw.com/live/hd-en-1-4518109.m3u8?auth_key=1794776191-0-0-294e6c036a1879147ac84df8a7eccd1e
+https://pullgz721.qmuiw.com/live/hd-en-1-4518109.m3u8?auth_key=1794776501-0-0-8172315847c3dd328588c5764905e52a
 #EXTINF:-1 tvg-name="比利时 vs 意大利|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f40763e705743d293364c0056abbc341.png" group-title="足球",比利时 vs 意大利|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-1-4518110.m3u8?auth_key=1794776191-0-0-c9ab91eb3e52335fdfbcdd839171b6f2
+https://pullgz721.qmuiw.com/live/hd-zh-1-4518110.m3u8?auth_key=1794776501-0-0-0dce5e25157cd6b6e5fb8995400e9627
