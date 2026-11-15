@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="德拉马斯 vs 尼斯阿米苏|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a73eed2a462d672390a9f8d5dbe9571f.png" group-title="足球",德拉马斯 vs 尼斯阿米苏|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="拉米亚 vs 里瓦|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/30cbc58c8960348899639e022349fe59.png" group-title="足球",拉米亚 vs 里瓦|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="吉安尼纳 vs 伊奥戴高斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3e2446819fa054c856da7b7bb3e61da9.png" group-title="足球",吉安尼纳 vs 伊奥戴高斯|完场
@@ -39,15 +37,19 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="萨罗尼克 vs 伊利奥波利|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/508d241a554946468795602c67b5ec5c.png" group-title="足球",萨罗尼克 vs 伊利奥波利|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="阿塔斯 vs 蒂耶拉卡西卡|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/7339f9f378067cb2d99e39eb1e30c82d.png" group-title="足球",阿塔斯 vs 蒂耶拉卡西卡|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="圭多尼亚 vs AS.奥斯提亚马尔|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/32a9a20cf26ee69ea136370865f7ae90.png" group-title="足球",圭多尼亚 vs AS.奥斯提亚马尔|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4604806.m3u8?auth_key=1794755224-0-0-663671c9bfd81426feb65d737519e387
+https://pullgz721.qmuiw.com/live/sd-1-4604806.m3u8?auth_key=1794755560-0-0-58271ba702f5fe3f4e988b52dd5a9766
 #EXTINF:-1 tvg-name="佩斯卡拉 vs 圣贝内德托|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0d56685fdcaf6ffc533a4c9bcfb44e91.png" group-title="足球",佩斯卡拉 vs 圣贝内德托|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4604809.m3u8?auth_key=1794755224-0-0-76a0b9fe9f8aa8dc001a704929f60326
+https://pullgz721.qmuiw.com/live/sd-1-4604809.m3u8?auth_key=1794755560-0-0-f2099d3fea41e5e07ba32b4d3822918b
 #EXTINF:-1 tvg-name="斯佩齐亚 vs 瓦多|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d8c05f02f3ad2bb52a4c539e3453a30a.png" group-title="足球",斯佩齐亚 vs 瓦多|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4604812.m3u8?auth_key=1794755224-0-0-1d7a0ff2b2925a2403a0e2878683156b
+https://pullgz721.qmuiw.com/live/sd-1-4604812.m3u8?auth_key=1794755560-0-0-69e69d6d5b8227d90803919c5e0cba0a
 #EXTINF:-1 tvg-name="卡维塞 vs 克罗托内|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ab5027d7dc3499f8013da1458af8cd6d.png" group-title="足球",卡维塞 vs 克罗托内|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4605188.m3u8?auth_key=1794755224-0-0-e23197efca86e2fc66fcc111917ad83a
+https://pullgz721.qmuiw.com/live/sd-1-4605188.m3u8?auth_key=1794755560-0-0-b802a4c3c4395c6efb05d0b17297e42b
 #EXTINF:-1 tvg-name="波坦察 vs 斯卡法塔森|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/478c25d465838f37af59cd190207e32a.png" group-title="足球",波坦察 vs 斯卡法塔森|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4605191.m3u8?auth_key=1794755224-0-0-a422bbf8c0e32af44ad564255ed1e3c2
+https://pullgz721.qmuiw.com/live/sd-1-4605191.m3u8?auth_key=1794755560-0-0-2683ea37f3fefc7e5e4fd8ad4eb3d11d
 #EXTINF:-1 tvg-name="萨勒尼塔纳 vs 卡塔尼亚|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/948e7850b0d6bd6224a99a647e24e29b.png" group-title="足球",萨勒尼塔纳 vs 卡塔尼亚|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4605192.m3u8?auth_key=1794755224-0-0-1179b6588e2a8a5e73ddea570c05f19d
+https://pullgz721.qmuiw.com/live/sd-1-4605192.m3u8?auth_key=1794755560-0-0-0371ebd2729e0e6d71edcb28e28edd2c
+#EXTINF:-1 tvg-name="哈尔体育 vs 福诺体育|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b0f7ad7fd42dac8713c24e2d83250a76.png" group-title="篮球",哈尔体育 vs 福诺体育|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3930508.m3u8?auth_key=1794755560-0-0-4364fd492a6f92a784f88e47b088bcfc
