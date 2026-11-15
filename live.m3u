@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="阿玛莎杭图U21 vs MVP篮球U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/18fbb4450400daa08b422f02f36cfe9d.png" group-title="篮球",阿玛莎杭图U21 vs MVP篮球U21|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="河内DM公牛 vs 万塔黑龙|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/24af5403649edfcd80ac9c89e4767bcb.png" group-title="篮球",河内DM公牛 vs 万塔黑龙|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="佩西加雅加达U20 vs 加鲁达亚克萨U20|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b1580058d312c094c1d49179a46f6cec.png" group-title="足球",佩西加雅加达U20 vs 加鲁达亚克萨U20|完场
@@ -33,10 +31,10 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="乐东队 vs 陵水队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/4f3bb6c45eba024919e73c06111a7e2c.png" group-title="足球",乐东队 vs 陵水队|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="昌原LG猎隼 vs 水原KT音速弹|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b3a61f88692a8a3836f3b93ba65b98da.png" group-title="篮球",昌原LG猎隼 vs 水原KT音速弹|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3933693.m3u8?auth_key=1794735591-0-0-1effba0c3e76847d2d4722567ad4dc2b
-#EXTINF:-1 tvg-name="釜山宙斯盾 vs 大邱石油公社飞马|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0add24fc964de3ea25e83417aa301f81.png" group-title="篮球",釜山宙斯盾 vs 大邱石油公社飞马|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3933755.m3u8?auth_key=1794735591-0-0-16bcee19c90643571751a4843e052941
+#EXTINF:-1 tvg-name="昌原LG猎隼 vs 水原KT音速弹|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b3a61f88692a8a3836f3b93ba65b98da.png" group-title="篮球",昌原LG猎隼 vs 水原KT音速弹|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="釜山宙斯盾 vs 大邱石油公社飞马|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0add24fc964de3ea25e83417aa301f81.png" group-title="篮球",釜山宙斯盾 vs 大邱石油公社飞马|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="油尖旺 vs 九龙木|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e9b6cd5bc11c72468b8099c416d49144.png" group-title="足球",油尖旺 vs 九龙木|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="观塘 vs 骏达|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/4997db5f28dc152d9ae4987e7c39b89a.png" group-title="足球",观塘 vs 骏达|完场
@@ -46,8 +44,8 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="南华 vs 蓝朗|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/72baa3e128af7a11d9c2a6a9692242a4.png" group-title="足球",南华 vs 蓝朗|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="柏太阳神 vs 川崎前锋|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d272859d78eb8ca7a14753f4293fbf45.png" group-title="足球",柏太阳神 vs 川崎前锋|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4665765.m3u8?auth_key=1794735591-0-0-a85faa40f5139931dc06a97fe631ea4f
+https://pullgz721.qmuiw.com/live/sd-1-4665765.m3u8?auth_key=1794735938-0-0-a96f5e0beb916c1b0ba746b1d3c2dc4c
 #EXTINF:-1 tvg-name="神户雌狮女足 vs 大阪樱花女足|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/8fca1fffae59337b22952101b1c22dd1.png" group-title="足球",神户雌狮女足 vs 大阪樱花女足|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4602934.m3u8?auth_key=1794735591-0-0-a1afdbbb22a7b475ef5cbe25fbe52bb7
+https://pullgz721.qmuiw.com/live/sd-1-4602934.m3u8?auth_key=1794735938-0-0-82c642d0f81ac240bfb81df6ad8e3118
 #EXTINF:-1 tvg-name="奈良雄心 vs 青森热力|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a41b7bd9bf7e51d0b0c1155e8c7f9a8a.png" group-title="篮球",奈良雄心 vs 青森热力|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3934800.m3u8?auth_key=1794735591-0-0-efaaa4437b535ecae052ae127a75c608
+https://pullgz721.qmuiw.com/live/sd-2-3934800.m3u8?auth_key=1794735938-0-0-b54e14fa397242ab4fec4e8654d5995b
