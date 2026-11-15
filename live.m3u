@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="勒芒女足 vs 格勒诺布尔克莱女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/15b4a68643421ed0bfd0f59a6ac2ce2c.png" group-title="足球",勒芒女足 vs 格勒诺布尔克莱女足|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="桑雷美森 vs 亚历山大|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/42c0ad6babbafb98e84321dfc16a67cd.webp" group-title="足球",桑雷美森 vs 亚历山大|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="威廉港 vs 布伦瑞克B队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e0eacd983971634327ae1819ea8b6214.jpg" group-title="足球",威廉港 vs 布伦瑞克B队|完场
@@ -41,7 +39,9 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="辛祖安伦斯B队 vs 海军赛艇篮球会|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3defd503fa6d2e49ba646c66e99bfced.png" group-title="篮球",辛祖安伦斯B队 vs 海军赛艇篮球会|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="罗贝勒斯 vs CF卢卡|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/070f90dc869159493f1828c4f8fb1e8e.png" group-title="足球",罗贝勒斯 vs CF卢卡|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="萨拉基利斯 vs 内普图纳斯|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2d05b2c06841b4f3e6df084479f08594.png" group-title="篮球",萨拉基利斯 vs 内普图纳斯|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3933712.m3u8?auth_key=1794759415-0-0-35291b0296febbf9292d7ac02ffc96ec
+https://pullgz721.qmuiw.com/live/sd-2-3933712.m3u8?auth_key=1794759725-0-0-f3d8d26c497f42caad86096bdcfcc5c5
 #EXTINF:-1 tvg-name="格拉沃利讷 vs 南锡|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7f75f9d996ba5cc973ccb883dbcadd75.png" group-title="篮球",格拉沃利讷 vs 南锡|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3941641.m3u8?auth_key=1794759415-0-0-10863289edecceac02c63d0a4098c3a1
+https://pullgz721.qmuiw.com/live/sd-2-3941641.m3u8?auth_key=1794759725-0-0-7a1b53300bc1cb27e56f953ec1f50dca
