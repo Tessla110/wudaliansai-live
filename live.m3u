@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="普里兹雷尼 vs 黄金贝沙|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/21cd62af7d2a385ecd73f33e11ac74de.png" group-title="足球",普里兹雷尼 vs 黄金贝沙|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="西班牙女足U17 vs 瑞士女足U17|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/bda15bbad79442d680ec3f00911c46d8.png" group-title="足球",西班牙女足U17 vs 瑞士女足U17|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="波兰U18 vs 捷克U18|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/92fea298daada3dbafbb13ebd1d9a04f.png" group-title="足球",波兰U18 vs 捷克U18|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="乌兹别克斯坦U20 vs 委内瑞拉U20|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/8f8be6830389f2cfb642c66187b0db54.png" group-title="足球",乌兹别克斯坦U20 vs 委内瑞拉U20|完场
@@ -39,11 +35,19 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="帕桑度青年队 vs 蓬特新星青年队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3c1a923596d56d0d5a95ee228c0bd21f.png" group-title="足球",帕桑度青年队 vs 蓬特新星青年队|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="塔帕佐斯PA青年队 vs 瑞模贝雷U20|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/73ca3b3b845dcfb534d365e9c35b530c.png" group-title="足球",塔帕佐斯PA青年队 vs 瑞模贝雷U20|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="泛伊奥尼亚人 vs 奥林比亚科斯B队|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/be7ce791aab898f16c79bce9f0b9ff89.png" group-title="足球",泛伊奥尼亚人 vs 奥林比亚科斯B队|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4633190.m3u8?auth_key=1794839383-0-0-7f3b09609b4a66dbd86eac99849159b0
+https://pullgz721.qmuiw.com/live/sd-1-4633190.m3u8?auth_key=1794839718-0-0-8c255621d570f7e7699c1ebf98c6fe18
+#EXTINF:-1 tvg-name="九龙城U22 vs 高力北区U22|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/8719e1fc1217c8358bf41673ea08d5b5.png" group-title="足球",九龙城U22 vs 高力北区U22|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="纳米比亚 vs 喀麦隆|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/6af589f5ace66292a7899626b285d8eb.png" group-title="足球",纳米比亚 vs 喀麦隆|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4642753.m3u8?auth_key=1794839383-0-0-34bb99884122a4c006b49fed434a9032
+https://pullgz721.qmuiw.com/live/sd-1-4642753.m3u8?auth_key=1794839718-0-0-6dba1751954458c06ab81e9da32d674f
 #EXTINF:-1 tvg-name="苏丹 vs 塞内加尔|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e3614789dadf4b97609b13667f6df7a3.png" group-title="足球",苏丹 vs 塞内加尔|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4642756.m3u8?auth_key=1794839383-0-0-48bff7075186c7ecafd3731413367931
+https://pullgz721.qmuiw.com/live/sd-1-4642756.m3u8?auth_key=1794839718-0-0-85b8d7db396d499c4533f67c2b53e7e4
 #EXTINF:-1 tvg-name="意大利U20 vs 瑞士U20|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a4d2049688cd7a4a8cc6473afadcd803.png" group-title="足球",意大利U20 vs 瑞士U20|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4625610.m3u8?auth_key=1794839383-0-0-c8ed46bc75cca4108d6c38653ff822e7
+https://pullgz721.qmuiw.com/live/sd-1-4625610.m3u8?auth_key=1794839718-0-0-1ca10877f2a83ee12c4265498f1fd760
+#EXTINF:-1 tvg-name="捷克U20 vs 德国U20|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/07b1a326eb37594bebfd90b409e7c47d.png" group-title="足球",捷克U20 vs 德国U20|视频直播
+https://pullgz721.qmuiw.com/live/sd-1-4625612.m3u8?auth_key=1794839718-0-0-5dd74a82f47415ab2ba87f8915d70639
+#EXTINF:-1 tvg-name="津巴布韦 vs 赤道几内亚|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ebfd14346009563b7dff0d03503d02fb.png" group-title="足球",津巴布韦 vs 赤道几内亚|视频直播
+https://pullgz721.qmuiw.com/live/sd-1-4642764.m3u8?auth_key=1794839718-0-0-c99058f62ed8232c3517f6c91e2c26c0
