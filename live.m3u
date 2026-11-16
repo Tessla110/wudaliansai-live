@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="马尔科 vs 扎金索斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3c59228b430f40d19d272251d72bceff.png" group-title="足球",马尔科 vs 扎金索斯|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="加奇萨兰 vs 尼洛耶扎米尼|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/57cf3b157c82953b6f6cecbf836407be.png" group-title="足球",加奇萨兰 vs 尼洛耶扎米尼|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="俄罗斯U21 vs 吉尔吉斯斯坦U23|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3d0be2e156ed3555cb0de919b469f975.png" group-title="足球",俄罗斯U21 vs 吉尔吉斯斯坦U23|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="GO雅加达U21 vs 德瓦联U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/19c51913685759c00a194cd4e886f265.png" group-title="篮球",GO雅加达U21 vs 德瓦联U21|完场
@@ -44,14 +40,16 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="拿芙马塞索利曼 vs 谢纳瓦尔萨齐|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0f0c7e6fcd26281e728f5fa81f4a9cf7.png" group-title="足球",拿芙马塞索利曼 vs 谢纳瓦尔萨齐|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="意大利U20 vs 瑞士U20|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a4d2049688cd7a4a8cc6473afadcd803.png" group-title="足球",意大利U20 vs 瑞士U20|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4625610.m3u8?auth_key=1794841628-0-0-ff448c2336b2b38ac06afd3dd598dcc8
+https://pullgz721.qmuiw.com/live/sd-1-4625610.m3u8?auth_key=1794841943-0-0-3c45df5a0228aa7799173e117d060813
 #EXTINF:-1 tvg-name="捷克U20 vs 德国U20|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/07b1a326eb37594bebfd90b409e7c47d.png" group-title="足球",捷克U20 vs 德国U20|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4625612.m3u8?auth_key=1794841628-0-0-61ab36d9c324f83a4a7a5957a10d9829
+https://pullgz721.qmuiw.com/live/sd-1-4625612.m3u8?auth_key=1794841943-0-0-05a37817a3e588b2161811e2c146fba8
 #EXTINF:-1 tvg-name="津巴布韦 vs 赤道几内亚|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ebfd14346009563b7dff0d03503d02fb.png" group-title="足球",津巴布韦 vs 赤道几内亚|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4642764.m3u8?auth_key=1794841628-0-0-a61dcc80a69876915c06b83e352aedf1
-#EXTINF:-1 tvg-name="安佩姆达科阿女足 vs FC萨凡纳女足|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1be2bd13926bd7e7a277f48dd8e4326f.png" group-title="足球",安佩姆达科阿女足 vs FC萨凡纳女足|未开赛
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+https://pullgz721.qmuiw.com/live/sd-1-4642764.m3u8?auth_key=1794841943-0-0-bb273452f39b8a8061f5c1f40a39f3cd
 #EXTINF:-1 tvg-name="瑞士U18 vs 英格兰U18|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/54cf0273cba18a2a8fb9c3edf08f385f.png" group-title="足球",瑞士U18 vs 英格兰U18|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="足球法律队 vs 大使馆|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a22cbc352d65c130e0152c79ab67f440.png" group-title="足球",足球法律队 vs 大使馆|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="法罗群岛 vs 摩尔多瓦|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/19eeefdc072e675e1be2a9786cfba016.png" group-title="足球",法罗群岛 vs 摩尔多瓦|视频直播
+https://pullgz721.qmuiw.com/live/hd-en-1-4518115.m3u8?auth_key=1794841943-0-0-e6027ea506aa420b68fb76326118af7c
+#EXTINF:-1 tvg-name="哈萨克斯坦 vs 斯洛伐克|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ab65328f376fce7ea2b798a04a96a0cc.png" group-title="足球",哈萨克斯坦 vs 斯洛伐克|视频直播
+https://pullgz721.qmuiw.com/live/hd-en-1-4518116.m3u8?auth_key=1794841943-0-0-3339c33b7e1c76d295c71df3893193b5
