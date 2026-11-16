@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="得州大学埃尔帕索分校 vs 佛罗里达农工大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/5f20096d34066fc0c483ee5d2f86867f.png" group-title="篮球",得州大学埃尔帕索分校 vs 佛罗里达农工大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="诺维奇U21 vs 艾斯特城U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3491562d5d2d2b3f74c5d6ab702277c1.png" group-title="足球",诺维奇U21 vs 艾斯特城U21|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="普利茅斯U21 vs 莱斯特城U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a01914250b64c6b71c23c7bb1b42277e.jpg" group-title="足球",普利茅斯U21 vs 莱斯特城U21|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="维拉斯PV vs 克罗诺斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/bcb5aaac316808c05556f86f0e3d67e0.png" group-title="篮球",维拉斯PV vs 克罗诺斯|完场
@@ -31,6 +27,8 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="拉恩后备队 vs 格伦托兰后备队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f9f7430a332c5ca10760951fe45f3518.png" group-title="足球",拉恩后备队 vs 格伦托兰后备队|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="林菲尔德后备队 vs 卡域克流浪后备队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/c6a3adec3ecf9d76b5f407d9ff6b54e8.png" group-title="足球",林菲尔德后备队 vs 卡域克流浪后备队|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="利马瓦迪后备队 vs 班高U20|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/4414efe833a14151b915cfeef371d6ba.png" group-title="足球",利马瓦迪后备队 vs 班高U20|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="克鲁萨德后备队 vs 克里夫顿维尔后备队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9e430845860f8e59e4a4596f07f3b6a0.png" group-title="足球",克鲁萨德后备队 vs 克里夫顿维尔后备队|完场
@@ -42,7 +40,7 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="库斯科 vs AD塔尔玛|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/709fd97eaf9a55aa43638746010d287a.png" group-title="足球",库斯科 vs AD塔尔玛|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="莫克瓜 vs 格劳竞技|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/19be19d979fd79bf0a2e6a78dfdadc4c.png" group-title="足球",莫克瓜 vs 格劳竞技|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4550748.m3u8?auth_key=1794867199-0-0-34b2b9ddd76a9ac029af52ca774eb352
+https://pullgz721.qmuiw.com/live/sd-1-4550748.m3u8?auth_key=1794867512-0-0-77b4b14f26923e1fd513a14f9a004c18
 #EXTINF:-1 tvg-name="乌伦代大学 vs 阿雷迪卡|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/981fb7a07642678679c4c56163afece2.png" group-title="篮球",乌伦代大学 vs 阿雷迪卡|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="圣荷塞 vs 摩日达斯克鲁济斯|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4f8ab1cca77a4214895224deba4560fb.png" group-title="篮球",圣荷塞 vs 摩日达斯克鲁济斯|未开赛
@@ -62,4 +60,8 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="福尔摩莎 vs 奥利瓦独立|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f79ca781f220f47c2614f02c53c0a240.png" group-title="篮球",福尔摩莎 vs 奥利瓦独立|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="俄亥俄州立大学 vs 普雷里维尤农工大学|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2fcadd7cf8b59d61079b6f45dfa99280.png" group-title="篮球",俄亥俄州立大学 vs 普雷里维尤农工大学|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="马提尼克 vs 阿鲁巴|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9c1e473b3565e19fcd0cf111b3a166be.png" group-title="足球",马提尼克 vs 阿鲁巴|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="特立尼达和多巴哥 vs 安提瓜和巴布达|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b0ed3d45b1112c013f3e2ae5fac68a64.png" group-title="足球",特立尼达和多巴哥 vs 安提瓜和巴布达|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
