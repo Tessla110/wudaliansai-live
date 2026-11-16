@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="帕拉尔米拿罗斯 vs 阿瓜斯卡连特斯公鸡|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/80a1520cb56fc2adeb8c501d143a41f8.png" group-title="篮球",帕拉尔米拿罗斯 vs 阿瓜斯卡连特斯公鸡|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="托卢卡女足 vs 墨西哥美洲女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/680f427a2bc69ae676240a60d8aa2bdb.png" group-title="足球",托卢卡女足 vs 墨西哥美洲女足|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="圣迭戈国际FC vs 圣地亚哥都市|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0694c2cf98b5f2a31ee0bc515427a160.png" group-title="足球",圣迭戈国际FC vs 圣地亚哥都市|完场
@@ -31,6 +29,8 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="唐加穆斯县队 vs 佩萨瓦兰县队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/702c9eec9109db7064701e729d2d050f.png" group-title="足球",唐加穆斯县队 vs 佩萨瓦兰县队|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="布卡 vs 塔什干家庭|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/5e2c2d97c16b3a043228b877bde0a993.png" group-title="足球",布卡 vs 塔什干家庭|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="圣贝达红狮 vs UPHSD阿尔塔斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c927fdb4f201b8973d4a0995f62b0ae2.png" group-title="篮球",圣贝达红狮 vs UPHSD阿尔塔斯|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="MVP篮球U21 vs 宾内卡梭罗U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/e040beca5858a3ce41a9ad2d840c47eb.png" group-title="篮球",MVP篮球U21 vs 宾内卡梭罗U21|完场
@@ -40,12 +40,14 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="阿图什米拉瑟口腔 vs 深喀亿考营喀|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/82e8d10a702e422abf88d50e11da801f.png" group-title="足球",阿图什米拉瑟口腔 vs 深喀亿考营喀|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="FA共和国B队 vs 塔什干棉农U19|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b753ba4d7bb10a72d2ab7dd5539acfc0.png" group-title="足球",FA共和国B队 vs 塔什干棉农U19|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4669868.m3u8?auth_key=1794820288-0-0-17e0e6f01afd08a6a6a40259712ce3f0
+https://pullgz721.qmuiw.com/live/sd-1-4669868.m3u8?auth_key=1794820934-0-0-629462182c738e70aa2761691b7ef14a
 #EXTINF:-1 tvg-name="卡纳塔卡启动 vs 马德拉斯工兵|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/90d20fe07b1480e7d6c2ee39bbb89d80.png" group-title="足球",卡纳塔卡启动 vs 马德拉斯工兵|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4667229.m3u8?auth_key=1794820288-0-0-db05e9d2b845e03c08b7da126bc852d1
+https://pullgz721.qmuiw.com/live/sd-1-4667229.m3u8?auth_key=1794820934-0-0-eaf5186d3ccce7fe137c50aae67d3a35
 #EXTINF:-1 tvg-name="掸联U20 vs 伊斯佩U20|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/c2239b16c6ef2d4efeefe8970071e8b9.png" group-title="足球",掸联U20 vs 伊斯佩U20|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4669412.m3u8?auth_key=1794820288-0-0-f371c3740a623351bc9c7252058d970f
-#EXTINF:-1 tvg-name="JRU重型轰炸机 vs 阿雷利亚诺大学酋长|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1d07c02ab99c2b6cb790cf8d265fedc9.png" group-title="篮球",JRU重型轰炸机 vs 阿雷利亚诺大学酋长|未开赛
+https://pullgz721.qmuiw.com/live/sd-1-4669412.m3u8?auth_key=1794820934-0-0-f6074e4198227ec83c24689c2330281b
+#EXTINF:-1 tvg-name="马哈尔SC vs 塞伊拉萨普|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/70be6ec3352e7a56b1d0445f46251c9d.png" group-title="足球",马哈尔SC vs 塞伊拉萨普|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="迪纳兹维什哥罗德 vs 布拉茨拉夫文尼察|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/94381b0a96ec418599c237b8a1e77295.png" group-title="足球",迪纳兹维什哥罗德 vs 布拉茨拉夫文尼察|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="永恒篮球会U21 vs 卡克拉萨克蒂BC U21|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/41e7b23bec26d7f427a56c9dacaae78a.png" group-title="篮球",永恒篮球会U21 vs 卡克拉萨克蒂BC U21|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
