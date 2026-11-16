@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="阿尔瓦塞特 vs 塞尔塔B队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a2f731e9147f64082f22b9a561425308.png" group-title="足球",阿尔瓦塞特 vs 塞尔塔B队|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="索伦托卡西奥 vs 摩诺波利|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/488cf4038705fadaf6c7db920782aa89.png" group-title="足球",索伦托卡西奥 vs 摩诺波利|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="直布罗陀 vs 马耳他|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/fcde6e6e0e58cbe7cc60d9b67f5ac244.png" group-title="足球",直布罗陀 vs 马耳他|完场
@@ -42,15 +40,11 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="亚利桑那州立女篮 vs 宾夕法尼亚州立女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d4852bbb4197e5537f4a67b56fa563b2.png" group-title="篮球",亚利桑那州立女篮 vs 宾夕法尼亚州立女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="圣荷塞 vs 摩日达斯克鲁济斯|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4f8ab1cca77a4214895224deba4560fb.png" group-title="篮球",圣荷塞 vs 摩日达斯克鲁济斯|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3939690.m3u8?auth_key=1794870022-0-0-ae58da532ba23aa21460229ab312b336
+https://pullgz721.qmuiw.com/live/sd-2-3939690.m3u8?auth_key=1794870328-0-0-ad0e4faebb2d6aa68aceddbf485b88b4
 #EXTINF:-1 tvg-name="克鲁塞罗 vs 福塔雷萨|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/69fc9596a6d89c251ae27b3d853996eb.png" group-title="篮球",克鲁塞罗 vs 福塔雷萨|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3939734.m3u8?auth_key=1794870022-0-0-655f3a1e4954372b0263c991dcbdd0a1
-#EXTINF:-1 tvg-name="阿帕吉巴斯克女篮 vs 圣安德雷女篮|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c8ba5ab8e6d17d2c81f568df0bbe001b.png" group-title="篮球",阿帕吉巴斯克女篮 vs 圣安德雷女篮|未开赛
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="蒙得维的亚流浪者 vs 尤文提度|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/08ba7292cb615ed5b17fa7636854c43a.png" group-title="足球",蒙得维的亚流浪者 vs 尤文提度|未开赛
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="巴西U20 vs 秘鲁U20|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/de8e38d0a7a9aaad07eaf498703d46d4.png" group-title="足球",巴西U20 vs 秘鲁U20|未开赛
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+https://pullgz721.qmuiw.com/live/sd-2-3939734.m3u8?auth_key=1794870328-0-0-5c5d1fb18d4cedb69c2c853317a86fe8
+#EXTINF:-1 tvg-name="蒙得维的亚流浪者 vs 尤文提度|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/08ba7292cb615ed5b17fa7636854c43a.png" group-title="足球",蒙得维的亚流浪者 vs 尤文提度|视频直播
+https://pullgz721.qmuiw.com/live/sd-1-4666007.m3u8?auth_key=1794870328-0-0-3bb1ec77d5dff182008c4831d316cac8
 #EXTINF:-1 tvg-name="福尔摩莎 vs 奥利瓦独立|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f79ca781f220f47c2614f02c53c0a240.png" group-title="篮球",福尔摩莎 vs 奥利瓦独立|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="贝拉萨特吉女篮 vs 奥布拉斯女篮|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a05bfb0485bd41b9bf70e4d193aabee3.jpg" group-title="篮球",贝拉萨特吉女篮 vs 奥布拉斯女篮|未开赛
@@ -62,4 +56,6 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="马提尼克 vs 阿鲁巴|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9c1e473b3565e19fcd0cf111b3a166be.png" group-title="足球",马提尼克 vs 阿鲁巴|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="特立尼达和多巴哥 vs 安提瓜和巴布达|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b0ed3d45b1112c013f3e2ae5fac68a64.png" group-title="足球",特立尼达和多巴哥 vs 安提瓜和巴布达|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="斯泰森大学 vs 佛罗里达纪念大学|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/548675c629e73aadd212a9a2688618bc.png" group-title="篮球",斯泰森大学 vs 佛罗里达纪念大学|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
