@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="纳米比亚 vs 喀麦隆|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/6af589f5ace66292a7899626b285d8eb.png" group-title="足球",纳米比亚 vs 喀麦隆|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="苏丹 vs 塞内加尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e3614789dadf4b97609b13667f6df7a3.png" group-title="足球",苏丹 vs 塞内加尔|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="马尼埃马联 vs AS黑海豚|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1241ff09368c9f403edd4d769be0391b.png" group-title="足球",马尼埃马联 vs AS黑海豚|完场
@@ -40,18 +38,18 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="智利U20 vs 墨西哥U20|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ad97ab73af2f3c478f4e8cd1efa04a1f.png" group-title="足球",智利U20 vs 墨西哥U20|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="法罗群岛 vs 摩尔多瓦|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/19eeefdc072e675e1be2a9786cfba016.png" group-title="足球",法罗群岛 vs 摩尔多瓦|视频直播
-https://pullgz721.qmuiw.com/live/hd-en-1-4518115.m3u8?auth_key=1794847232-0-0-c4ccfa9929f1b89f443dcb6314b01b14
+https://pullgz721.qmuiw.com/live/hd-en-1-4518115.m3u8?auth_key=1794847536-0-0-ef0b8c6d2231c73bdef66714cdf0747c
 #EXTINF:-1 tvg-name="哈萨克斯坦 vs 斯洛伐克|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ab65328f376fce7ea2b798a04a96a0cc.png" group-title="足球",哈萨克斯坦 vs 斯洛伐克|视频直播
-https://pullgz721.qmuiw.com/live/hd-en-1-4518116.m3u8?auth_key=1794847232-0-0-b4c5be400f1f0e901f7fbd4d935ba964
+https://pullgz721.qmuiw.com/live/hd-en-1-4518116.m3u8?auth_key=1794847536-0-0-ea4e3b39adbe29e1ec5ee28adc0489ec
 #EXTINF:-1 tvg-name="萨马拉女篮 vs 新西伯利亚迪纳摩女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/38134086682da4fa4f4c4aac84d0e049.png" group-title="篮球",萨马拉女篮 vs 新西伯利亚迪纳摩女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="索马里 vs 加纳|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/64a4250dded75fcc7ac237f910e8a54e.jpg" group-title="足球",索马里 vs 加纳|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4642765.m3u8?auth_key=1794847232-0-0-75451b1a0760d603638636c238e783a4
+https://pullgz721.qmuiw.com/live/sd-1-4642765.m3u8?auth_key=1794847536-0-0-8e78d3bcb1ab514b54be079414967948
 #EXTINF:-1 tvg-name="费尔格拉斯U23 vs 雷克索斯U23|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/4e7a14d03963d6f7728504ab7567b22d.png" group-title="足球",费尔格拉斯U23 vs 雷克索斯U23|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4609718.m3u8?auth_key=1794847232-0-0-71eeb4f1af4fe16a1200d62975ead7cb
+https://pullgz721.qmuiw.com/live/sd-1-4609718.m3u8?auth_key=1794847536-0-0-a942fd0cafcfe30ea0553088e9313cce
 #EXTINF:-1 tvg-name="葡萄牙U20 vs 英格兰U20|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/8ad046d0ca227aa6fb50451cced0f42a.png" group-title="足球",葡萄牙U20 vs 英格兰U20|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4625611.m3u8?auth_key=1794847232-0-0-c651806a428ac0d41c3e17ff4088ac1a
+https://pullgz721.qmuiw.com/live/sd-1-4625611.m3u8?auth_key=1794847536-0-0-7d05ff232eafc19e3132dafa5ef9a980
 #EXTINF:-1 tvg-name="厄立特里亚 vs 几内亚|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3ab00908ad736e61fe6e5ed40dcdc57d.png" group-title="足球",厄立特里亚 vs 几内亚|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4642746.m3u8?auth_key=1794847232-0-0-e7c076df3fef8138b6d951b44aeb069b
+https://pullgz721.qmuiw.com/live/sd-1-4642746.m3u8?auth_key=1794847536-0-0-929e6e947bf5d99a28b0122b025a2f8a
 #EXTINF:-1 tvg-name="中非 vs 贝宁|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/8cc2d84aedffe2be1c24c786311292b5.png" group-title="足球",中非 vs 贝宁|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4642752.m3u8?auth_key=1794847232-0-0-8795a0fef5b6a33354ad1808ee3d41dc
+https://pullgz721.qmuiw.com/live/sd-1-4642752.m3u8?auth_key=1794847536-0-0-b03e0e4839e4f660f5a7c33ad5bbf8f2
