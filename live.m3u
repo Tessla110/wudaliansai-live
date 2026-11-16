@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="直布罗陀 vs 马耳他|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/fcde6e6e0e58cbe7cc60d9b67f5ac244.png" group-title="足球",直布罗陀 vs 马耳他|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="德国 vs 荷兰|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/c3eb0fbd35e6085a1f1e8113f5e57fe1.png" group-title="足球",德国 vs 荷兰|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="希腊 vs 塞尔维亚|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/610f2c7d5da683ba1d7cc25878cdab9d.png" group-title="足球",希腊 vs 塞尔维亚|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="瑞士 vs 苏格兰|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f84be480c54f0ff871b91fab14a36b36.png" group-title="足球",瑞士 vs 苏格兰|完场
@@ -39,20 +35,24 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="CD马拉松后备 vs 乔洛马后备队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/443e3860ac5940211a721e1f8018b1c2.png" group-title="足球",CD马拉松后备 vs 乔洛马后备队|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="乌伦代大学 vs 阿雷迪卡|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/981fb7a07642678679c4c56163afece2.png" group-title="篮球",乌伦代大学 vs 阿雷迪卡|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960302.m3u8?auth_key=1794873149-0-0-2cee3ae2b6dc8f043689e54d0b08dc65
+#EXTINF:-1 tvg-name="拉科鲁尼亚科洛尼亚 vs 贝亚维斯塔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b5728797cfde77ebc9710b65ed09599f.png" group-title="足球",拉科鲁尼亚科洛尼亚 vs 贝亚维斯塔|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="拉玛尔女篮 vs 德克萨斯农工康莫斯女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/n4552e379f3055cfbec52b74f94d5ef5e.png" group-title="篮球",拉玛尔女篮 vs 德克萨斯农工康莫斯女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="乌伦代大学 vs 阿雷迪卡|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/981fb7a07642678679c4c56163afece2.png" group-title="篮球",乌伦代大学 vs 阿雷迪卡|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="圣荷塞 vs 摩日达斯克鲁济斯|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4f8ab1cca77a4214895224deba4560fb.png" group-title="篮球",圣荷塞 vs 摩日达斯克鲁济斯|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3939690.m3u8?auth_key=1794873149-0-0-2cfcc89f09495d075481adfad4ff0f6b
+https://pullgz721.qmuiw.com/live/sd-2-3939690.m3u8?auth_key=1794873489-0-0-b1d63756d6218531e12d7fdc9f54867c
 #EXTINF:-1 tvg-name="克鲁塞罗 vs 福塔雷萨|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/69fc9596a6d89c251ae27b3d853996eb.png" group-title="篮球",克鲁塞罗 vs 福塔雷萨|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3939734.m3u8?auth_key=1794873149-0-0-a2558a61787d3eefdfe887468999a49a
+https://pullgz721.qmuiw.com/live/sd-2-3939734.m3u8?auth_key=1794873489-0-0-54b89e4da11e5516b7bce7429a47e0ed
 #EXTINF:-1 tvg-name="巴拉那竞技B队 vs 巴拉纳|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ff405ccb0a26f90be23704103f90f53b.png" group-title="足球",巴拉那竞技B队 vs 巴拉纳|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4669456.m3u8?auth_key=1794873149-0-0-242f416fcdf9cd928fecf8dadeb15774
+https://pullgz721.qmuiw.com/live/sd-1-4669456.m3u8?auth_key=1794873489-0-0-8b6cb13055cb01a5a19c0a90e7f692d8
 #EXTINF:-1 tvg-name="马里兰大学 vs 艾尔康州立大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/n59d683c499917317cbc0b7589beda32a.png" group-title="篮球",马里兰大学 vs 艾尔康州立大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3949347.m3u8?auth_key=1794873149-0-0-62c22816dbba20853bc82e9b3a7f5281
+https://pullgz721.qmuiw.com/live/sd-2-3949347.m3u8?auth_key=1794873489-0-0-af03091fcd40c3ff361e7d658a0d25a4
 #EXTINF:-1 tvg-name="马里兰巴尔的摩分校 vs 艾奥纳学院|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/686608095ea2b59204277c37c88745f5.png" group-title="篮球",马里兰巴尔的摩分校 vs 艾奥纳学院|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3949357.m3u8?auth_key=1794873149-0-0-842c52350b3f8133b45526a64c3579ef
+https://pullgz721.qmuiw.com/live/sd-2-3949357.m3u8?auth_key=1794873489-0-0-d44ee2714ef49981a5fb7e9a20b5c8ee
 #EXTINF:-1 tvg-name="蒙得维的亚流浪者 vs 尤文提度|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/08ba7292cb615ed5b17fa7636854c43a.png" group-title="足球",蒙得维的亚流浪者 vs 尤文提度|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4666007.m3u8?auth_key=1794873149-0-0-f954a604ccc6d40d075ceeec311cd46d
+https://pullgz721.qmuiw.com/live/sd-1-4666007.m3u8?auth_key=1794873489-0-0-4dd87121c80d471d4dc0f3307a7364fa
 #EXTINF:-1 tvg-name="马提尼克 vs 阿鲁巴|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9c1e473b3565e19fcd0cf111b3a166be.png" group-title="足球",马提尼克 vs 阿鲁巴|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="特立尼达和多巴哥 vs 安提瓜和巴布达|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b0ed3d45b1112c013f3e2ae5fac68a64.png" group-title="足球",特立尼达和多巴哥 vs 安提瓜和巴布达|未开赛
@@ -62,4 +62,6 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="宾夕法尼亚 vs 迪沙尔斯|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ae89c3e09033de8341a422dbe4b7ba14.png" group-title="篮球",宾夕法尼亚 vs 迪沙尔斯|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="阿尔巴尼女篮 vs 罗格斯大学女篮|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/732d34112b4d4fe9853b741d830fdb18.png" group-title="篮球",阿尔巴尼女篮 vs 罗格斯大学女篮|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="罗萨里奥 vs 基尔梅斯|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/53d65ee17caed44eb4498028786d15eb.png" group-title="篮球",罗萨里奥 vs 基尔梅斯|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
