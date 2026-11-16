@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="山西竹叶青酒女篮 vs 合肥文旅女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3afdfda57ca6ef4d3d875f098902f58f.png" group-title="篮球",山西竹叶青酒女篮 vs 合肥文旅女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="江苏南钢女篮 vs 石家庄英励女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/31cb7287295a89750e0489d65325d7e4.png" group-title="篮球",江苏南钢女篮 vs 石家庄英励女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="埃斯兰沙尔 vs 塞柏|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0c237d7ded53d1e0993c98e6742bdb31.png" group-title="足球",埃斯兰沙尔 vs 塞柏|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="比萨克尔曼沙 vs 卡拉戈斯塔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f10b27b256ab3ea44e48ff8d138fa29a.png" group-title="足球",比萨克尔曼沙 vs 卡拉戈斯塔|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="拉夫桑贾 vs 沙辛班达尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/8ea1ee5f7a99987e29e3f4e158c7724a.png" group-title="足球",拉夫桑贾 vs 沙辛班达尔|完场
@@ -39,13 +33,19 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="九龙城U22 vs 高力北区U22|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/8719e1fc1217c8358bf41673ea08d5b5.png" group-title="足球",九龙城U22 vs 高力北区U22|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="纳米比亚 vs 喀麦隆|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/6af589f5ace66292a7899626b285d8eb.png" group-title="足球",纳米比亚 vs 喀麦隆|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4642753.m3u8?auth_key=1794840669-0-0-22af834095451bf6449aae20e93bae22
+#EXTINF:-1 tvg-name="尼法斯丝绸女足 vs 沃莱塔迪查女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/fcbfbc60a3a4349873a65cfed6893e91.png" group-title="足球",尼法斯丝绸女足 vs 沃莱塔迪查女足|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="尼基沃罗 vs 皮尔戈斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/46ce6635894a60830f8fcaeb8fe99a6d.png" group-title="足球",尼基沃罗 vs 皮尔戈斯|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="纳米比亚 vs 喀麦隆|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/6af589f5ace66292a7899626b285d8eb.png" group-title="足球",纳米比亚 vs 喀麦隆|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="苏丹 vs 塞内加尔|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e3614789dadf4b97609b13667f6df7a3.png" group-title="足球",苏丹 vs 塞内加尔|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4642756.m3u8?auth_key=1794840669-0-0-0c75aeea61a4376d47f5d0a13f9166d4
+https://pullgz721.qmuiw.com/live/sd-1-4642756.m3u8?auth_key=1794841003-0-0-601b07617da79c79b6592b3da9cead30
 #EXTINF:-1 tvg-name="意大利U20 vs 瑞士U20|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a4d2049688cd7a4a8cc6473afadcd803.png" group-title="足球",意大利U20 vs 瑞士U20|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4625610.m3u8?auth_key=1794840669-0-0-7c0057c6860af4c6796493929e850f01
+https://pullgz721.qmuiw.com/live/sd-1-4625610.m3u8?auth_key=1794841003-0-0-c60ce985649a23e2fd724ed6e67f3d5c
 #EXTINF:-1 tvg-name="捷克U20 vs 德国U20|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/07b1a326eb37594bebfd90b409e7c47d.png" group-title="足球",捷克U20 vs 德国U20|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4625612.m3u8?auth_key=1794840669-0-0-30679dd9fd1a8e74fc57872f5a44d496
+https://pullgz721.qmuiw.com/live/sd-1-4625612.m3u8?auth_key=1794841003-0-0-eaa9831f3206006e0abcb44162034de6
 #EXTINF:-1 tvg-name="津巴布韦 vs 赤道几内亚|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ebfd14346009563b7dff0d03503d02fb.png" group-title="足球",津巴布韦 vs 赤道几内亚|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4642764.m3u8?auth_key=1794840669-0-0-b9f6fafbdc622ea89e8946a438d5db43
+https://pullgz721.qmuiw.com/live/sd-1-4642764.m3u8?auth_key=1794841003-0-0-febc961fbb041c0fde4ddcdce6042599
+#EXTINF:-1 tvg-name="安佩姆达科阿女足 vs FC萨凡纳女足|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1be2bd13926bd7e7a277f48dd8e4326f.png" group-title="足球",安佩姆达科阿女足 vs FC萨凡纳女足|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
