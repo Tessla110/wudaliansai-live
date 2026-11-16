@@ -39,14 +39,12 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="托卢卡女足 vs 墨西哥美洲女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/680f427a2bc69ae676240a60d8aa2bdb.png" group-title="足球",托卢卡女足 vs 墨西哥美洲女足|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="圣迭戈国际足球俱乐部 vs 圣地亚哥都市|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0694c2cf98b5f2a31ee0bc515427a160.png" group-title="足球",圣迭戈国际足球俱乐部 vs 圣地亚哥都市|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4669731.m3u8?auth_key=1794807669-0-0-d5a6a7757f58e62fd2c465d87b7e339e
+#EXTINF:-1 tvg-name="圣迭戈国际FC vs 圣地亚哥都市|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0694c2cf98b5f2a31ee0bc515427a160.png" group-title="足球",圣迭戈国际FC vs 圣地亚哥都市|视频直播
+https://pullgz721.qmuiw.com/live/sd-1-4669731.m3u8?auth_key=1794807975-0-0-de82ad0519fea187cce08a6f96adf8a4
 #EXTINF:-1 tvg-name="游牧民族SC vs 门徒|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ccabac249c3eee42a3e28ce60b14e4c6.png" group-title="足球",游牧民族SC vs 门徒|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4669733.m3u8?auth_key=1794807669-0-0-371c2c51c0d235e05d91a485a8263911
+https://pullgz721.qmuiw.com/live/sd-1-4669733.m3u8?auth_key=1794807975-0-0-a3a5a2ce89ef55b43575a551787658ee
 #EXTINF:-1 tvg-name="韩南大学 vs 松湖大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f7ae4fee70fbbd32c1d177bafadaa3e8.png" group-title="足球",韩南大学 vs 松湖大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4669794.m3u8?auth_key=1794807669-0-0-d2f9654224bdae27d6cc0bbdada1ad49
-#EXTINF:-1 tvg-name="加尔瓦尔英雄U21 vs 拉贾斯坦联合U21|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/43f00fff4f83f1d975818cc6e10fec3b.png" group-title="足球",加尔瓦尔英雄U21 vs 拉贾斯坦联合U21|未开赛
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+https://pullgz721.qmuiw.com/live/sd-1-4669794.m3u8?auth_key=1794807975-0-0-c3bc62adee03d25b734dc0abeab4a39a
 #EXTINF:-1 tvg-name="大阪钢巴U21 vs 清水心跳U21|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ab99cd748cc00908ebfc02d4ef0aee1d.png" group-title="足球",大阪钢巴U21 vs 清水心跳U21|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="马沃莱SC U21 vs 里斯SCU21|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/37684ac9ee81731339a9c20f26a8a3e1.png" group-title="足球",马沃莱SC U21 vs 里斯SCU21|未开赛
@@ -74,4 +72,6 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="伊尼胡列斯 vs 普罗比霍洛登卡|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0f136ac0300a9cd9d27ff0a5c7b6f2a7.png" group-title="足球",伊尼胡列斯 vs 普罗比霍洛登卡|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="永恒篮球会U21 vs 卡克拉萨克蒂BC U21|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/41e7b23bec26d7f427a56c9dacaae78a.png" group-title="篮球",永恒篮球会U21 vs 卡克拉萨克蒂BC U21|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="苏德瓦德里U21 vs 德里体育会U21|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a551964647a55389bdcf0a1daf58be72.png" group-title="足球",苏德瓦德里U21 vs 德里体育会U21|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
