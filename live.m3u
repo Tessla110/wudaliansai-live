@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="喀什云网教育懂球哥 vs 塔城地区乌苏市|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1fcdf8442ec1e5bba7577df235ef0c5e.png" group-title="足球",喀什云网教育懂球哥 vs 塔城地区乌苏市|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="东京电击 vs 神户鹳鸟|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/89b38d35baabff51bf0bee892f9df289.png" group-title="篮球",东京电击 vs 神户鹳鸟|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="横滨海盗 vs 川崎雷霆勇者|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0a84ca1946994fa91f8c159bf040b54f.png" group-title="篮球",横滨海盗 vs 川崎雷霆勇者|完场
@@ -16,7 +14,7 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="千叶喷射机 vs 三远新凤凰|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/78966bd85f23715c200e909acd4f2780.png" group-title="篮球",千叶喷射机 vs 三远新凤凰|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="琉球黄金帝王 vs 富山松鸡|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2f50bb1376a9bac9e8f23f0d0a0cfc6b.png" group-title="篮球",琉球黄金帝王 vs 富山松鸡|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3934282.m3u8?auth_key=1794834360-0-0-77ebea1bfcc756727b026fd18418203c
+https://pullgz721.qmuiw.com/live/sd-2-3934282.m3u8?auth_key=1794834720-0-0-0649f3cdcefe4f586a6c11ae8e043721
 #EXTINF:-1 tvg-name="理文U22 vs 冠忠南区U22|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9cb0f7b1025943e3788e5c92b63ad521.png" group-title="足球",理文U22 vs 冠忠南区U22|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="罗拉匹U19 vs KF拉米兹萨迪库U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/573679af1b9847e0b33108db0f51caf6.png" group-title="足球",罗拉匹U19 vs KF拉米兹萨迪库U19|完场
@@ -44,10 +42,12 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="乌兹别克斯坦U20 vs 委内瑞拉U20|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/8f8be6830389f2cfb642c66187b0db54.png" group-title="足球",乌兹别克斯坦U20 vs 委内瑞拉U20|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="山西竹叶青酒女篮 vs 合肥文旅女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3afdfda57ca6ef4d3d875f098902f58f.png" group-title="篮球",山西竹叶青酒女篮 vs 合肥文旅女篮|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3958887.m3u8?auth_key=1794834360-0-0-dbfb9670490ae5a2d785cc7d73a8fcd5
+https://pullgz721.qmuiw.com/live/hd-zh-2-3958887.m3u8?auth_key=1794834720-0-0-219b89dbf6c903fb430a38d43be8a7ec
 #EXTINF:-1 tvg-name="江苏南钢女篮 vs 石家庄英励女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/31cb7287295a89750e0489d65325d7e4.png" group-title="篮球",江苏南钢女篮 vs 石家庄英励女篮|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3958888.m3u8?auth_key=1794834360-0-0-2679d034c7d15e9d80c6b70b9a043923
+https://pullgz721.qmuiw.com/live/hd-zh-2-3958888.m3u8?auth_key=1794834720-0-0-f107468b83628b7aa42de9b69d0c17bc
 #EXTINF:-1 tvg-name="博尔1919 vs 塞门德里亚1924|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/83f08380c7ca9df5cf05fe86f423ca34.png" group-title="足球",博尔1919 vs 塞门德里亚1924|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4603471.m3u8?auth_key=1794834360-0-0-c4f51dd2e66c7bda301f3b84962eb18b
+https://pullgz721.qmuiw.com/live/sd-1-4603471.m3u8?auth_key=1794834720-0-0-f63b8e00b365b99695c8b1cde3e37844
 #EXTINF:-1 tvg-name="泛伊奥尼亚人 vs 奥林比亚科斯B队|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/be7ce791aab898f16c79bce9f0b9ff89.png" group-title="足球",泛伊奥尼亚人 vs 奥林比亚科斯B队|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4633190.m3u8?auth_key=1794834360-0-0-a11deaebd40f9910288b32e1e7b4b3fa
+https://pullgz721.qmuiw.com/live/sd-1-4633190.m3u8?auth_key=1794834720-0-0-a4c3f6598bf6f5824a9a139a2a46c54f
+#EXTINF:-1 tvg-name="麦德林 vs 莫利诺维乔|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ab40dcb6430e07e0a451e5b581dcf348.jfif" group-title="足球",麦德林 vs 莫利诺维乔|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
