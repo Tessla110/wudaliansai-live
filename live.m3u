@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="明尼苏达大学 vs 西伊利诺大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/5f5da779e2b6d7338175cd6600d3e886.png" group-title="篮球",明尼苏达大学 vs 西伊利诺大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="密苏里州立大学 vs 阿比利基督大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/085c3e9138e24937b40356cdd1751ff8.png" group-title="篮球",密苏里州立大学 vs 阿比利基督大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="西北大学 vs 哥伦比亚大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7443032d34dd4fdbb273e6eff2063887.png" group-title="篮球",西北大学 vs 哥伦比亚大学|完场
@@ -37,8 +35,8 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="加州圣玛丽大学 vs 波特兰州立大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3f23c2d4ed0305800353a8799c2a4830.png" group-title="篮球",加州圣玛丽大学 vs 波特兰州立大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="加州大学圣地亚哥分校 vs 得克萨斯南方大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/70f29e59dd2e4397b7dd19c6e36622af.png" group-title="篮球",加州大学圣地亚哥分校 vs 得克萨斯南方大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3949360.m3u8?auth_key=1794892173-0-0-1e5b1ad32b0a3deda5e3993cd8bbaeea
+#EXTINF:-1 tvg-name="加州大学圣地亚哥分校 vs 得克萨斯南方大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/70f29e59dd2e4397b7dd19c6e36622af.png" group-title="篮球",加州大学圣地亚哥分校 vs 得克萨斯南方大学|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="丹佛大学 vs 科罗拉多大学斯普林司分校|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ac9ac334d5702ff218024418ba6bd1a7.png" group-title="篮球",丹佛大学 vs 科罗拉多大学斯普林司分校|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="加州大学洛杉矶分校 vs 加州州立大学长滩分校|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/62e12b53d02bfa060c0cba50b87cf948.png" group-title="篮球",加州大学洛杉矶分校 vs 加州州立大学长滩分校|完场
@@ -80,4 +78,6 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="北村联合体育 vs 加尔各答港|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b3b60efc700e68ff2a923109b1c0f799.png" group-title="足球",北村联合体育 vs 加尔各答港|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="佩西科塔斯努桑达 vs 北干巴鲁联|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/7d8f86283ac0f2e32c3dee3389ade586.png" group-title="足球",佩西科塔斯努桑达 vs 北干巴鲁联|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="喀布尔特加 vs 波斯科塔格朗|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d0c31b1b1c7585e54d27f55adef891c7.jpg" group-title="足球",喀布尔特加 vs 波斯科塔格朗|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
