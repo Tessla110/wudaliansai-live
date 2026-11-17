@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="新墨西哥联 vs 萨克拉门托|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/bced686ea9d08190520be6eaaa6edf0b.png" group-title="足球",新墨西哥联 vs 萨克拉门托|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="伊拉普阿托 vs 塞拉亚|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e5bc70fc82f74014255854546adc3b90.png" group-title="足球",伊拉普阿托 vs 塞拉亚|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="太空人 vs 太阳|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3570376dc486d7d2f5686a88c72ed25c.png" group-title="篮球",太空人 vs 太阳|完场
@@ -40,18 +38,22 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="阿克苏益民 vs 伊宁县居合尔阿依|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/2b21b6cd08891a06ac0ad7a2ed89a160.png" group-title="足球",阿克苏益民 vs 伊宁县居合尔阿依|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="巴勒斯坦U17 vs 印度U17|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/c656e78a66f572791fa22a3bf0d6d6cc.png" group-title="足球",巴勒斯坦U17 vs 印度U17|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4638972.m3u8?auth_key=1794907170-0-0-3de91229814ff99fa2b348e970cc24a2
+https://pullgz721.qmuiw.com/live/sd-1-4638972.m3u8?auth_key=1794907473-0-0-d787799f0ba916da392217467304b6a6
+#EXTINF:-1 tvg-name="塔吉克斯坦U19 vs 越南U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/41f3aa3ae28eae59b37560400d5896cb.png" group-title="足球",塔吉克斯坦U19 vs 越南U19|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="斯图拉德 vs 班加罗尔城|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ea6e7468642b0b6e9f46c23b50a929e4.png" group-title="足球",斯图拉德 vs 班加罗尔城|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4667424.m3u8?auth_key=1794907170-0-0-ab46185e8b17571cf46917fb46693492
+https://pullgz721.qmuiw.com/live/sd-1-4667424.m3u8?auth_key=1794907473-0-0-1bc429761b368f4c0f5dde956d48d76f
 #EXTINF:-1 tvg-name="阿德莱德闪电女篮 vs 吉朗毒液女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d08a111d5ed37a380093202fd5a277ff.png" group-title="篮球",阿德莱德闪电女篮 vs 吉朗毒液女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3925784.m3u8?auth_key=1794907170-0-0-1dbf6bd79fd8111c9a44e49c072860ae
+https://pullgz721.qmuiw.com/live/sd-2-3925784.m3u8?auth_key=1794907473-0-0-aac8ecfa7f371e1dee1a803df60b6107
 #EXTINF:-1 tvg-name="伊拉克U17 vs 马尔代夫U17|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/aab09beb07d507239dd3a6e5656e9078.png" group-title="足球",伊拉克U17 vs 马尔代夫U17|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4638941.m3u8?auth_key=1794907170-0-0-471b0fc125e8663a394971c4902cf519
+https://pullgz721.qmuiw.com/live/sd-1-4638941.m3u8?auth_key=1794907473-0-0-f975e40dcc2a964ceddd901d8be59b8a
 #EXTINF:-1 tvg-name="格勒斯克联 vs 波斯荣耀|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/cf874342c7bd44f351c9d502674f94b8.png" group-title="足球",格勒斯克联 vs 波斯荣耀|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4669896.m3u8?auth_key=1794907170-0-0-600f0f367b378c853dc45dd5afd22fd8
+https://pullgz721.qmuiw.com/live/sd-1-4669896.m3u8?auth_key=1794907473-0-0-93b0ab1f97715e042990ea7a51a2a4de
 #EXTINF:-1 tvg-name="波斯帕蒂 vs 班图尔|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9eeb1f0741abb7dc4116dd09b6dcf981.png" group-title="足球",波斯帕蒂 vs 班图尔|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4669901.m3u8?auth_key=1794907170-0-0-b31a43e453c1c61c59c6c52677cde796
+https://pullgz721.qmuiw.com/live/sd-1-4669901.m3u8?auth_key=1794907473-0-0-a82467c502dc51891c2eb487db470408
 #EXTINF:-1 tvg-name="文莱 vs 阿曼|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e44e66bf7fb85855202beba3e1c46a34.png" group-title="足球",文莱 vs 阿曼|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4669400.m3u8?auth_key=1794907170-0-0-0b1c7b55be970496a796242d9a3a7f36
+https://pullgz721.qmuiw.com/live/sd-1-4669400.m3u8?auth_key=1794907473-0-0-0fa2291b1aee00cecb3fe726289537d7
 #EXTINF:-1 tvg-name="EAC将军 vs CSB开拓者|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0594676a76dc417a8a94ecb81fc1e593.png" group-title="篮球",EAC将军 vs CSB开拓者|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="K-星 vs 唐山|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8bbca60e87494478a068f8ea74d24f33.png" group-title="篮球",K-星 vs 唐山|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
