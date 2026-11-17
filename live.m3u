@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="北马其顿 vs 斯洛文尼亚|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/78e57b771bb363598680a056a7d26c0a.png" group-title="足球",北马其顿 vs 斯洛文尼亚|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="佩鲁贾 vs 托里斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9b7fc379f630acc2c9d58391e0ec3707.png" group-title="足球",佩鲁贾 vs 托里斯|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="拉恩后备队 vs 格伦托兰后备队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f9f7430a332c5ca10760951fe45f3518.png" group-title="足球",拉恩后备队 vs 格伦托兰后备队|完场
@@ -42,16 +40,18 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="圣荷塞 vs 摩日达斯克鲁济斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4f8ab1cca77a4214895224deba4560fb.png" group-title="篮球",圣荷塞 vs 摩日达斯克鲁济斯|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="克鲁塞罗 vs 福塔雷萨|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/69fc9596a6d89c251ae27b3d853996eb.png" group-title="篮球",克鲁塞罗 vs 福塔雷萨|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3939734.m3u8?auth_key=1794874459-0-0-3cf03a98290ca26f679c66396f1c00d8
+https://pullgz721.qmuiw.com/live/sd-2-3939734.m3u8?auth_key=1794874798-0-0-2820745ca2aa39c4945be5984b74120e
 #EXTINF:-1 tvg-name="巴拉那竞技B队 vs 巴拉纳|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ff405ccb0a26f90be23704103f90f53b.png" group-title="足球",巴拉那竞技B队 vs 巴拉纳|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4669456.m3u8?auth_key=1794874459-0-0-0d97fe9cc4fdc3dba066eb4f08681c14
+https://pullgz721.qmuiw.com/live/sd-1-4669456.m3u8?auth_key=1794874798-0-0-0573ac1ab9ce0e9790cc9dd46441d4c4
 #EXTINF:-1 tvg-name="马里兰大学 vs 艾尔康州立大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/n59d683c499917317cbc0b7589beda32a.png" group-title="篮球",马里兰大学 vs 艾尔康州立大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3949347.m3u8?auth_key=1794874459-0-0-9b016125edc7fab834a987f6ce23cd9d
+https://pullgz721.qmuiw.com/live/sd-2-3949347.m3u8?auth_key=1794874798-0-0-6992998d8fad64004d6cdb2c194a1469
 #EXTINF:-1 tvg-name="马里兰巴尔的摩分校 vs 艾奥纳学院|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/686608095ea2b59204277c37c88745f5.png" group-title="篮球",马里兰巴尔的摩分校 vs 艾奥纳学院|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3949357.m3u8?auth_key=1794874459-0-0-4000ae66dd25b164b8fd4fcd873e83e2
+https://pullgz721.qmuiw.com/live/sd-2-3949357.m3u8?auth_key=1794874798-0-0-ff02d6f352607bbf32c5e543d46c65b8
+#EXTINF:-1 tvg-name="蒙得维的亚流浪者 vs 尤文提度|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/08ba7292cb615ed5b17fa7636854c43a.png" group-title="足球",蒙得维的亚流浪者 vs 尤文提度|视频直播
+https://pullgz721.qmuiw.com/live/sd-1-4666007.m3u8?auth_key=1794874798-0-0-9b45eb65cbea15a7d3e52caa987670d0
 #EXTINF:-1 tvg-name="巴西U20 vs 秘鲁U20|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/de8e38d0a7a9aaad07eaf498703d46d4.png" group-title="足球",巴西U20 vs 秘鲁U20|视频直播
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+https://pullgz721.qmuiw.com/live/sd-1-4667178.m3u8?auth_key=1794874798-0-0-6165a52c3de26bd141591b79e67730ab
 #EXTINF:-1 tvg-name="马提尼克 vs 阿鲁巴|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9c1e473b3565e19fcd0cf111b3a166be.png" group-title="足球",马提尼克 vs 阿鲁巴|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4668654.m3u8?auth_key=1794874459-0-0-d30fd35327a52e1ae8b23ae0a946c7b1
+https://pullgz721.qmuiw.com/live/sd-1-4668654.m3u8?auth_key=1794874798-0-0-9604f248ead675431e175c5c327d28c3
 #EXTINF:-1 tvg-name="特立尼达和多巴哥 vs 安提瓜和巴布达|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b0ed3d45b1112c013f3e2ae5fac68a64.png" group-title="足球",特立尼达和多巴哥 vs 安提瓜和巴布达|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4668655.m3u8?auth_key=1794874459-0-0-23e9d7ee18eaf58b2cb622d7f64f3b23
+https://pullgz721.qmuiw.com/live/sd-1-4668655.m3u8?auth_key=1794874798-0-0-b8edc63384417bab368bd84c98b62cbe
