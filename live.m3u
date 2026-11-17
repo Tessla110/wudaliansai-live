@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="得州农工大学 vs 东南路易斯安纳大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/n799bf997bdeb8f96fe671db2eb19abe8.png" group-title="篮球",得州农工大学 vs 东南路易斯安纳大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="路易斯安那门罗大学 vs 达拉斯基督|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4510d6fc592c9a329237b4edbea6134a.png" group-title="篮球",路易斯安那门罗大学 vs 达拉斯基督|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="山谷太阳 vs 盐湖城之星|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c5779f4bf20ec2b3cbd0c3805aa6466c.png" group-title="篮球",山谷太阳 vs 盐湖城之星|完场
@@ -40,18 +38,18 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="也门 vs 马来西亚|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/423015daae7abff283307125c02c82b1.png" group-title="足球",也门 vs 马来西亚|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="CSJL骑士 vs 玛布亚红雀|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d12bf57e7104c5e8c90c1dd6f71f39fb.png" group-title="篮球",CSJL骑士 vs 玛布亚红雀|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960412.m3u8?auth_key=1794904560-0-0-75a03e34416db598160d3da93ac3909e
+https://pullgz721.qmuiw.com/live/sd-2-3960412.m3u8?auth_key=1794904892-0-0-813a57f31a9ce4d7983a11b1206bdca5
 #EXTINF:-1 tvg-name="阿玛莎杭图U21 vs 斯巴达梦想U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/18fbb4450400daa08b422f02f36cfe9d.png" group-title="篮球",阿玛莎杭图U21 vs 斯巴达梦想U21|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="巴勒斯坦U17 vs 印度U17|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/c656e78a66f572791fa22a3bf0d6d6cc.png" group-title="足球",巴勒斯坦U17 vs 印度U17|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4638972.m3u8?auth_key=1794904560-0-0-04cfe377a111203e33c5bd24b39d0617
+https://pullgz721.qmuiw.com/live/sd-1-4638972.m3u8?auth_key=1794904892-0-0-1636a3939cd92b551d1927c1475dbb95
 #EXTINF:-1 tvg-name="斯图拉德 vs 班加罗尔城|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ea6e7468642b0b6e9f46c23b50a929e4.png" group-title="足球",斯图拉德 vs 班加罗尔城|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4667424.m3u8?auth_key=1794904560-0-0-831218817d07e145c4ae2041cac6bdbe
+https://pullgz721.qmuiw.com/live/sd-1-4667424.m3u8?auth_key=1794904892-0-0-7a18ae749d15f1b84316c57d3fb297aa
 #EXTINF:-1 tvg-name="阿德莱德闪电女篮 vs 吉朗毒液女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d08a111d5ed37a380093202fd5a277ff.png" group-title="篮球",阿德莱德闪电女篮 vs 吉朗毒液女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3925784.m3u8?auth_key=1794904560-0-0-6a008ac28687a5280c8d7a82a050050f
+https://pullgz721.qmuiw.com/live/sd-2-3925784.m3u8?auth_key=1794904892-0-0-7de0f3cc4f07bed2388fd8927b46925d
 #EXTINF:-1 tvg-name="伊拉克U17 vs 马尔代夫U17|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/aab09beb07d507239dd3a6e5656e9078.png" group-title="足球",伊拉克U17 vs 马尔代夫U17|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4638941.m3u8?auth_key=1794904560-0-0-203f953649f67914c6974a9bfafd32c1
-#EXTINF:-1 tvg-name="北村联合体育 vs 加尔各答港|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b3b60efc700e68ff2a923109b1c0f799.png" group-title="足球",北村联合体育 vs 加尔各答港|未开赛
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="华富里市 vs 红统府|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/93553aa9a5f5b6365676ba82ae6af229.png" group-title="足球",华富里市 vs 红统府|未开赛
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+https://pullgz721.qmuiw.com/live/sd-1-4638941.m3u8?auth_key=1794904892-0-0-da245a321f711c21977e7f8293630d1f
+#EXTINF:-1 tvg-name="格勒斯克联 vs 波斯荣耀|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/cf874342c7bd44f351c9d502674f94b8.png" group-title="足球",格勒斯克联 vs 波斯荣耀|视频直播
+https://pullgz721.qmuiw.com/live/sd-1-4669896.m3u8?auth_key=1794904892-0-0-69c4693f2a25e6bda2534257bd3f0d82
+#EXTINF:-1 tvg-name="波斯帕蒂 vs 班图尔|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9eeb1f0741abb7dc4116dd09b6dcf981.png" group-title="足球",波斯帕蒂 vs 班图尔|视频直播
+https://pullgz721.qmuiw.com/live/sd-1-4669901.m3u8?auth_key=1794904892-0-0-27575bbde96f9345fd123b16decdabc1
