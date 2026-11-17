@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="密苏里州立大学 vs 阿比利基督大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/085c3e9138e24937b40356cdd1751ff8.png" group-title="篮球",密苏里州立大学 vs 阿比利基督大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="西北大学 vs 哥伦比亚大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7443032d34dd4fdbb273e6eff2063887.png" group-title="篮球",西北大学 vs 哥伦比亚大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="俄克拉荷马州立大学 vs 中阿肯色大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/082cad31f590fd103bca851b8fb43e09.png" group-title="篮球",俄克拉荷马州立大学 vs 中阿肯色大学|完场
@@ -80,4 +78,6 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="佩西科塔斯努桑达 vs 北干巴鲁联|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/7d8f86283ac0f2e32c3dee3389ade586.png" group-title="足球",佩西科塔斯努桑达 vs 北干巴鲁联|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="喀布尔特加 vs 波斯科塔格朗|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d0c31b1b1c7585e54d27f55adef891c7.jpg" group-title="足球",喀布尔特加 vs 波斯科塔格朗|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="亚当斯联合 vs 巴尔沙SC|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f05a800e4c3a1c0970494d7560d0e843.png" group-title="足球",亚当斯联合 vs 巴尔沙SC|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
