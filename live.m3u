@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="西北大学 vs 哥伦比亚大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7443032d34dd4fdbb273e6eff2063887.png" group-title="篮球",西北大学 vs 哥伦比亚大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="俄克拉荷马州立大学 vs 中阿肯色大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/082cad31f590fd103bca851b8fb43e09.png" group-title="篮球",俄克拉荷马州立大学 vs 中阿肯色大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="比特布尔思 vs AD罗萨里奥|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/41911226032029e7bd96545594ded0fe.png" group-title="足球",比特布尔思 vs AD罗萨里奥|完场
@@ -39,10 +37,12 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="加州大学洛杉矶分校 vs 加州州立大学长滩分校|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/62e12b53d02bfa060c0cba50b87cf948.png" group-title="篮球",加州大学洛杉矶分校 vs 加州州立大学长滩分校|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="台湾师范大学女篮 vs 辅仁大学女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3265fa32cdee33d60f317a5398aec71f.png" group-title="篮球",台湾师范大学女篮 vs 辅仁大学女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="班加罗尔体育会 vs 班加罗尔B队|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1ee43006f3f7ef2e06e94cdc8a869b66.png" group-title="足球",班加罗尔体育会 vs 班加罗尔B队|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4667423.m3u8?auth_key=1794896795-0-0-a35d3c726a318faf3faeeb9fb384a572
+https://pullgz721.qmuiw.com/live/sd-1-4667423.m3u8?auth_key=1794897095-0-0-eb3ce50d5f27667031d069ab69894fdd
 #EXTINF:-1 tvg-name="也门 vs 马来西亚|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/423015daae7abff283307125c02c82b1.png" group-title="足球",也门 vs 马来西亚|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4659374.m3u8?auth_key=1794896795-0-0-94e9063083a5f950918fd82ab0105718
+https://pullgz721.qmuiw.com/live/sd-1-4659374.m3u8?auth_key=1794897095-0-0-22781bb4a634cf5f3009262a75b8c8b2
 #EXTINF:-1 tvg-name="GM体育 vs 密拉特|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0dd362f6536e1c2fde97f7ac73a71092.png" group-title="足球",GM体育 vs 密拉特|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="CSJL骑士 vs 玛布亚红雀|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d12bf57e7104c5e8c90c1dd6f71f39fb.png" group-title="篮球",CSJL骑士 vs 玛布亚红雀|未开赛
