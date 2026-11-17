@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="海关联合 vs 舰队联合|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ee0248aecd8b5c5356739dc7616245c9.png" group-title="足球",海关联合 vs 舰队联合|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="新加坡 vs 巴西|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e79553bfdd702561dbb708971c8b07eb.png" group-title="足球",新加坡 vs 巴西|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="北爱尔兰U17 vs 德国U17|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/8502a8667180b3a3c7763d3fd44d2c1d.png" group-title="足球",北爱尔兰U17 vs 德国U17|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="阿塞拜疆U17 vs 立陶宛U17|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/7bcb404713177ac7c0226542f0d9fa53.png" group-title="足球",阿塞拜疆U17 vs 立陶宛U17|完场
@@ -35,35 +31,41 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="反叛者SC vs 帕里克玛|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/693bac8f9dc6f2ccdb5997d87adbcee7.png" group-title="足球",反叛者SC vs 帕里克玛|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="哈瓦达尔 vs 克尔曼|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/091ddb48197c0fd09b7f549b871ce197.955322" group-title="足球",哈瓦达尔 vs 克尔曼|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="荃湾女篮 vs 七喜女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1d45f64989263765d073c4dfce1b54b0.png" group-title="篮球",荃湾女篮 vs 七喜女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="荷兰U19 vs 克罗地亚U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/7418466766e09d37bed6032187221734.png" group-title="足球",荷兰U19 vs 克罗地亚U19|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="匈牙利U19 vs 捷克U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/6e0087bebf038a2a07952ac9eedf2170.png" group-title="足球",匈牙利U19 vs 捷克U19|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="塞尔维亚U17 vs 葡萄牙U17|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f10a5e3b4d5a80ca57c75b64c06447ad.png" group-title="足球",塞尔维亚U17 vs 葡萄牙U17|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4552867.m3u8?auth_key=1794919771-0-0-589feec0de309d31a055b837182e49f8
-#EXTINF:-1 tvg-name="波兰U19 vs 卢森堡U19|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/729b7d93db45eb5fbd3a82d6767af23f.png" group-title="足球",波兰U19 vs 卢森堡U19|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4666244.m3u8?auth_key=1794919771-0-0-6e0d02544ff4e020ed84cf29eb0bfd55
+https://pullgz721.qmuiw.com/live/sd-1-4552867.m3u8?auth_key=1794920108-0-0-83fef4f6adc45b960d16b2d40b2fd063
+#EXTINF:-1 tvg-name="北马其顿U17 vs 土耳其U17|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/eb42f68108d123f08b48fda984bd3fb5.png" group-title="足球",北马其顿U17 vs 土耳其U17|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="圣马力诺U17 vs 匈牙利U17|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/5d3e36edbfc144d1a4009af826be00e8.png" group-title="足球",圣马力诺U17 vs 匈牙利U17|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="波兰U19 vs 卢森堡U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/729b7d93db45eb5fbd3a82d6767af23f.png" group-title="足球",波兰U19 vs 卢森堡U19|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="维泽拉U23 vs 辛达卡拉U23|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/dc067cd47969d48c3b6001d9350be407.png" group-title="足球",维泽拉U23 vs 辛达卡拉U23|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4609480.m3u8?auth_key=1794919771-0-0-b3b5011a9d7c7f20de23145bde00c594
+https://pullgz721.qmuiw.com/live/sd-1-4609480.m3u8?auth_key=1794920108-0-0-dc3b442c9ffb0d54a327e5da23b2373e
 #EXTINF:-1 tvg-name="四川远达美乐女篮 vs 广东奥普特女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/762193981179bd9e412c2f38d2846449.png" group-title="篮球",四川远达美乐女篮 vs 广东奥普特女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3958889.m3u8?auth_key=1794919771-0-0-7b9e205dcdc1d34e5127bfb554bdd44d
+https://pullgz721.qmuiw.com/live/sd-2-3958889.m3u8?auth_key=1794920108-0-0-0b06cdb14f565b983c8488c121d55e1c
 #EXTINF:-1 tvg-name="武汉盛帆黄鹤女篮 vs 大连文体旅女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c654d3c56f74e62af5ceb3c9fb7451de.png" group-title="篮球",武汉盛帆黄鹤女篮 vs 大连文体旅女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3958890.m3u8?auth_key=1794919771-0-0-727daab62519e90f511bf1b387f0ef64
+https://pullgz721.qmuiw.com/live/sd-2-3958890.m3u8?auth_key=1794920108-0-0-83f633f8aa6ae340683b18ef06c45502
 #EXTINF:-1 tvg-name="山东赤水河酒女篮 vs 新疆天山女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7a5dd1e3f6bffdc47b90bea563134aa2.png" group-title="篮球",山东赤水河酒女篮 vs 新疆天山女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3958891.m3u8?auth_key=1794919771-0-0-b59d076fcda426065914d7e675d1941e
+https://pullgz721.qmuiw.com/live/sd-2-3958891.m3u8?auth_key=1794920108-0-0-757e0ed04122eef6c04aa1c4c799e273
 #EXTINF:-1 tvg-name="上海浦发银行女篮 vs 河南豫光金铅女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c35932bb9740f4d95a0832975f722be5.png" group-title="篮球",上海浦发银行女篮 vs 河南豫光金铅女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3958892.m3u8?auth_key=1794919771-0-0-23eb97932116b55a64dd72ab76e84d9c
+https://pullgz721.qmuiw.com/live/sd-2-3958892.m3u8?auth_key=1794920108-0-0-293efaf811a73cedfd1ce536baab5b6a
+#EXTINF:-1 tvg-name="哈瓦达尔 vs 克尔曼|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/091ddb48197c0fd09b7f549b871ce197.955322" group-title="足球",哈瓦达尔 vs 克尔曼|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="临安 vs 丽水|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/171628627af36f77a99eac5385860cf9.png" group-title="篮球",临安 vs 丽水|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3938992.m3u8?auth_key=1794919771-0-0-71188bff800c5b41c788b36c41ebc68f
+https://pullgz721.qmuiw.com/live/sd-2-3938992.m3u8?auth_key=1794920108-0-0-9db4e4f341463f5d2ff925fe2d388676
 #EXTINF:-1 tvg-name="瑞安 vs 永康|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/58c47ccbdec5b5a1239006fd1f5b48b3.png" group-title="篮球",瑞安 vs 永康|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3938993.m3u8?auth_key=1794919771-0-0-f56ab9cb126d459037df38e95490a51a
+https://pullgz721.qmuiw.com/live/sd-2-3938993.m3u8?auth_key=1794920108-0-0-8f90aeffde75ad921f050d045239956f
 #EXTINF:-1 tvg-name="中国U19 vs 韩国U19|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/27fb155171bf4aefaa173d5193b03e86.png" group-title="足球",中国U19 vs 韩国U19|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-1-4660128.m3u8?auth_key=1794919771-0-0-7ff7d05e639aff8b10e66955bae4d8b2
+https://pullgz721.qmuiw.com/live/hd-zh-1-4660128.m3u8?auth_key=1794920108-0-0-1ed69a0d060fb2232f488b8a366168d2
 #EXTINF:-1 tvg-name="冰岛U19 vs 威尔士U19|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9c99f978ae631814cede1d799b152a17.png" group-title="足球",冰岛U19 vs 威尔士U19|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4665791.m3u8?auth_key=1794919771-0-0-95d0c477e2cef03b7e4f94211fb7762b
+https://pullgz721.qmuiw.com/live/sd-1-4665791.m3u8?auth_key=1794920108-0-0-8609f61ca64f616eb398aee1d8d399de
 #EXTINF:-1 tvg-name="芬兰U19 vs 西班牙U19|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/29bd883b23e4430810a171d0ee075149.png" group-title="足球",芬兰U19 vs 西班牙U19|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4665792.m3u8?auth_key=1794919771-0-0-a1cbe76ff676f7c68383cd3d7e1b25cb
+https://pullgz721.qmuiw.com/live/sd-1-4665792.m3u8?auth_key=1794920108-0-0-e96df0adf4b9dd62677c0ad605b68c97
 #EXTINF:-1 tvg-name="以色列U19 vs 意大利U19|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ea47c4d339df14fc67563085d4b4ea68.png" group-title="足球",以色列U19 vs 意大利U19|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4665795.m3u8?auth_key=1794919771-0-0-bc41ad97900d516621a1bc795adaed1a
+https://pullgz721.qmuiw.com/live/sd-1-4665795.m3u8?auth_key=1794920108-0-0-ff4d57f7f9f4a54ec3f27f907bce34e8
