@@ -1,16 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="爱沙尼亚女篮 vs 罗马尼亚女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c496ea7df489b39ea4356121eb423f76.jpg" group-title="篮球",爱沙尼亚女篮 vs 罗马尼亚女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="摩洛哥U23 vs 埃塞俄比亚U23|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ad9d0348146ff243c310da297a8a0e0f.png" group-title="足球",摩洛哥U23 vs 埃塞俄比亚U23|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="特拉华大学 vs 威尔逊|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0b23d4d68b47712587745402b1fdd57d.png" group-title="篮球",特拉华大学 vs 威尔逊|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="俄罗斯 vs 委内瑞拉|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/fe3068bbe94dd5f423e9b9a6135d8c40.png" group-title="足球",俄罗斯 vs 委内瑞拉|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="奥林比查女足 vs ZNK卢布尔女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9d51c6f17710cb5085cbe47825eb4366.png" group-title="足球",奥林比查女足 vs ZNK卢布尔女足|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="斯普利特海杜克B队 vs 卡斯特尔苏鲁克|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/fe26eea9c4981b37892ae73e5978917c.png" group-title="足球",斯普利特海杜克B队 vs 卡斯特尔苏鲁克|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="北佛罗里达女篮 vs 中佛罗里达女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ffc91c51c542e4c52e8a1ee2c930714d.png" group-title="篮球",北佛罗里达女篮 vs 中佛罗里达女篮|完场
@@ -31,8 +21,8 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="波兰女篮 vs 土耳其女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/98611e55c88d023d06d0b3b544ccfd7c.png" group-title="篮球",波兰女篮 vs 土耳其女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="迪拜 vs 安纳托利亚艾菲斯|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b7ceee3b48fa0f0bcf1a705348539cbb.png" group-title="篮球",迪拜 vs 安纳托利亚艾菲斯|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3926841.m3u8?auth_key=1794938830-0-0-bf2c2a2ed33a41aa68fecb2f2bb017d2
+#EXTINF:-1 tvg-name="迪拜 vs 安纳托利亚艾菲斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b7ceee3b48fa0f0bcf1a705348539cbb.png" group-title="篮球",迪拜 vs 安纳托利亚艾菲斯|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="汽车城邮轮 vs 大急流城黄金|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/fc13ae4523cc94e1b89422275851ea34.png" group-title="篮球",汽车城邮轮 vs 大急流城黄金|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="几内亚U23 vs 博茨瓦纳U23|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/961ea52d676e4846d0de830391e2d1d1.png" group-title="足球",几内亚U23 vs 博茨瓦纳U23|完场
@@ -46,16 +36,22 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="科威特U17 vs 文莱U17|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d35cc24a704054dcde598f050d46fa1d.png" group-title="足球",科威特U17 vs 文莱U17|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="利比亚 vs 突尼斯|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/2dfdbd485122a079a38985b286ba3ef2.png" group-title="足球",利比亚 vs 突尼斯|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4642762.m3u8?auth_key=1794938830-0-0-ac367e2815ae2ca2e73edde60fef0b6a
-#EXTINF:-1 tvg-name="捷克女篮 vs 保加利亚女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/11418ef6648aa43fdd8df9e41d36638e.png" group-title="篮球",捷克女篮 vs 保加利亚女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3957863.m3u8?auth_key=1794938830-0-0-7bb5d4b9235d3c23a228abcba902058a
-#EXTINF:-1 tvg-name="伊拉克 vs 伊朗|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/85eba6905189dba3b9de6342ede53150.png" group-title="足球",伊拉克 vs 伊朗|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4667183.m3u8?auth_key=1794938830-0-0-5abbd6d865924afb9596202b794510a5
-#EXTINF:-1 tvg-name="科威特 vs 洪都拉斯|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/501402ebbaa8555329c25b52fe79ecb2.png" group-title="足球",科威特 vs 洪都拉斯|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4663051.m3u8?auth_key=1794938830-0-0-0385ba7c020610d008bfb4e4146034e9
+https://pullgz721.qmuiw.com/live/sd-1-4642762.m3u8?auth_key=1794939161-0-0-ad13900a58b93b3e63003ef574afa922
+#EXTINF:-1 tvg-name="捷克女篮 vs 保加利亚女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/11418ef6648aa43fdd8df9e41d36638e.png" group-title="篮球",捷克女篮 vs 保加利亚女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="伊拉克 vs 伊朗|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/85eba6905189dba3b9de6342ede53150.png" group-title="足球",伊拉克 vs 伊朗|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="土耳其电信 vs 特内里费|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4020fad7d6e6f9272cd6630a3fe4f450.png" group-title="篮球",土耳其电信 vs 特内里费|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3957993.m3u8?auth_key=1794938830-0-0-28a41767365396a38a14e2c5f6c81f22
+https://pullgz721.qmuiw.com/live/sd-2-3957993.m3u8?auth_key=1794939161-0-0-72cd0b085e22bac1f7733a439fccf3a5
 #EXTINF:-1 tvg-name="克罗地亚U21 vs 德国U21|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/58a6e0447e37200bdc22b77e4ce9764b.crdownload" group-title="足球",克罗地亚U21 vs 德国U21|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4663055.m3u8?auth_key=1794938830-0-0-9fafe7d95e23ce3ec5a9734499e02bac
+https://pullgz721.qmuiw.com/live/sd-1-4663055.m3u8?auth_key=1794939161-0-0-1a2c438da54cea51ba675938536454c1
 #EXTINF:-1 tvg-name="塞德维塔青年 vs 兹拉蒂博尔|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/139c822b984abf872f85af834a4cba7e.png" group-title="篮球",塞德维塔青年 vs 兹拉蒂博尔|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3930040.m3u8?auth_key=1794938830-0-0-8cd293ff8b1ea2ca786bc24060d13a44
+https://pullgz721.qmuiw.com/live/sd-2-3930040.m3u8?auth_key=1794939161-0-0-22f337428067111027c88e600cd03475
+#EXTINF:-1 tvg-name="斯洛伐克女篮 vs 塞尔维亚女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3bc33c1be7955c5efdbfc3358e238e5e.png" group-title="篮球",斯洛伐克女篮 vs 塞尔维亚女篮|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3957864.m3u8?auth_key=1794939161-0-0-8aace9056ba74765270d84228842b6ec
+#EXTINF:-1 tvg-name="克罗地亚女篮 vs 西班牙女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/e5c264d3b08e6902297c421ca37ef19c.jpg" group-title="篮球",克罗地亚女篮 vs 西班牙女篮|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3957869.m3u8?auth_key=1794939161-0-0-d720b7e520745d602537c8ab61750182
+#EXTINF:-1 tvg-name="拉脱维亚女篮 vs 意大利女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f0bcf63dfe203c6b8389aaf8a67cc4f9.jpg" group-title="篮球",拉脱维亚女篮 vs 意大利女篮|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3957893.m3u8?auth_key=1794939161-0-0-3b616100125832feb8cf0977c3aedded
+#EXTINF:-1 tvg-name="斯洛文尼亚女篮 vs 奥地利女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/807b67c6c10510c453af82b585b7a587.png" group-title="篮球",斯洛文尼亚女篮 vs 奥地利女篮|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3957897.m3u8?auth_key=1794939161-0-0-258e37d0f3834878c5f92c05d1517cc3
