@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="马洛尔 vs 布勒辛FC|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/dbca569bf339d36ba28ef46a3419a695.png" group-title="足球",马洛尔 vs 布勒辛FC|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="圣埃罗伊卢波波 vs 辛巴(DRC)|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3186f8f58754dc4edeea3313e0bae3d9.png" group-title="足球",圣埃罗伊卢波波 vs 辛巴(DRC)|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="姆巴拉拉市 vs 卢加兹市足球俱乐部|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b8a8863fadd065e7a0c28834d53ecfd3.png" group-title="足球",姆巴拉拉市 vs 卢加兹市足球俱乐部|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="彼得堡联U21 vs 博尔顿U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/14e9c69bda35416f9c77010591f21fb4.png" group-title="足球",彼得堡联U21 vs 博尔顿U21|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="班加罗尔联合会 vs 斯雷尼迪FC|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3e4ab507d5b1007d9932d22ac716be74.png" group-title="足球",班加罗尔联合会 vs 斯雷尼迪FC|完场
@@ -39,19 +33,25 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="明斯克迪纳摩B队 vs 波里索夫巴特B队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e9626addec90806fa6d8b291155f8d1e.png" group-title="足球",明斯克迪纳摩B队 vs 波里索夫巴特B队|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="乌拉尔马什 vs 库班火车头|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f700410a0fbec2b3843c995d0a9bd0e0.png" group-title="篮球",乌拉尔马什 vs 库班火车头|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3936384.m3u8?auth_key=1795018757-0-0-94d509fb312c2ecb270f7253b8ec441b
-#EXTINF:-1 tvg-name="哈萨正义 vs 塞卡凯阿拉伯|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/56eaace9b1e134a8a019029f1fbaa0c5.png" group-title="足球",哈萨正义 vs 塞卡凯阿拉伯|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4602050.m3u8?auth_key=1795018757-0-0-ca5e4337d784f30181d095ac43362fb8
+#EXTINF:-1 tvg-name="乌拉尔马什 vs 库班火车头|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f700410a0fbec2b3843c995d0a9bd0e0.png" group-title="篮球",乌拉尔马什 vs 库班火车头|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="哈萨正义 vs 塞卡凯阿拉伯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/56eaace9b1e134a8a019029f1fbaa0c5.png" group-title="足球",哈萨正义 vs 塞卡凯阿拉伯|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="艾尔格纳 vs 亚历山大港联合|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/35e665fa4086e183fda582249d625c2b.png" group-title="足球",艾尔格纳 vs 亚历山大港联合|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4669483.m3u8?auth_key=1795018757-0-0-285e0cc893bb9ab8792f35541b1cda37
+https://pullgz721.qmuiw.com/live/sd-1-4669483.m3u8?auth_key=1795020173-0-0-0adbab5393f357855465d0020c9d0bfc
 #EXTINF:-1 tvg-name="莫尔纳 vs 伏伊伏丁那|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/247cc739c5e54c26b01f9a98a4d3c9f8.png" group-title="篮球",莫尔纳 vs 伏伊伏丁那|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3930033.m3u8?auth_key=1795018757-0-0-0b93a9520b5567d5f28c9a4042886983
+https://pullgz721.qmuiw.com/live/sd-2-3930033.m3u8?auth_key=1795020173-0-0-3189fb4e4421e289c592177a7bc16516
 #EXTINF:-1 tvg-name="杜博西卡 vs 尼什拉德尼基|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/2af31d7d31ede6bdc78d73574aec1751.png" group-title="足球",杜博西卡 vs 尼什拉德尼基|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4658528.m3u8?auth_key=1795018757-0-0-87b5173fe262f1b25cc94ed936b21b71
+https://pullgz721.qmuiw.com/live/sd-1-4658528.m3u8?auth_key=1795020173-0-0-6d16376749780cbbd0a4c97d6aa947ce
 #EXTINF:-1 tvg-name="阿布歇隆狮子 vs HBK普列维萨|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/15fd7c14603e1c75c8666e0e25e18443.png" group-title="篮球",阿布歇隆狮子 vs HBK普列维萨|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3944922.m3u8?auth_key=1795018757-0-0-d6dd3c23637577ee890e4f8ff4a3dbbb
+https://pullgz721.qmuiw.com/live/sd-2-3944922.m3u8?auth_key=1795020173-0-0-800aea1c2ae9463db39cf6b2f2ce1d85
 #EXTINF:-1 tvg-name="巴卡 vs 杰拉什|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/c6ab1000cdf1cf451a95c235150901b0.png" group-title="足球",巴卡 vs 杰拉什|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4667828.m3u8?auth_key=1795018757-0-0-03f781ae50e3be94b62527d018a5310b
+https://pullgz721.qmuiw.com/live/sd-1-4667828.m3u8?auth_key=1795020173-0-0-0947f1fbc80095161ad53499e75085b4
 #EXTINF:-1 tvg-name="喀山尤尼克斯 vs 叶尼塞|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/aa59085806510e44514cb561cce3a3c6.png" group-title="篮球",喀山尤尼克斯 vs 叶尼塞|视频直播
-https://pullgz721.qmuiw.com/live/hd-en-2-3936456.m3u8?auth_key=1795018757-0-0-34a11ddaef7950c2eff4f2c0f92b69e2
+https://pullgz721.qmuiw.com/live/hd-en-2-3936456.m3u8?auth_key=1795020173-0-0-f46a7f485927b7246112f8310f3fe942
+#EXTINF:-1 tvg-name="埃森勒 vs 利尔斯基|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/aaf7d289e9c8bf71d7df7b89edcd2c03.png" group-title="篮球",埃森勒 vs 利尔斯基|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3944923.m3u8?auth_key=1795020173-0-0-1607e4e1bec029337a020e54ff756ef8
+#EXTINF:-1 tvg-name="科洛索斯罗德岛 vs 占贾BC|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/945dfd85e60547fc994414813dc0fe0e.png" group-title="篮球",科洛索斯罗德岛 vs 占贾BC|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3944924.m3u8?auth_key=1795020173-0-0-6f3200289ac0290d7fd260b6a01ca015
+#EXTINF:-1 tvg-name="NK种族 vs 拉多姆列|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f71dc3847d264bb398d892a247d658a5.png" group-title="足球",NK种族 vs 拉多姆列|视频直播
+https://pullgz721.qmuiw.com/live/sd-1-4667817.m3u8?auth_key=1795020173-0-0-6191d031d2c003b95051cffc3149585a
