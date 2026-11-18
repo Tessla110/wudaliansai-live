@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="德比尔斯科女足 vs 莱赫波兹南女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b39d5a17d43937145ccc8909032c2c11.png" group-title="足球",德比尔斯科女足 vs 莱赫波兹南女足|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="KF米特罗维察 vs KF利里亚|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/17f6ffcca8ea05e161372b519e5a08fb.png" group-title="足球",KF米特罗维察 vs KF利里亚|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="易三仓联 vs 沙没颂堪城市|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/2f19eb1ba95abdd518a877117f1da782.png" group-title="足球",易三仓联 vs 沙没颂堪城市|完场
@@ -39,5 +37,7 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="伊尼高尔士邦 vs 伊斯肯德伦|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/03bfc1d4783966c69cc6aef8247e0103.jpg" group-title="足球",伊尼高尔士邦 vs 伊斯肯德伦|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="克里斯托尼斯 vs 阿克里斯西肯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e403899516fd6836413e68d34deb331b.png" group-title="足球",克里斯托尼斯 vs 阿克里斯西肯|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="托尔明 vs 布里涅格罗苏普列|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0f3b81c1e8318ac828191537e47872dc.png" group-title="足球",托尔明 vs 布里涅格罗苏普列|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4667818.m3u8?auth_key=1795011086-0-0-4f2a2afbf3fb1b6ceeebfafa7e2294f0
+https://pullgz721.qmuiw.com/live/sd-1-4667818.m3u8?auth_key=1795011408-0-0-364770dfa6a3d58bb8fa5846479de4a1
