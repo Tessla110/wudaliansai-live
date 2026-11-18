@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="雷史尼克斯 vs 奥萨伦尼奥斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1690de8d4c32d8f7f2257320a8a6633d.png" group-title="足球",雷史尼克斯 vs 奥萨伦尼奥斯|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="克里斯托尼斯 vs 阿克里斯西肯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e403899516fd6836413e68d34deb331b.png" group-title="足球",克里斯托尼斯 vs 阿克里斯西肯|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="蒂姆帕基辅 vs 普拉坦亚斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/96d2e57ba3f747a18580d27ace8ee418.png" group-title="足球",蒂姆帕基辅 vs 普拉坦亚斯|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="纳阿塔奇 vs 阿斯特拉斯斯塔夫罗斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b2a4ce6e148f3f8865c7c5e16e4093f0.png" group-title="足球",纳阿塔奇 vs 阿斯特拉斯斯塔夫罗斯|完场
@@ -39,11 +35,17 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="班加罗尔联合会 vs 斯雷尼迪FC|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3e4ab507d5b1007d9932d22ac716be74.png" group-title="足球",班加罗尔联合会 vs 斯雷尼迪FC|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="明斯克迪纳摩B队 vs 波里索夫巴特B队|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e9626addec90806fa6d8b291155f8d1e.png" group-title="足球",明斯克迪纳摩B队 vs 波里索夫巴特B队|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4524160.m3u8?auth_key=1795014247-0-0-97e53e50d9be8d83e7331fc5a93bfde2
-#EXTINF:-1 tvg-name="乌拉尔马什 vs 库班火车头|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f700410a0fbec2b3843c995d0a9bd0e0.png" group-title="篮球",乌拉尔马什 vs 库班火车头|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3936384.m3u8?auth_key=1795014247-0-0-4c9ee63d1610f60f916a41e91546843b
-#EXTINF:-1 tvg-name="哈萨正义 vs 塞卡凯阿拉伯|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/56eaace9b1e134a8a019029f1fbaa0c5.png" group-title="足球",哈萨正义 vs 塞卡凯阿拉伯|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4602050.m3u8?auth_key=1795014247-0-0-58815d9fe769af1358564f5843d11c26
-#EXTINF:-1 tvg-name="马贝拉 vs 康斯文格|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ba986bd5b01c5bed5100318f76439f56.png" group-title="足球",马贝拉 vs 康斯文格|未开赛
+#EXTINF:-1 tvg-name="坎桑希迪纳摩 vs 三叉戟FC|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a70af6a23be698831c5be783c65bc250.png" group-title="足球",坎桑希迪纳摩 vs 三叉戟FC|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="绿鹰 vs 绿色水牛|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a8f589092755d85c66627ba549a85494.png" group-title="足球",绿鹰 vs 绿色水牛|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="明斯克迪纳摩B队 vs 波里索夫巴特B队|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e9626addec90806fa6d8b291155f8d1e.png" group-title="足球",明斯克迪纳摩B队 vs 波里索夫巴特B队|视频直播
+https://pullgz721.qmuiw.com/live/sd-1-4524160.m3u8?auth_key=1795014596-0-0-bbc71723416270dae15d3314161c711f
+#EXTINF:-1 tvg-name="乌拉尔马什 vs 库班火车头|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f700410a0fbec2b3843c995d0a9bd0e0.png" group-title="篮球",乌拉尔马什 vs 库班火车头|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3936384.m3u8?auth_key=1795014596-0-0-2f0b4957b22eb0fdece7de89e0a5d6f3
+#EXTINF:-1 tvg-name="哈萨正义 vs 塞卡凯阿拉伯|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/56eaace9b1e134a8a019029f1fbaa0c5.png" group-title="足球",哈萨正义 vs 塞卡凯阿拉伯|视频直播
+https://pullgz721.qmuiw.com/live/sd-1-4602050.m3u8?auth_key=1795014596-0-0-85060e758d172bd0fa969b92778d9d7e
+#EXTINF:-1 tvg-name="艾尔格纳 vs 亚历山大港联合|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/35e665fa4086e183fda582249d625c2b.png" group-title="足球",艾尔格纳 vs 亚历山大港联合|视频直播
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="莫尔纳 vs 伏伊伏丁那|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/247cc739c5e54c26b01f9a98a4d3c9f8.png" group-title="篮球",莫尔纳 vs 伏伊伏丁那|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3930033.m3u8?auth_key=1795014596-0-0-b375013245745dda5486a5c88ad879fd
