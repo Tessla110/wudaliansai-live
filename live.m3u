@@ -1,16 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="萨拉曼卡 vs 阿尔瓦塞特B队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9d74f4a3865d94543c4e55d37724a7ed.png" group-title="足球",萨拉曼卡 vs 阿尔瓦塞特B队|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="AD马尔梅诺尔 vs 布尔拉斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/faf71f3699797df2ee38e6c471c279fc.png" group-title="足球",AD马尔梅诺尔 vs 布尔拉斯|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="曼雷萨 vs 泛塞萨洛尼基人|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/dc19c320ffc58f1fd9e5bb2a2bca3f51.png" group-title="篮球",曼雷萨 vs 泛塞萨洛尼基人|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3944490.m3u8?auth_key=1795038055-0-0-fa2206546cebe034afffb49a568a43d2
-#EXTINF:-1 tvg-name="罗伊 vs 巴拉卡度|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9cbf9acbfe6fea03015207e2b5d97a84.png" group-title="足球",罗伊 vs 巴拉卡度|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4658649.m3u8?auth_key=1795038055-0-0-d413db7f434e5fb546c4189da61575c6
-#EXTINF:-1 tvg-name="米内拉 vs 卡塔赫纳|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/71d86f9b07854b3c5352ff6558cd1e73.png" group-title="足球",米内拉 vs 卡塔赫纳|视频直播
-https://pullgz721.qmuiw.com/live/hd-en-1-4658652.m3u8?auth_key=1795038055-0-0-2c28381e5e67fd834f9403a3191832ad
 #EXTINF:-1 tvg-name="阿吉拉斯B队 vs UCAM穆西亚B队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9cfa8499bbc3683aef0a573d84673b9d.png" group-title="足球",阿吉拉斯B队 vs UCAM穆西亚B队|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="阿尔坎塔里拉 vs SFC米勒娃|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/101f242c0f90e15ff86b936f10534214.png" group-title="足球",阿尔坎塔里拉 vs SFC米勒娃|完场
@@ -45,19 +35,31 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="杜尼帕斯FC vs 连利弗哥玫瑰|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f0710b86302b0042bb19688ba3edabf2.png" group-title="足球",杜尼帕斯FC vs 连利弗哥玫瑰|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="ASC根德林 vs 扎伊丹FC|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d6b95b7990da7e22691621fe01cddecf.png" group-title="足球",ASC根德林 vs 扎伊丹FC|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="阿利安萨竞技 vs 梅尔加|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0ce10ff2713268ab8db9fad32d2ab54e.png" group-title="足球",阿利安萨竞技 vs 梅尔加|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4550731.m3u8?auth_key=1795038055-0-0-f177c1f8549dfa3a9771b30800442dda
+https://pullgz721.qmuiw.com/live/sd-1-4550731.m3u8?auth_key=1795038405-0-0-0cb5de2c9105ff126ec23b79fd4bb053
 #EXTINF:-1 tvg-name="切尔西女足 vs 巴黎圣日耳曼女足|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/be4671c3b73541959a18e358dd8de4d2.png" group-title="足球",切尔西女足 vs 巴黎圣日耳曼女足|视频直播
-https://pullgz721.qmuiw.com/live/hd-en-1-4646543.m3u8?auth_key=1795038055-0-0-e23a9e14dc4683ad321e959390b1db3c
+https://pullgz721.qmuiw.com/live/hd-en-1-4646543.m3u8?auth_key=1795038405-0-0-6a94317c606d34c123a07f2c3f75c86b
 #EXTINF:-1 tvg-name="尤文图斯女足 vs 旧海弗莱鲁汶女足|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d7e0dd2c30416452115958332ba7c4ee.png" group-title="足球",尤文图斯女足 vs 旧海弗莱鲁汶女足|视频直播
-https://pullgz721.qmuiw.com/live/hd-en-1-4646544.m3u8?auth_key=1795038055-0-0-982d6a4bf74423dc1c9f028118cc02b2
+https://pullgz721.qmuiw.com/live/hd-en-1-4646544.m3u8?auth_key=1795038405-0-0-8e6dd90dbaa50c3629d45e25ffa97a5f
 #EXTINF:-1 tvg-name="西班牙篮球学院 vs 坎塔布里亚|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/88d2a03218670e799c303a7af48dbaee.png" group-title="篮球",西班牙篮球学院 vs 坎塔布里亚|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="佛罗里达大学 vs 休斯顿大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/98ddc8da5d074b44a22c47cbaa27bb91.png" group-title="篮球",佛罗里达大学 vs 休斯顿大学|视频直播
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+https://pullgz721.qmuiw.com/live/sd-2-3960540.m3u8?auth_key=1795038405-0-0-71e39357630f9cd0e39d2680ca9e15d8
 #EXTINF:-1 tvg-name="塔奇拉竞技 vs 卡贝略港学院|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9829676db6c5f615b441eb7b13a8b413.png" group-title="足球",塔奇拉竞技 vs 卡贝略港学院|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="塞阿仁斯竞技 vs 塞阿拉B队|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/63bbfecbe75bd12732dd859816d9b515.png" group-title="足球",塞阿仁斯竞技 vs 塞阿拉B队|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="FC阿里安沙女足 vs CD法斯女足|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f282c4d8fbb4b39d165f46c763bc2946.png" group-title="足球",FC阿里安沙女足 vs CD法斯女足|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="西卡罗来纳女篮 vs 辛辛那提女篮|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/n884f6425d9adde7e4ea6702baf9aa12a.png" group-title="篮球",西卡罗来纳女篮 vs 辛辛那提女篮|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="萨尔蒂洛 vs 卡诺内罗斯|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/86acce42cbb3b7955c17647aa298bca3.png" group-title="足球",萨尔蒂洛 vs 卡诺内罗斯|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="科里蒂巴 vs 桑托斯|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/4f7a0095b9a3a4756318efd55451badb.png" group-title="足球",科里蒂巴 vs 桑托斯|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="密通女足 vs 弗鲁米嫩塞PB女足|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/96b117a3347a674208a7927cfd4220f2.png" group-title="足球",密通女足 vs 弗鲁米嫩塞PB女足|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="弗兰萨 vs 卡西亚斯|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a65268effd9adde355c5816840d3ee14.png" group-title="篮球",弗兰萨 vs 卡西亚斯|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
