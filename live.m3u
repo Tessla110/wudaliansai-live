@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="亚利桑那州立大学 vs 奥克兰大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/n7d0fb4a9ddd954d4e99468ae45f3defd.png" group-title="篮球",亚利桑那州立大学 vs 奥克兰大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="杨百翰大学 vs 北科罗拉多大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6531b5907a010b11c34a85882b01ba5a.jpg" group-title="篮球",杨百翰大学 vs 北科罗拉多大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="科罗拉多州立大学 vs 北达科他州立大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c5cc431b68b485d6a7c350b17e83aa6e.png" group-title="篮球",科罗拉多州立大学 vs 北达科他州立大学|完场
@@ -37,10 +35,12 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="加州大学洛杉矶分校 vs 加州州立富勒顿分校|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/62e12b53d02bfa060c0cba50b87cf948.png" group-title="篮球",加州大学洛杉矶分校 vs 加州州立富勒顿分校|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="RBI vs 孟买城U18|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/7b3c2e809df32b028afa467dc7a79d50.png" group-title="足球",RBI vs 孟买城U18|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="佛光大学女篮 vs 台北大学女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/011c134b1a8c794820053c792743059b.png" group-title="篮球",佛光大学女篮 vs 台北大学女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="班加罗尔梦幻联 vs 阿格尼普拉|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/adc9a8d697f1b5a2e9ea74962caef4d1.png" group-title="足球",班加罗尔梦幻联 vs 阿格尼普拉|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4668093.m3u8?auth_key=1795069135-0-0-a78460684b811d3c9621bdb6a93178ec
+https://pullgz721.qmuiw.com/live/sd-1-4668093.m3u8?auth_key=1795070561-0-0-4915d362e8a6ef5673a66db426a3f1b3
 #EXTINF:-1 tvg-name="台北护理健康大学女篮 vs 台北市立大学女篮|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c9f4e3f2a4b1d545765dad8687b7288b.png" group-title="篮球",台北护理健康大学女篮 vs 台北市立大学女篮|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="深喀亿考营喀 vs 霍尔果斯美食蓝|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/323f7c5c77a1a2755a6ff1490e427294.png" group-title="足球",深喀亿考营喀 vs 霍尔果斯美食蓝|未开赛
@@ -53,13 +53,13 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="特克尼克 vs 卡纳塔卡启动|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/cf50e0fa9fa99888b007ce02624296af.png" group-title="足球",特克尼克 vs 卡纳塔卡启动|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="皇家海军 vs 班邦联合|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/7b5c9097086c8bbafa42d5bea5d5e696.png" group-title="足球",皇家海军 vs 班邦联合|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="深圳 vs 天津|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/fb44eee02df789207dee98898982cc16.png" group-title="篮球",深圳 vs 天津|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="文化大学女篮 vs 辅仁大学女篮|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4e7f4a2be902aa8617f9ea3856fe809f.png" group-title="篮球",文化大学女篮 vs 辅仁大学女篮|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="北曼谷大学 vs 班加比|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/94e539208cfdf63d3b0738b02363386a.png" group-title="足球",北曼谷大学 vs 班加比|未开赛
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="皇家海军 vs 班邦联合|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/7b5c9097086c8bbafa42d5bea5d5e696.png" group-title="足球",皇家海军 vs 班邦联合|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="华欣城 vs VRN芒农特|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/98a2f18e7ec09e3cc206fec7507cb686.png" group-title="足球",华欣城 vs VRN芒农特|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
