@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="塔拉巴U21 vs 艾纳加弗U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/97830f2d4af8783659840ceac1508af2.png" group-title="足球",塔拉巴U21 vs 艾纳加弗U21|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="扎瓦拉U21 vs 阿比尔U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/992f64bd8517fc128ba9f4bf4c9b1027.png" group-title="足球",扎瓦拉U21 vs 阿比尔U21|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="安青女篮 vs 伟邦女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b1f484a4c8d724db730c80b7f0c22026.jpg" group-title="篮球",安青女篮 vs 伟邦女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="义乌 vs 富阳|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ae72aaf9833bb4fc18975e1d1d8d4c77.png" group-title="篮球",义乌 vs 富阳|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="宁波 vs 苍南|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b80a9e9d32c1a707194230c6ef3e8ac5.png" group-title="篮球",宁波 vs 苍南|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="广厦 vs 江苏|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/96108e3d2a3cf92f8f5305e5135f2419.png" group-title="篮球",广厦 vs 江苏|完场
@@ -27,8 +19,8 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="柴桢 vs 泰港|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/8b784b23ff2eac9bbdb4437cbc291d52.png" group-title="足球",柴桢 vs 泰港|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="万隆 vs 掸邦联|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b2004093bf25a5a8d1768970d6e49d71.png" group-title="足球",万隆 vs 掸邦联|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4646617.m3u8?auth_key=1795098650-0-0-2cdd23c85107581efc18f02ec45c4c31
+#EXTINF:-1 tvg-name="万隆 vs 掸邦联|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b2004093bf25a5a8d1768970d6e49d71.png" group-title="足球",万隆 vs 掸邦联|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="上海 vs 四川|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1125281dafbf06dad029825221e83d5a.png" group-title="篮球",上海 vs 四川|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="山西 vs 宁波|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f7ad4ca154d205eb1799c5a1d1ff3370.png" group-title="篮球",山西 vs 宁波|完场
@@ -39,13 +31,25 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="比绍夫图科特马 vs 苏卢尔塔凯泰玛|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9bb3f76bf41cb9f6a61d15b1e1a38130.png" group-title="足球",比绍夫图科特马 vs 苏卢尔塔凯泰玛|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="拉维耶纳 vs 斯卡哈迪德|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0c173e2f089171d2a466286dfbe1f4d4.png" group-title="足球",拉维耶纳 vs 斯卡哈迪德|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="佩哈亚克 vs 霍尔比|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/abc7123841c5174901b57ace767891ca.png" group-title="足球",佩哈亚克 vs 霍尔比|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="巴拉蒂耶 vs 萨瓦赫尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/aa4a2651bfdf597ebf8156490137e21c.png" group-title="足球",巴拉蒂耶 vs 萨瓦赫尔|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="特萨纳体育 vs 埃及电信|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/73f38ff51a6501f94e07cdbaf85a7bda.jpg" group-title="足球",特萨纳体育 vs 埃及电信|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="河内公安 vs 柔佛新山|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9882bbda1cd86a2af4e724f399d1a1c8.png" group-title="足球",河内公安 vs 柔佛新山|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="诺亚B队 vs 勒那因阿尔查赫|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/eb260fb6641ef9e2e6185d81b4ab3e44.png" group-title="足球",诺亚B队 vs 勒那因阿尔查赫|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="贝尔廷齐 vs 采列|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1476a771ae08b8883871fbac4c22badd.png" group-title="足球",贝尔廷齐 vs 采列|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="道布 vs 比斯特里察|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d7ccda1def0fc1539663f44fbc6369eb.png" group-title="足球",道布 vs 比斯特里察|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4667838.m3u8?auth_key=1795098650-0-0-617268ece27a1d5850e948c4c6b581de
+https://pullgz721.qmuiw.com/live/sd-1-4667838.m3u8?auth_key=1795098977-0-0-e07cb0faded5d8b23e66b70e9dc81055
+#EXTINF:-1 tvg-name="亚的斯克特马 vs 伊尔加切夫布纳|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/8fc79459da5c0ccd8a5a37d8404cc026.png" group-title="足球",亚的斯克特马 vs 伊尔加切夫布纳|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="迪拜祈祷 vs 迪拜哈塔|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/17b767b98695df2fb512e992dd8a7af4.png" group-title="足球",迪拜祈祷 vs 迪拜哈塔|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4656913.m3u8?auth_key=1795098650-0-0-09c0b8c63ec04b046e03b58cf8c2549a
+https://pullgz721.qmuiw.com/live/sd-1-4656913.m3u8?auth_key=1795098977-0-0-3c334f510da41a9577b5c5a05c2df22b
+#EXTINF:-1 tvg-name="特尔梅兹 vs 安集延|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/eb2ec2a178c9c75696459e5a9c6779d7.png" group-title="足球",特尔梅兹 vs 安集延|视频直播
+https://pullgz721.qmuiw.com/live/sd-1-4488202.m3u8?auth_key=1795098977-0-0-9c9a15b1650395e6d9a2a6cd1e179455
