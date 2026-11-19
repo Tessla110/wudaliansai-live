@@ -41,13 +41,15 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="查卡里塔青年后备队 vs 米德兰后备队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/4de01f5da898e568c4ff94d35c119350.png" group-title="足球",查卡里塔青年后备队 vs 米德兰后备队|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="韩国U17 vs 乌干达U17|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/900e5c48f63a866d738d166729599162.png" group-title="足球",韩国U17 vs 乌干达U17|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4544911.m3u8?auth_key=1795101857-0-0-482092beb46853ef0ebe39cb8008c0a5
-#EXTINF:-1 tvg-name="沙特阿拉伯U17 vs 乌拉圭U17|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/081372dd82f5917deb2d2fa64e052173.png" group-title="足球",沙特阿拉伯U17 vs 乌拉圭U17|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4544793.m3u8?auth_key=1795101857-0-0-e272a04dc63645848ff35d67a081be58
-#EXTINF:-1 tvg-name="马斯里 vs 佩特雷姆|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1e724366f6bee2eb1e7dd707a3f7f671.png" group-title="足球",马斯里 vs 佩特雷姆|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4669496.m3u8?auth_key=1795101857-0-0-627d997e59fae21f7c14dab6f04b2a8c
-#EXTINF:-1 tvg-name="阿拉伯建筑 vs 阿尔卡纳|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d2ba8945533ebbda0bcccf6cf21a4bd4.png" group-title="足球",阿拉伯建筑 vs 阿尔卡纳|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4669497.m3u8?auth_key=1795101857-0-0-a752ed1ac15fc09b1afb4a97e39c7dba
-#EXTINF:-1 tvg-name="艾因 vs 迪哈夫拉|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0a275ee78225885853d8bb904e037247.png" group-title="足球",艾因 vs 迪哈夫拉|未开赛
+#EXTINF:-1 tvg-name="韩国U17 vs 乌干达U17|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/900e5c48f63a866d738d166729599162.png" group-title="足球",韩国U17 vs 乌干达U17|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="意大利女足U16 vs 德国女足U16|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/53d957bdef5e491fb4dd95144c74a3be.png" group-title="足球",意大利女足U16 vs 德国女足U16|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="沙特阿拉伯U17 vs 乌拉圭U17|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/081372dd82f5917deb2d2fa64e052173.png" group-title="足球",沙特阿拉伯U17 vs 乌拉圭U17|视频直播
+https://pullgz721.qmuiw.com/live/sd-1-4544793.m3u8?auth_key=1795102168-0-0-03b59a3d594ad18d4cde512c36fe19f2
+#EXTINF:-1 tvg-name="马斯里 vs 佩特雷姆|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1e724366f6bee2eb1e7dd707a3f7f671.png" group-title="足球",马斯里 vs 佩特雷姆|视频直播
+https://pullgz721.qmuiw.com/live/sd-1-4669496.m3u8?auth_key=1795102168-0-0-771b5fd6ee0915a7dba2da8ee8637ace
+#EXTINF:-1 tvg-name="阿拉伯建筑 vs 阿尔卡纳|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d2ba8945533ebbda0bcccf6cf21a4bd4.png" group-title="足球",阿拉伯建筑 vs 阿尔卡纳|视频直播
+https://pullgz721.qmuiw.com/live/sd-1-4669497.m3u8?auth_key=1795102168-0-0-842b159c3c4941a3f6b87fb7eb092749
+#EXTINF:-1 tvg-name="艾因 vs 迪哈夫拉|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0a275ee78225885853d8bb904e037247.png" group-title="足球",艾因 vs 迪哈夫拉|视频直播
+https://pullgz721.qmuiw.com/live/sd-1-4656914.m3u8?auth_key=1795102168-0-0-7db6962aad1dec710e49dd5d06144e71
