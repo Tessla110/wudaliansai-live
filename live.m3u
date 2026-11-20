@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="哈马先锋 vs 卡米什利|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ae3bc62f8b79d1da6db93a9e6afe1b9a.png" group-title="足球",哈马先锋 vs 卡米什利|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="宾内卡梭罗U21 vs 永恒篮球会U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f068fc13a63e966c106b06660cc41314.png" group-title="篮球",宾内卡梭罗U21 vs 永恒篮球会U21|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="维托鲁卢克 vs 扎勒乌|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/15f4ead89a927ee78f132e48e5ef373c.png" group-title="足球",维托鲁卢克 vs 扎勒乌|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="阿尔马雷克  vs 克孜勒库姆|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b7ceab59e1e266d0fd3245eb9d3f1f25.png" group-title="足球",阿尔马雷克  vs 克孜勒库姆|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="塔什干火车头 vs 塔什干棉农|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/861b0ac69ac20155f30c2ebe6ad8ff05.png" group-title="足球",塔什干火车头 vs 塔什干棉农|完场
@@ -44,6 +38,8 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="法加尔瑟帕斯 vs 查多马卢阿尔达坎|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9950199641f524d940d22e52c30c19a4.png" group-title="足球",法加尔瑟帕斯 vs 查多马卢阿尔达坎|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="佐伯阿汉 vs 巴德兰德黑兰|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/5aefafa661e2f37f2b39022fa7cad8c6.png" group-title="足球",佐伯阿汉 vs 巴德兰德黑兰|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="卡瓦拉赫 vs 奈尔亚|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/00d99f9d341b454f8250632f0d6074a9.png" group-title="足球",卡瓦拉赫 vs 奈尔亚|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="越电信体工 vs 乂安蓝江|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/840e2d7165cf2a34ec6c65a1fd9b58a9.png" group-title="足球",越电信体工 vs 乂安蓝江|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
