@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="KOM朴高利卡 vs 泽塔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1d33cf717b06cba4f6d31bea85ea27a7.png" group-title="足球",KOM朴高利卡 vs 泽塔|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="新疆天山女篮 vs 四川远达美乐女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f7f59b30d166277fab63075d539a5c93.png" group-title="篮球",新疆天山女篮 vs 四川远达美乐女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="泰路警察 vs 庄他武里|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b728ec120708bb81d6b9ab29a32d7a52.png" group-title="足球",泰路警察 vs 庄他武里|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="什肯迪亚哈拉辛 vs 贝斯基米|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0bc3bae01a59627e79a87e5ad1c1be72.png" group-title="足球",什肯迪亚哈拉辛 vs 贝斯基米|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="德瓦 vs 培斯塔坦格朗|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/76db1148a0e8a7c8e98ab05814cab691.png" group-title="足球",德瓦 vs 培斯塔坦格朗|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="泰国U17 vs 伊拉克U17|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/51c3745e99294178891085f6c3f265e2.png" group-title="足球",泰国U17 vs 伊拉克U17|完场
@@ -41,17 +33,21 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="曼苏拉 vs 达雅洛特|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0ed04579b4f23aecafe02e0bd1e77df8.png" group-title="足球",曼苏拉 vs 达雅洛特|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="普斯SC vs 坦塔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f12a5c16336477344a42a641736cbbbc.png" group-title="足球",普斯SC vs 坦塔|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="欧帕提亚 vs 萨格勒布迪纳摩B队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0b4f8eb002f94a1e05830a8f983f9115.png" group-title="足球",欧帕提亚 vs 萨格勒布迪纳摩B队|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="奥拉迪亚 vs 哥利亚|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/955007e12387afebb63d3372d30d2ce7.png" group-title="足球",奥拉迪亚 vs 哥利亚|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="阿尔艾因 vs 扩塔禾|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f5459da9ab7a174441d653c951d99f27.png" group-title="足球",阿尔艾因 vs 扩塔禾|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="卡尔巴联盟U19 vs 迪拜祈祷U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/6dd291ceda38a4c4e71b616260c4dcd9.png" group-title="足球",卡尔巴联盟U19 vs 迪拜祈祷U19|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="卡尔巴联盟 vs 沙迦|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/2e8a02ec6526cb9c73b87acf8a06453b.png" group-title="足球",卡尔巴联盟 vs 沙迦|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4656915.m3u8?auth_key=1795185152-0-0-dac5ee30ec10cde672deb8527418d8b3
+https://pullgz721.qmuiw.com/live/sd-1-4656915.m3u8?auth_key=1795185462-0-0-90b368c9df79f7dd1fdff0a5565c8724
 #EXTINF:-1 tvg-name="棕榈城 vs 城市俱乐部|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/88fc5a647c1af14c3939d569fbd2434c.png" group-title="足球",棕榈城 vs 城市俱乐部|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4657767.m3u8?auth_key=1795185152-0-0-e8ded47f42d634196e2a383bc429622d
+https://pullgz721.qmuiw.com/live/sd-1-4657767.m3u8?auth_key=1795185462-0-0-4e0d889afcbfc94bd7bac0f6afca7041
 #EXTINF:-1 tvg-name="哈利亚 vs 泰德|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0c59a7ee212419337f22448dca90fc6e.png" group-title="足球",哈利亚 vs 泰德|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4657768.m3u8?auth_key=1795185152-0-0-c999558cb98fa26e53afeb8cb753674f
+https://pullgz721.qmuiw.com/live/sd-1-4657768.m3u8?auth_key=1795185462-0-0-a6040d62c8235494ab86b1b097d8086c
 #EXTINF:-1 tvg-name="阿拉比 vs 贾兹拉哈姆拉|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/85e4815a287ffb7dae9cb3235c13de47.png" group-title="足球",阿拉比 vs 贾兹拉哈姆拉|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4657769.m3u8?auth_key=1795185152-0-0-f271620b4118670b185e7fef3ad32ee7
+https://pullgz721.qmuiw.com/live/sd-1-4657769.m3u8?auth_key=1795185462-0-0-797508299698ff0a1395705bde6128f3
