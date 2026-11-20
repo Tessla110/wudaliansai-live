@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="阿萨巴赫 vs 埃巴沙伊尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/5779eab0ad90557f52b326d2c19ab056.png" group-title="足球",阿萨巴赫 vs 埃巴沙伊尔|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="CA巴特纳 vs 斯基克达|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b211e99d263fb4a6e4a2c0cd295a834e.png" group-title="足球",CA巴特纳 vs 斯基克达|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="RC阿尔巴 vs 寇巴|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f5952d47de7990e742d8660dac81c26c.png" group-title="足球",RC阿尔巴 vs 寇巴|完场
@@ -41,15 +39,17 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="萨德U20 vs 瓦克拉U20|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/dc5e9ff23abfe98f5c2c516b66d1b14c.png" group-title="足球",萨德U20 vs 瓦克拉U20|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="埃尔比亚尔U20 vs 哈拉治U20|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/4fb1d3b9dfb404642c6aa0673ad431eb.png" group-title="足球",埃尔比亚尔U20 vs 哈拉治U20|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="卡巴阿斯玛利 vs 克娄巴特拉陶瓷|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/710c1aec087466a2e2177fb812c87dc8.png" group-title="足球",卡巴阿斯玛利 vs 克娄巴特拉陶瓷|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4669996.m3u8?auth_key=1795191443-0-0-1ffd215f53f28b88c46357557d552413
+https://pullgz721.qmuiw.com/live/sd-1-4669996.m3u8?auth_key=1795191759-0-0-a03e73d5ce53f7132e2594fa91c439ae
 #EXTINF:-1 tvg-name="萨姆加耶特 vs 萨巴赫|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/46e02b8dea22b2951976d1262dd0279f.png" group-title="足球",萨姆加耶特 vs 萨巴赫|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4595650.m3u8?auth_key=1795191443-0-0-a2a619f3ac53efed623ca9888c9c1f2d
+https://pullgz721.qmuiw.com/live/sd-1-4595650.m3u8?auth_key=1795191759-0-0-accb53e18377c23cdce85216332621ea
 #EXTINF:-1 tvg-name="萨马拉女篮 vs 弗拉基米尔大学VlGU女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/38134086682da4fa4f4c4aac84d0e049.png" group-title="篮球",萨马拉女篮 vs 弗拉基米尔大学VlGU女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3939469.m3u8?auth_key=1795191443-0-0-f9852813d657f681c27a57286e73dda7
+https://pullgz721.qmuiw.com/live/sd-2-3939469.m3u8?auth_key=1795191759-0-0-a22053605a676dddd3a239ea1e1bfcf4
 #EXTINF:-1 tvg-name="盖拉多女篮 vs 科努特格里西姆女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2d4a6ded31833cfa6daebae65c992901.png" group-title="篮球",盖拉多女篮 vs 科努特格里西姆女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960801.m3u8?auth_key=1795191443-0-0-961a573ce6ca312de3a9acfaf7a9462a
+https://pullgz721.qmuiw.com/live/sd-2-3960801.m3u8?auth_key=1795191759-0-0-89db128ab9e7e001f9d87912cf10cc3f
 #EXTINF:-1 tvg-name="舒拉克 vs 卡潘宝山|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/079bdbf302d4831bbbd8d623d25f27ff.png" group-title="足球",舒拉克 vs 卡潘宝山|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4578960.m3u8?auth_key=1795191443-0-0-129198ee4800606a192da068ddb28391
+https://pullgz721.qmuiw.com/live/sd-1-4578960.m3u8?auth_key=1795191759-0-0-968a963b551aa53442458e34bd29dec7
 #EXTINF:-1 tvg-name="费内巴切科莱吉 vs 埃拉布篮球|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/878167bdde4291dae43ef6fd8360d1e9.png" group-title="篮球",费内巴切科莱吉 vs 埃拉布篮球|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3930447.m3u8?auth_key=1795191443-0-0-b93d3ea919f073531d974e289086d1f3
+https://pullgz721.qmuiw.com/live/sd-2-3930447.m3u8?auth_key=1795191759-0-0-6f33ae9b0cbd882dcf90d7073e89bb33
