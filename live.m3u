@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="罗斯杜夫青年队 vs 莫斯科罗迪纳青年队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/8851a7382abf46d3034c221a91fb6ccf.png" group-title="足球",罗斯杜夫青年队 vs 莫斯科罗迪纳青年队|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="科诺普廖夫青年队 vs 莫斯科火车头青年队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/5792e5b4582c0ac82247e94a6afaa921.svg" group-title="足球",科诺普廖夫青年队 vs 莫斯科火车头青年队|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="克拉斯诺达尔青年队 vs 莫斯科切尔塔诺沃青年队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1de66e27120ddea6081f50737ce3a6e8.png" group-title="足球",克拉斯诺达尔青年队 vs 莫斯科切尔塔诺沃青年队|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="莫斯科斯巴达青年队 vs 阿尔玛兹安泰青年队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/69a788841fd6ee41f48081a7e440cb8f.png" group-title="足球",莫斯科斯巴达青年队 vs 阿尔玛兹安泰青年队|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="圣彼得堡泽尼特青年队 vs 莫斯科中央陆军青年队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f2d10c6fec4284c0c0567686c96c7e3a.png" group-title="足球",圣彼得堡泽尼特青年队 vs 莫斯科中央陆军青年队|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="比利时U17 vs 越南U17|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d614d4037b09433ee732a9f7c7595179.png" group-title="足球",比利时U17 vs 越南U17|完场
@@ -49,3 +41,9 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="马里U17 vs 新西兰U17|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/db7fa72bbe01029db8dbcfa06b9bf9b6.png" group-title="足球",马里U17 vs 新西兰U17|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="玛斯卡特 vs 苏维克|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/fb8032231e7e048ee00bbb0dca415792.png" group-title="足球",玛斯卡特 vs 苏维克|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="马库卢索 vs GD体育|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8c2c3101b3704d349ee8e556936f6e9c.png" group-title="篮球",马库卢索 vs GD体育|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="班加罗尔 vs 孟买城|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/fb65f54d32791e1207403258907bfea3.png" group-title="足球",班加罗尔 vs 孟买城|视频直播
+https://pullgz721.qmuiw.com/live/sd-1-4655869.m3u8?auth_key=1795189452-0-0-8cabc56bf990ae1cd7ba6363059c2453
