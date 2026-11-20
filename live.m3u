@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="伊斯卡拉 vs 塞勒蒙斯巴达|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/774290bc5ff07f9019dba2a8ba43ecf4.png" group-title="足球",伊斯卡拉 vs 塞勒蒙斯巴达|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="科姆拉特大学 vs 勇敢老鹰|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/aa79cec1b99ea249d859a620f8049005.png" group-title="足球",科姆拉特大学 vs 勇敢老鹰|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="森布鲁B队 vs FCM温格内|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0da44af358e8fcb6a6c2040602172d8d.png" group-title="足球",森布鲁B队 vs FCM温格内|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="班得瑞 vs 穆兰卡|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a165d8c3da9a195bfc01fd1c41e91a02.png" group-title="足球",班得瑞 vs 穆兰卡|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="马塔雷联 vs 卡卡梅加|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/bbce7c80d69f3823e51d6c4d23516ce0.png" group-title="足球",马塔雷联 vs 卡卡梅加|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="耶路撒冷 vs 阿什杜德|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/81d22bd3b658ae6ff77aceb191e9e468.jpg" group-title="篮球",耶路撒冷 vs 阿什杜德|完场
@@ -42,4 +34,6 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="贵州猛龙 vs 重庆苏科雄狮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/62ed9d90c3d030310c6316a001f302dd.png" group-title="篮球",贵州猛龙 vs 重庆苏科雄狮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="北京国安 vs 上海海港|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f9f803b7f492448da2201101b8f98d13.png" group-title="足球",北京国安 vs 上海海港|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="阿尔特吉 vs 阿尔萨法|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/2011bde4bb6227fb19904a9d7d6370db.png" group-title="足球",阿尔特吉 vs 阿尔萨法|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
