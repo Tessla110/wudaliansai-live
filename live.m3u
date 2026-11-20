@@ -1,29 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="塞库耶斯克 vs 布拉杜尔普特纳|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/4075b31ebf6f00de3efa19190a6a3b5f.png" group-title="足球",塞库耶斯克 vs 布拉杜尔普特纳|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="巴斯凯尼 vs 高尔根尼|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/eb20ed73fdb28a600b833118e9692464.png" group-title="足球",巴斯凯尼 vs 高尔根尼|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="莫雷尼 vs 胜利2024克雷维德亚|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/6929d6ef63275d17a05d99570d26a1ce.png" group-title="足球",莫雷尼 vs 胜利2024克雷维德亚|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="科尔贝安卡未来 vs 普洛佩尼|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/09eaba43eec290cf13a8e5d39ad38ff1.png" group-title="足球",科尔贝安卡未来 vs 普洛佩尼|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="布莱乔 vs 普库奥萨|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/6b37fa265ae296f7f4691232dee3c935.png" group-title="足球",布莱乔 vs 普库奥萨|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="吉田达 vs 艾巴尤利亚|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1adec918d77b5b1ee82dbd6b66bfd823.png" group-title="足球",吉田达 vs 艾巴尤利亚|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="尤尼雷亚德杰 vs CS学术研究|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b5df647d541ab46bb2d801c8343f8f91.png" group-title="足球",尤尼雷亚德杰 vs CS学术研究|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="阿尔巴尤利亚大学 vs SSU蒂米什瓦拉理工II队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/92b4b47a110fc9298ef594862f48ebf8.png" group-title="足球",阿尔巴尤利亚大学 vs SSU蒂米什瓦拉理工II队|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="CS蒂米甚 vs 古吉尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a0e5026b1c080b77b5c18d8bb5bd1c57.png" group-title="足球",CS蒂米甚 vs 古吉尔|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="尤尼里亚巴斯科夫 vs 米尼罗尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f3b2b0e55fb00259dc23c2238d7074f7.png" group-title="足球",尤尼里亚巴斯科夫 vs 米尼罗尔|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="杜贝大陆 vs 茨瓦尼科技大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/8f5a22448385d8ee3220c321acf48cee.png" group-title="足球",杜贝大陆 vs 茨瓦尼科技大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="ACS谢普希B队 vs 森切拉|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/962e4a374f6bc78707a8a3bc6817f796.png" group-title="足球",ACS谢普希B队 vs 森切拉|完场
+#EXTINF:-1 tvg-name="哈马先锋 vs 卡米什利|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ae3bc62f8b79d1da6db93a9e6afe1b9a.png" group-title="足球",哈马先锋 vs 卡米什利|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="宾内卡梭罗U21 vs 永恒篮球会U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f068fc13a63e966c106b06660cc41314.png" group-title="篮球",宾内卡梭罗U21 vs 永恒篮球会U21|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
@@ -57,13 +35,15 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="青岛 vs 上海|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8265cde14b18d7e3716bb1e0b0aed623.png" group-title="篮球",青岛 vs 上海|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="浙江 vs 山东|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d1d77f07287fe840a7e77459e5bd1bfc.png" group-title="篮球",浙江 vs 山东|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3948104.m3u8?auth_key=1795183223-0-0-e87726db540fb40de01bef30185192b9
-#EXTINF:-1 tvg-name="辽宁 vs 山西|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/03173dab50b9418d1a834a91104d90a4.png" group-title="篮球",辽宁 vs 山西|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3948105.m3u8?auth_key=1795183223-0-0-21c732da5b63ed886e4ea50efcda5693
+#EXTINF:-1 tvg-name="浙江 vs 山东|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d1d77f07287fe840a7e77459e5bd1bfc.png" group-title="篮球",浙江 vs 山东|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="辽宁 vs 山西|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/03173dab50b9418d1a834a91104d90a4.png" group-title="篮球",辽宁 vs 山西|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="理文 vs 北区|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/8488d5d93a28b78eaeae55758ad25fb5.png" group-title="足球",理文 vs 北区|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="法加尔瑟帕斯 vs 查多马卢阿尔达坎|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9950199641f524d940d22e52c30c19a4.png" group-title="足球",法加尔瑟帕斯 vs 查多马卢阿尔达坎|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="越电信体工 vs 乂安蓝江|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/840e2d7165cf2a34ec6c65a1fd9b58a9.png" group-title="足球",越电信体工 vs 乂安蓝江|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4636609.m3u8?auth_key=1795183223-0-0-4c8ab198a65b07cf3ec47b562533794a
+#EXTINF:-1 tvg-name="佐伯阿汉 vs 巴德兰德黑兰|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/5aefafa661e2f37f2b39022fa7cad8c6.png" group-title="足球",佐伯阿汉 vs 巴德兰德黑兰|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="越电信体工 vs 乂安蓝江|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/840e2d7165cf2a34ec6c65a1fd9b58a9.png" group-title="足球",越电信体工 vs 乂安蓝江|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
