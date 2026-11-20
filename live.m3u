@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="卡菲利体育 vs 兰内里|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/6fdd1b24a6794e36579be5cda316bcc6.png" group-title="足球",卡菲利体育 vs 兰内里|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="卡尔路伊利 vs 纽波特城|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/53c81c151f3b682b56c4d8350badf908.png" group-title="足球",卡尔路伊利 vs 纽波特城|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="ASC警察 vs AS庞皮尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d6e3e4be1ce506c58b73f92b959e5847.png" group-title="足球",ASC警察 vs AS庞皮尔|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="欧罗巴角 vs 蒙斯卡尔佩FC|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b83164b42b1deb45bd4ec089626a2d29.png" group-title="足球",欧罗巴角 vs 蒙斯卡尔佩FC|完场
@@ -41,13 +37,13 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="艾美利亚诺体育 vs 卢克尼奥竞技|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ec0f8a958c5377d09fd3e52ba2f77b06.png" group-title="足球",艾美利亚诺体育 vs 卢克尼奥竞技|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="波尔图 vs 帕雷德斯|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/83aa826e3c45d5047a8c917fb0b41a5e.png" group-title="足球",波尔图 vs 帕雷德斯|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4663070.m3u8?auth_key=1795214401-0-0-d4a59b66ee96dbd61105402a21865c47
-#EXTINF:-1 tvg-name="福塔雷萨 vs 博塔弗戈|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b7a4ae422b9d0cc5a06a40d5db991802.png" group-title="篮球",福塔雷萨 vs 博塔弗戈|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3939761.m3u8?auth_key=1795214401-0-0-f18d0dc5d705eb4f87211eee4b06635a
-#EXTINF:-1 tvg-name="巴乌鲁 vs 卡西亚斯|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/80131394fd203e73393b93ae8202fba7.png" group-title="篮球",巴乌鲁 vs 卡西亚斯|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3939565.m3u8?auth_key=1795214401-0-0-c463954f40a7720144847bf7af12a764
-#EXTINF:-1 tvg-name="科布雷萨尔 vs 奥达科斯|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a5e650365ee5c40efb649bf12015eb6d.png" group-title="足球",科布雷萨尔 vs 奥达科斯|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4476494.m3u8?auth_key=1795214401-0-0-878632fb87d8a96eb46f402332dc6ac7
-#EXTINF:-1 tvg-name="伊兹卡利飓风 vs 胡安纳卡特兰|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/da1bede609ce9e575710c07296255133.png" group-title="足球",伊兹卡利飓风 vs 胡安纳卡特兰|未开赛
+#EXTINF:-1 tvg-name="波尔图 vs 帕雷德斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/83aa826e3c45d5047a8c917fb0b41a5e.png" group-title="足球",波尔图 vs 帕雷德斯|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="蒂华纳U19 vs 阿特兰特U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d62482bd49ba0493cffe7f037a3b2d04.png" group-title="足球",蒂华纳U19 vs 阿特兰特U19|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="福塔雷萨 vs 博塔弗戈|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b7a4ae422b9d0cc5a06a40d5db991802.png" group-title="篮球",福塔雷萨 vs 博塔弗戈|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3939761.m3u8?auth_key=1795214688-0-0-fe8f8a9905e24023c261666919130101
+#EXTINF:-1 tvg-name="巴乌鲁 vs 卡西亚斯|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/80131394fd203e73393b93ae8202fba7.png" group-title="篮球",巴乌鲁 vs 卡西亚斯|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3939565.m3u8?auth_key=1795214688-0-0-93e8d7354daf3273139d6c80beb22a05
+#EXTINF:-1 tvg-name="科布雷萨尔 vs 奥达科斯|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a5e650365ee5c40efb649bf12015eb6d.png" group-title="足球",科布雷萨尔 vs 奥达科斯|视频直播
+https://pullgz721.qmuiw.com/live/sd-1-4476494.m3u8?auth_key=1795214688-0-0-b6febcbfb37470f7f609b81f02778f86
