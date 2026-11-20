@@ -1,26 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="FC西伯利亚人 vs ACSKT巴索夫|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a14b31f1560b67a62f6b99cf7049008b.png" group-title="足球",FC西伯利亚人 vs ACSKT巴索夫|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="克雷卡米诺斯III vs 雷诺萨FC|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b86394b7e89c2b51efd9b287576e97a4.png" group-title="足球",克雷卡米诺斯III vs 雷诺萨FC|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="坎特拉斯可卡 vs 萨卡特卡斯矿工CDMX|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/c39bb783677ca34a8400b53c72c05d08.png" group-title="足球",坎特拉斯可卡 vs 萨卡特卡斯矿工CDMX|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="帕丘卡III vs 伊达尔戈英雄|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/c11742287ac65e6cb2ae74d71072f9a7.png" group-title="足球",帕丘卡III vs 伊达尔戈英雄|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="卢足球专修 vs 扎卡特卡斯B队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d874c7815ee141f63e2bdd9b74844530.png" group-title="足球",卢足球专修 vs 扎卡特卡斯B队|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="FK苏萨 vs NPA锚队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/92a8805191b5d567924321515bffc28c.png" group-title="足球",FK苏萨 vs NPA锚队|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="塔波斯科 vs 布拉格斯拉维亚B队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/405c2e98d87fc97db923f7d2563ccf1a.png" group-title="足球",塔波斯科 vs 布拉格斯拉维亚B队|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="顿涅茨克矿工 vs 利维贝雷|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/141bcf6ab6d0bc7b8c67dc5eeb9f347d.png" group-title="足球",顿涅茨克矿工 vs 利维贝雷|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="德拉维加 vs 伊利里亚1911|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b4a5f1059436725b2f1233dc8422c702.png" group-title="足球",德拉维加 vs 伊利里亚1911|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="拖里格拉瓦 vs 德雷夫尼克|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/432ec6d7183d30beb17bf1dab40559b1.png" group-title="足球",拖里格拉瓦 vs 德雷夫尼克|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="布加勒斯特 vs 布加勒斯特星|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/bd148d6f912618c4888ddd4f5d4c3d2b.png" group-title="篮球",布加勒斯特 vs 布加勒斯特星|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="加拉茨市政体育 vs 塔古慕瑞斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/399bc97c8e64e56f0c586781cff96e0f.png" group-title="篮球",加拉茨市政体育 vs 塔古慕瑞斯|完场
@@ -43,6 +23,8 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="布洛姆之星 vs 乌苏姆之星|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/8668206ce9e27675825f2a8eee1b953c.png" group-title="足球",布洛姆之星 vs 乌苏姆之星|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="阿尔塔达孟 vs 致雅兹拉|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e0146166da6047734c8af279188e19a1.png" group-title="足球",阿尔塔达孟 vs 致雅兹拉|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="拉忽兰 vs 卡基拉|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/95229a4a89014a95a191a4e8244b5384.jfif" group-title="篮球",拉忽兰 vs 卡基拉|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="沙龙维尔帕斯 vs 考哈约恩|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3bab75b247b1527d6ae788fad27d3dba.png" group-title="篮球",沙龙维尔帕斯 vs 考哈约恩|完场
@@ -55,13 +37,13 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="伊萨城 vs 布赛廷|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9fc0d7fb7ea8fb857945ed0514a8c6ba.png" group-title="足球",伊萨城 vs 布赛廷|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="罗斯托夫 vs 苏维埃之翼|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/25efd2a1bf0d0cd2ef0002bdc44fbde7.png" group-title="足球",罗斯托夫 vs 苏维埃之翼|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4564218.m3u8?auth_key=1795199047-0-0-d5109f0a1724e3e6271d27c957cb0fde
+#EXTINF:-1 tvg-name="罗斯托夫 vs 苏维埃之翼|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/25efd2a1bf0d0cd2ef0002bdc44fbde7.png" group-title="足球",罗斯托夫 vs 苏维埃之翼|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="侯华拉 vs 利马帕|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2791a01e3b4cba0250433d95211c96ae.png" group-title="篮球",侯华拉 vs 利马帕|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="瓦布希克 vs Gtk格利维采|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ac18bb9d1e3bac8e5479b696d0348a96.png" group-title="篮球",瓦布希克 vs Gtk格利维采|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3928647.m3u8?auth_key=1795199047-0-0-8cb899344105efe976abc1cf86348742
+https://pullgz721.qmuiw.com/live/sd-2-3928647.m3u8?auth_key=1795199359-0-0-b8390f11d8da838abb7b64c44fe57ed0
 #EXTINF:-1 tvg-name="霍穆托夫猎豹女篮 vs USK布拉格女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f6cd5a6a58f7ba5ca3681cb060af29fc.png" group-title="篮球",霍穆托夫猎豹女篮 vs USK布拉格女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3924621.m3u8?auth_key=1795199047-0-0-e3f48eaa40bbb892b404208c97e68ccc
+https://pullgz721.qmuiw.com/live/sd-2-3924621.m3u8?auth_key=1795199359-0-0-8a3bee42bfd3df3c6b9e01eab7800313
 #EXTINF:-1 tvg-name="FMP拉德尼基 vs 伊戈卡|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0a8cba7e38b14843378519452c17eaba.png" group-title="篮球",FMP拉德尼基 vs 伊戈卡|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3942754.m3u8?auth_key=1795199047-0-0-f20fb934a7592b83769a0079bd067143
+https://pullgz721.qmuiw.com/live/sd-2-3942754.m3u8?auth_key=1795199359-0-0-7ba3143cdf1949411e5aa572f305fc07
