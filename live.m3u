@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="蒙特罗斯 vs 艾洛亚|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f97aa239548fc51bebd813bad2b35c4a.png" group-title="足球",蒙特罗斯 vs 艾洛亚|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="纽卡斯尔联 vs 阿森纳|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/7d4b8f9a64624fa5bc64080b6f137780.png" group-title="足球",纽卡斯尔联 vs 阿森纳|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="布尔萨体育 vs 博尔多篮球会|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/baa06b63541e719e3854961a7a304955.png" group-title="篮球",布尔萨体育 vs 博尔多篮球会|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3929853.m3u8?auth_key=1795289756-0-0-916c2ca5639cea42b72880117c841fb7
-#EXTINF:-1 tvg-name="哥廷根 vs 梅迪拜罗伊特|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/40ead539e5748ac9bb5385c7407c8957.png" group-title="篮球",哥廷根 vs 梅迪拜罗伊特|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="皇家社会C队 vs CD陶宁|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e64d10a2613c7d14c3c46dd84272323f.png" group-title="足球",皇家社会C队 vs CD陶宁|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="黄金海岸袋鼠 vs 维拉尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/50b7988cb8a14d642b7a98ec6cd0d1cc.png" group-title="篮球",黄金海岸袋鼠 vs 维拉尔|完场
@@ -47,11 +39,13 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="塞维利亚 vs 贝蒂斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/360f9f49de8244c09f74f32c5df6d548.png" group-title="足球",塞维利亚 vs 贝蒂斯|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="邓迪FC vs 哈茨|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/6994da8ab5314d8eb94d068135385902.png" group-title="足球",邓迪FC vs 哈茨|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4557633.m3u8?auth_key=1795289756-0-0-6b27999eec412afb8054c87905c11a67
-#EXTINF:-1 tvg-name="费耶诺德 vs SBV精英|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/44073f2d2c979a9388f98505ac3b754d.png" group-title="足球",费耶诺德 vs SBV精英|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4552256.m3u8?auth_key=1795289756-0-0-7fbba9f3fef3f8e8b7977de47ce4824d
-#EXTINF:-1 tvg-name="乌德勒支 vs 坎布尔|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/181ee8709b75f543a1cf4c943ae3304b.png" group-title="足球",乌德勒支 vs 坎布尔|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4552263.m3u8?auth_key=1795289756-0-0-67f61b2a03efb145202dd09e5cdcbd7a
+#EXTINF:-1 tvg-name="邓迪FC vs 哈茨|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/6994da8ab5314d8eb94d068135385902.png" group-title="足球",邓迪FC vs 哈茨|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="费耶诺德 vs SBV精英|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/44073f2d2c979a9388f98505ac3b754d.png" group-title="足球",费耶诺德 vs SBV精英|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="阿吉拉斯 vs CE欧罗巴|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1dd8ba16bb56596155cfa70fc9a3a590.png" group-title="足球",阿吉拉斯 vs CE欧罗巴|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="葡萄牙体育 vs 乌尼奥山|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/646764e6e2fe4ca7970b9eb87c8b65af.png" group-title="足球",葡萄牙体育 vs 乌尼奥山|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4663078.m3u8?auth_key=1795289756-0-0-6469c0e54b6fced6ce797750fd6baa9c
+https://pullgz721.qmuiw.com/live/sd-1-4663078.m3u8?auth_key=1795290075-0-0-39e70428a5caccfdbf9b44b6e66980ba
+#EXTINF:-1 tvg-name="扎布尼布尔诺B女篮 vs 乌斯提列本女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9f5b9b4fe93b43cfad1fb98e11800568.png" group-title="篮球",扎布尼布尔诺B女篮 vs 乌斯提列本女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
