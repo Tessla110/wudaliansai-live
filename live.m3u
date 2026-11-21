@@ -1,20 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="斯洛瓦科U19 vs 布杰约维采迪纳摩U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/dc44006b70927a2debdfe708d5fd76c9.png" group-title="足球",斯洛瓦科U19 vs 布杰约维采迪纳摩U19|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="瓦尔德佩纳斯室内足球队 vs 新阿波斯托利门(室内)|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ac9a2de3260e4a24b452b5f2b297b33d.png" group-title="足球",瓦尔德佩纳斯室内足球队 vs 新阿波斯托利门(室内)|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="国际米兰U20 vs 尤文图斯U20|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/6ddaee2ef625140617089308645a29eb.png" group-title="足球",国际米兰U20 vs 尤文图斯U20|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="奥赫里德 vs 比拿斯卡|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/4c2a5f1a6354d98b6ea862f5a3fe2f05.jfif" group-title="足球",奥赫里德 vs 比拿斯卡|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="斯库皮 vs 奥斯格维|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/38f363b78380a10174d7c65ae44f966e.png" group-title="足球",斯库皮 vs 奥斯格维|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="耶汀斯特沃BP vs FK波德戈里察|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/82cdda9478d04ff7768ab90bc2439979.png" group-title="足球",耶汀斯特沃BP vs FK波德戈里察|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="布达佩斯瓦苏塔斯 vs 吉尔蒙特|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d12461a28f215284b3c3cd482197a55c.png" group-title="足球",布达佩斯瓦苏塔斯 vs 吉尔蒙特|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="纳吉卡尼塞 vs 梅索科菲德|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/10ce68a65353e23f8a019c38d35fe998.png" group-title="足球",纳吉卡尼塞 vs 梅索科菲德|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="布杰约维采 vs 布拉格斯巴达B队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/318ddfa53f580d97da248fd7e886f9f1.png" group-title="足球",布杰约维采 vs 布拉格斯巴达B队|完场
@@ -45,7 +31,15 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="斯霍拉 vs 祖布巴|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ee10a0a6984bb8dcc9e36f8ffe3b67d4.png" group-title="足球",斯霍拉 vs 祖布巴|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="克雷廷加 vs 马萨基爱|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/49733bcd43e176bb7c96189a5cd07e7d.png" group-title="篮球",克雷廷加 vs 马萨基爱|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="班菲尔德U20 vs 河床U20|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b737973c8e3001129d2c0015f3a679bd.png" group-title="足球",班菲尔德U20 vs 河床U20|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="瓦沙姆 vs 欧奈宰阿拉伯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/80a7b1a821f1a79a8fb4cb146dd0470f.png" group-title="足球",瓦沙姆 vs 欧奈宰阿拉伯|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="哈里特纳梅 vs 贝鲁特竞技|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/40f911211477a5915038a3b5d21191e9.png" group-title="足球",哈里特纳梅 vs 贝鲁特竞技|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="真特罗篮球 vs 莫吉马尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/478ca09ed8a9342b54f3a20f224e6870.png" group-title="篮球",真特罗篮球 vs 莫吉马尔|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="阿克隆陶里亚蒂 vs 沃罗涅日火炬|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d5a6f7b99c55a87b8a47337e7fe64588.png" group-title="足球",阿克隆陶里亚蒂 vs 沃罗涅日火炬|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4564190.m3u8?auth_key=1795269757-0-0-25ea34df3fb38da4578f97ca0271cd1f
+https://pullgz721.qmuiw.com/live/sd-1-4564190.m3u8?auth_key=1795270086-0-0-384ae7b2fb981d0f54ecbfc6ee637b79
