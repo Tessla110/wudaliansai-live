@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="布格豪森 vs 安斯巴赫|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b67c161842e8b39877bc3cef1ae609a4.png" group-title="足球",布格豪森 vs 安斯巴赫|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="梅明根 vs TSV兰茨贝格|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1b528248d7e186ee951eee6487f9ce55.png" group-title="足球",梅明根 vs TSV兰茨贝格|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="施韦因富特 vs 奥布斯塔特|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/8250600bbcf9ef662be37cc17f5173ae.png" group-title="足球",施韦因富特 vs 奥布斯塔特|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="阿梅德 vs 里泽体育|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/52a8c01c49d76f1f74ad148b07ef83f9.png" group-title="足球",阿梅德 vs 里泽体育|完场
@@ -28,6 +24,8 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="开塞利体育 vs 萨热耶尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b0682ee168970ada040811b16fa9ade1.png" group-title="足球",开塞利体育 vs 萨热耶尔|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="连姆沙 vs 萨赫霍兰|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/c2e153d0aab300e5ef811234c98cdbe6.png" group-title="足球",连姆沙 vs 萨赫霍兰|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="阿尔堡女足 vs 艾斯堡女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/96fd73fb5c6dc1065b0b861fbf987b09.png" group-title="足球",阿尔堡女足 vs 艾斯堡女足|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="奈司特维德HG女足 vs B93哥本哈根女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a8958a71e4c6b112a2b9b76ff9c58a67.png" group-title="足球",奈司特维德HG女足 vs B93哥本哈根女足|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
