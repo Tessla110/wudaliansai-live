@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="文尼察尼瓦 vs 迪纳兹维什哥罗德|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/068ef4ec1ac9dfb4215a1f6a00ba00ee.png" group-title="足球",文尼察尼瓦 vs 迪纳兹维什哥罗德|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="基辅火车头 vs 普里卡帕亚|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/85973cd13ca5f86ff08f4b41492cde39.png" group-title="足球",基辅火车头 vs 普里卡帕亚|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="布尔加斯1919 vs 利斯基|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/eee07e98c33dbee589b014d04141ee48.png" group-title="足球",布尔加斯1919 vs 利斯基|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="米格里青年队 vs 勒奥帕德|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/32e03e5b80ebc81e37687a20db4705f4.png" group-title="足球",米格里青年队 vs 勒奥帕德|完场
@@ -42,4 +38,8 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="董里联合 vs 也拉FC|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/776ef947a99212ffb3e098d6cf9ed7a2.png" group-title="足球",董里联合 vs 也拉FC|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="葡萄牙竞技 vs 卡萨比亚|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ce242b932d5ff7d5341dfd1c63203ecf.png" group-title="足球",葡萄牙竞技 vs 卡萨比亚|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4663084.m3u8?auth_key=1795264893-0-0-29e81a9a9a2ef63f41262cacd24a7ee7
+https://pullgz721.qmuiw.com/live/sd-1-4663084.m3u8?auth_key=1795265230-0-0-f29cf59634fa383d3f6089191624116c
+#EXTINF:-1 tvg-name="石油人女篮 vs 库尔斯克迪纳摩女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6340d1507f068e2817c6603a2f50233d.png" group-title="篮球",石油人女篮 vs 库尔斯克迪纳摩女篮|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3939359.m3u8?auth_key=1795265230-0-0-2b3f79aa1e5c571627f16c5b33cfd5b1
+#EXTINF:-1 tvg-name="巴兰诺域治 vs 博布鲁伊斯克|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/768a4ead9ed7624bd155fd176e46b8a4.png" group-title="足球",巴兰诺域治 vs 博布鲁伊斯克|视频直播
+https://pullgz721.qmuiw.com/live/hd-en-1-4502976.m3u8?auth_key=1795265230-0-0-852a12a5949441f5f7b27b239cfcbb3f
