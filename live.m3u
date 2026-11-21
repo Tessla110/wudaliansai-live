@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="三一之星女足 vs 马塔雷联女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0f61c21299f519932de0f987db80b196.png" group-title="足球",三一之星女足 vs 马塔雷联女足|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="德布雷辛尼U19 vs 基斯华达U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/c7a92a6fc6aaa97dadb0adc46b651d42.png" group-title="足球",德布雷辛尼U19 vs 基斯华达U19|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="费伦茨瓦罗斯U19 vs 华萨斯U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ec75e192be841231e9ae99ac3da660a1.png" group-title="足球",费伦茨瓦罗斯U19 vs 华萨斯U19|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="MTK布达佩斯U19 vs 布达伊U19足球俱乐部|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/7e18415f69a6112033f4ea7816ae5820.png" group-title="足球",MTK布达佩斯U19 vs 布达伊U19足球俱乐部|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="阿拉木图军团B队 vs 图兰|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/cf094f23a146726c19a17cb515d9e6b0.png" group-title="篮球",阿拉木图军团B队 vs 图兰|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="俄斯特拉发U19 vs 比尔森胜利U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/43a3f1f5c76a7ef398853b87dca565f1.png" group-title="足球",俄斯特拉发U19 vs 比尔森胜利U19|完场
@@ -41,7 +33,11 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="科瓦利夫卡科洛斯B队 vs FC维多尼古拉耶夫卡|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/21633deb3560b11caeba4f38b7663a1b.png" group-title="足球",科瓦利夫卡科洛斯B队 vs FC维多尼古拉耶夫卡|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="西班牙U16 vs 卡塔尔U16|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e5affc35a0914df194ec46776b6d7bda.png" group-title="足球",西班牙U16 vs 卡塔尔U16|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="萨古拉利 vs 伊比利亚1999|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a9bea85988465e9accfae7984ac850eb.png" group-title="足球",萨古拉利 vs 伊比利亚1999|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4479630.m3u8?auth_key=1795261296-0-0-dd9181480ced5891cce1831d9a6da9f6
+https://pullgz721.qmuiw.com/live/sd-1-4479630.m3u8?auth_key=1795261621-0-0-cddfd65ba2cd79c31e8abc294aa82b06
 #EXTINF:-1 tvg-name="皮纳尔 vs 代尼兹利|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d75151c84c5a51f8422363574a0ef8d3.png" group-title="篮球",皮纳尔 vs 代尼兹利|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3929955.m3u8?auth_key=1795261296-0-0-bb31cb9f55bfd996540cd727077204ba
+https://pullgz721.qmuiw.com/live/sd-2-3929955.m3u8?auth_key=1795261621-0-0-b76442319ee0ebfa21cd5713ed6444a3
+#EXTINF:-1 tvg-name="维迪奥顿U19 vs 萨拉格斯基U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/cf710724e278ebe6f438e61c07278473.png" group-title="足球",维迪奥顿U19 vs 萨拉格斯基U19|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
