@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="博乐大学 vs 华富里市|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/8a2a29c750e3555bc6b282be8cc7d111.png" group-title="足球",博乐大学 vs 华富里市|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="未来联合 vs 湛杵日联|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/be1d98d1a26e86b23c7ea950f1e29e66.png" group-title="足球",未来联合 vs 湛杵日联|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="普卢克登联 vs 舰队联合|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d2b64048d579be14ed8c4c9af1710151.png" group-title="足球",普卢克登联 vs 舰队联合|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="清莱托威 vs 梅州联|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3264c6c51515f3bae6b879529900a0c0.png" group-title="足球",清莱托威 vs 梅州联|完场
@@ -42,8 +38,12 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="布里斯班狮吼 vs 悉尼FC|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1963b39a28bc14ed984423858194208e.png" group-title="足球",布里斯班狮吼 vs 悉尼FC|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="仰光联 vs 伊斯佩|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/545790121cf7b80b0f02caec40a31ea6.png" group-title="足球",仰光联 vs 伊斯佩|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4640979.m3u8?auth_key=1795257829-0-0-d0e46ab63d9d8109af29ffb6c8be2079
+https://pullgz721.qmuiw.com/live/sd-1-4640979.m3u8?auth_key=1795258138-0-0-abed6de36c07e44c1db158ffbca6c7d5
 #EXTINF:-1 tvg-name="文化大学 vs 健行科技大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/89645130044267b2315d2279800d46b7.png" group-title="篮球",文化大学 vs 健行科技大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="阿拉木图军团B队 vs 图兰|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/cf094f23a146726c19a17cb515d9e6b0.png" group-title="篮球",阿拉木图军团B队 vs 图兰|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="FC贝卡 vs CS布加勒斯特迪纳摩|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f9f2d99fce38f231019b65b4e21e9695.png" group-title="足球",FC贝卡 vs CS布加勒斯特迪纳摩|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="实皆联 vs 妙瓦底|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3325b113293eb88e285eee071941783f.png" group-title="足球",实皆联 vs 妙瓦底|视频直播
+https://pullgz721.qmuiw.com/live/sd-1-4640980.m3u8?auth_key=1795258138-0-0-46335db285d47a5b618f2739d70fc5a8
