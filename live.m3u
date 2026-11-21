@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="奥伦堡 vs 波罗的海|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/6d81ef01fa7aaedf7144c933bdcc62d8.png" group-title="足球",奥伦堡 vs 波罗的海|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="巴州海再理 vs 阿克苏益民|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1983e22254b87529235e8ecdafe934d2.png" group-title="足球",巴州海再理 vs 阿克苏益民|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="文尼察尼瓦 vs 迪纳兹维什哥罗德|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/068ef4ec1ac9dfb4215a1f6a00ba00ee.png" group-title="足球",文尼察尼瓦 vs 迪纳兹维什哥罗德|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="基辅火车头 vs 普里卡帕亚|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/85973cd13ca5f86ff08f4b41492cde39.png" group-title="足球",基辅火车头 vs 普里卡帕亚|完场
@@ -41,3 +37,9 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="拉帕瑟 vs 巴扎兄弟俱乐部|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9d608bcf47472883168c443b4650ab78.png" group-title="足球",拉帕瑟 vs 巴扎兄弟俱乐部|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="普迪亚 vs 鲁赫利沃夫|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/522c9a9ca1d3e6801bde6e57ec18eed7.png" group-title="足球",普迪亚 vs 鲁赫利沃夫|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="董里联合 vs 也拉FC|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/776ef947a99212ffb3e098d6cf9ed7a2.png" group-title="足球",董里联合 vs 也拉FC|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="葡萄牙竞技 vs 卡萨比亚|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ce242b932d5ff7d5341dfd1c63203ecf.png" group-title="足球",葡萄牙竞技 vs 卡萨比亚|视频直播
+https://pullgz721.qmuiw.com/live/sd-1-4663084.m3u8?auth_key=1795264893-0-0-29e81a9a9a2ef63f41262cacd24a7ee7
