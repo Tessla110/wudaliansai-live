@@ -1,16 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="法哈西尔 vs 伯根|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/807ed0a936bb4d9a8de9810fb66f8ccf.png" group-title="足球",法哈西尔 vs 伯根|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="勒沃库森 vs 帕德博恩|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/dde60194018144009e079fc9c0af9090.png" group-title="足球",勒沃库森 vs 帕德博恩|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="法兰克福 vs 霍芬海姆|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e128d7b1a15940bb8e526fae5ce87ddc.png" group-title="足球",法兰克福 vs 霍芬海姆|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="柏林联合 vs RB莱比锡|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ac79385829eb4a23a0485412131d13b2.png" group-title="足球",柏林联合 vs RB莱比锡|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="门兴 vs 多特蒙德|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/999c033d7cd14dc38d05a0957f3230b4.png" group-title="足球",门兴 vs 多特蒙德|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="埃尔沃斯贝格 vs 弗赖堡|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/177a253775bc4daa93ea802a574055d3.png" group-title="足球",埃尔沃斯贝格 vs 弗赖堡|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="奎梅萨 vs 费罗卡利|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/e7c38254e091ce34b7a9d523cbdc9388.png" group-title="篮球",奎梅萨 vs 费罗卡利|完场
@@ -19,8 +9,8 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="洛比托学院 vs 里波洛|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/6098ccce614f6f79cdf6ea013b1e51a7.png" group-title="足球",洛比托学院 vs 里波洛|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="第一维也纳 vs 布雷根茨|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0636fa6adc628b663bad30b92e1aa319.png" group-title="足球",第一维也纳 vs 布雷根茨|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4568035.m3u8?auth_key=1795278516-0-0-facf10ea2fc61ba3a0c907ffe63a2f1f
+#EXTINF:-1 tvg-name="第一维也纳 vs 布雷根茨|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0636fa6adc628b663bad30b92e1aa319.png" group-title="足球",第一维也纳 vs 布雷根茨|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="列弗宁 vs 瓦克蒂罗尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/bfeb14c5a9727a76294491a2702f01a7.png" group-title="足球",列弗宁 vs 瓦克蒂罗尔|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="格拉茨风暴青年队 vs 阿姆斯特顿|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/abbcd8dd34a0d635fa33af9497edacad.png" group-title="足球",格拉茨风暴青年队 vs 阿姆斯特顿|完场
@@ -44,4 +34,10 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="多米尼加U17 vs 黑山U17|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b2cf853ab1fd400a91d690c04ccf009e.png" group-title="足球",多米尼加U17 vs 黑山U17|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="福尔图那 vs 昆巴城|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e7a26e4b1ef6a286b51caf782b849a18.png" group-title="足球",福尔图那 vs 昆巴城|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="喀山红宝石 vs 泽尼特|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0ab0659da57b5883ede71977aea73e30.png" group-title="足球",喀山红宝石 vs 泽尼特|视频直播
+https://pullgz721.qmuiw.com/live/sd-1-4564216.m3u8?auth_key=1795278854-0-0-aa0163b9ef3059c1b88ca0145ff50ab0
+#EXTINF:-1 tvg-name="胡齐斯坦 vs 塞帕罕|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/079ba9412de9170d1277cb7243cf0e49.png" group-title="足球",胡齐斯坦 vs 塞帕罕|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="阿祖尔 vs 阿维翁|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/c422ac19c96932b4e63e4cb81dbcfd4f.jfif" group-title="足球",阿祖尔 vs 阿维翁|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
