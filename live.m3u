@@ -1,11 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="长沙勇胜 vs 湖北文旅|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/cfaf0a09167483fde945fa0a5a02be52.png" group-title="篮球",长沙勇胜 vs 湖北文旅|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="横滨卓越 vs 熊本火山|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d1f21b4d887417fa73a700b77d948f36.png" group-title="篮球",横滨卓越 vs 熊本火山|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="布里斯班狮吼 vs 悉尼FC|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1963b39a28bc14ed984423858194208e.png" group-title="足球",布里斯班狮吼 vs 悉尼FC|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="阿美德U19 vs 里泽体育U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3a15b3e5cd9c10279951a0a6219697fe.png" group-title="足球",阿美德U19 vs 里泽体育U19|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="仰光联 vs 伊斯佩|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/545790121cf7b80b0f02caec40a31ea6.png" group-title="足球",仰光联 vs 伊斯佩|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
@@ -14,6 +12,8 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="治尼兰德U20 vs 亚大那保U20|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b0ff12c2d9c0f635095ee77f18a4fd24.png" group-title="足球",治尼兰德U20 vs 亚大那保U20|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="仰光城U20 vs 伊斯佩U20|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3c4a021b72ba132b41deb2cf81e3a709.png" group-title="足球",仰光城U20 vs 伊斯佩U20|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="三一之星女足 vs 马塔雷联女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0f61c21299f519932de0f987db80b196.png" group-title="足球",三一之星女足 vs 马塔雷联女足|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="德布雷辛尼U19 vs 基斯华达U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/c7a92a6fc6aaa97dadb0adc46b651d42.png" group-title="足球",德布雷辛尼U19 vs 基斯华达U19|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
@@ -42,8 +42,10 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="顿涅茨克矿工青年队 vs 利维贝雷U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/40187bced90d7613a4a99ce810b7638e.png" group-title="足球",顿涅茨克矿工青年队 vs 利维贝雷U21|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="实皆联 vs 妙瓦底|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3325b113293eb88e285eee071941783f.png" group-title="足球",实皆联 vs 妙瓦底|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4640980.m3u8?auth_key=1795258757-0-0-81dcdfa45f667d2af159ecfc8b5f849e
+https://pullgz721.qmuiw.com/live/sd-1-4640980.m3u8?auth_key=1795259620-0-0-2f9455953dd8390e535d105efbc09149
 #EXTINF:-1 tvg-name="海参崴迪纳摩 vs 库班火车头|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6a08c80b540e8347dc07b59883d0ff24.png" group-title="篮球",海参崴迪纳摩 vs 库班火车头|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3936418.m3u8?auth_key=1795258757-0-0-6c6a155095712e6231902961d8d876b6
+https://pullgz721.qmuiw.com/live/sd-2-3936418.m3u8?auth_key=1795259620-0-0-dbb51b0220f1129fca0414c7f38ece99
 #EXTINF:-1 tvg-name="萨古拉利 vs 伊比利亚1999|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a9bea85988465e9accfae7984ac850eb.png" group-title="足球",萨古拉利 vs 伊比利亚1999|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4479630.m3u8?auth_key=1795258757-0-0-e6b80519b88757dad684c0d05b8eeb15
+https://pullgz721.qmuiw.com/live/sd-1-4479630.m3u8?auth_key=1795259620-0-0-30f838d2111ed05e6477efdc3fd3a566
+#EXTINF:-1 tvg-name="皮纳尔 vs 代尼兹利|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d75151c84c5a51f8422363574a0ef8d3.png" group-title="篮球",皮纳尔 vs 代尼兹利|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3929955.m3u8?auth_key=1795259620-0-0-8dc02a8255ded52e57c7bac2fa2b355b
