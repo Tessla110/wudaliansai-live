@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="仰光联 vs 伊斯佩|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/545790121cf7b80b0f02caec40a31ea6.png" group-title="足球",仰光联 vs 伊斯佩|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="文化大学 vs 健行科技大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/89645130044267b2315d2279800d46b7.png" group-title="篮球",文化大学 vs 健行科技大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="治尼兰德U20 vs 亚大那保U20|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b0ff12c2d9c0f635095ee77f18a4fd24.png" group-title="足球",治尼兰德U20 vs 亚大那保U20|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="仰光城U20 vs 伊斯佩U20|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3c4a021b72ba132b41deb2cf81e3a709.png" group-title="足球",仰光城U20 vs 伊斯佩U20|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="三一之星女足 vs 马塔雷联女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0f61c21299f519932de0f987db80b196.png" group-title="足球",三一之星女足 vs 马塔雷联女足|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="德布雷辛尼U19 vs 基斯华达U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/c7a92a6fc6aaa97dadb0adc46b651d42.png" group-title="足球",德布雷辛尼U19 vs 基斯华达U19|完场
@@ -48,8 +40,8 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="海参崴迪纳摩 vs 库班火车头|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6a08c80b540e8347dc07b59883d0ff24.png" group-title="篮球",海参崴迪纳摩 vs 库班火车头|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="科瓦利夫卡科洛斯B队 vs FC维多尼古拉耶夫卡|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/21633deb3560b11caeba4f38b7663a1b.png" group-title="足球",科瓦利夫卡科洛斯B队 vs FC维多尼古拉耶夫卡|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4590009.m3u8?auth_key=1795260673-0-0-41b03e5d4343ccd8e529f83030770ed6
+https://pullgz721.qmuiw.com/live/sd-1-4590009.m3u8?auth_key=1795260990-0-0-4eda699a4bcc0b566db955f68a1a47e0
 #EXTINF:-1 tvg-name="萨古拉利 vs 伊比利亚1999|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a9bea85988465e9accfae7984ac850eb.png" group-title="足球",萨古拉利 vs 伊比利亚1999|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4479630.m3u8?auth_key=1795260673-0-0-c31cdfb7615c4a1ed040c8e6737107a7
+https://pullgz721.qmuiw.com/live/sd-1-4479630.m3u8?auth_key=1795260990-0-0-cc3723a340a123e67db59ec9d191e7f3
 #EXTINF:-1 tvg-name="皮纳尔 vs 代尼兹利|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d75151c84c5a51f8422363574a0ef8d3.png" group-title="篮球",皮纳尔 vs 代尼兹利|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3929955.m3u8?auth_key=1795260673-0-0-00bb425c5e2c1e2d698dd4cc1da03805
+https://pullgz721.qmuiw.com/live/sd-2-3929955.m3u8?auth_key=1795260990-0-0-627041155dfb58169f9cbfa0720b6cbe
