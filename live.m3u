@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="AC布拉图U19 vs 斯堪U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/c29a0a9faf7beac96ad6e07471284b66.png" group-title="足球",AC布拉图U19 vs 斯堪U19|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="瓦多U19 vs 拉维纳U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/5e5b9105d9bee34e5ad1525e90155f53.png" group-title="足球",瓦多U19 vs 拉维纳U19|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="阿尔希欧蕾U19 vs 多洛米蒂贝卢诺U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1215a6621ba7e5fd960a73e533d76928.png" group-title="足球",阿尔希欧蕾U19 vs 多洛米蒂贝卢诺U19|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="基索拉U19 vs ASD因佩里亚U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a353293410b8d86c24ebaceb10e5a6ca.png" group-title="足球",基索拉U19 vs ASD因佩里亚U19|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="卢梅扎恩U19 vs 吉安纳U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1a0570e36350254fe26cfa5f757db40e.png" group-title="足球",卢梅扎恩U19 vs 吉安纳U19|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="桑雷美森U19 vs 拉斯卡里斯U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3d420adcadbdc2ac356d8d02e38e3b40.png" group-title="足球",桑雷美森U19 vs 拉斯卡里斯U19|完场
@@ -16,7 +8,7 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="卡塔尼亚U19 vs 阿雷素青年队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b6175352daa0a94382eaeaf1014b4a07.png" group-title="足球",卡塔尼亚U19 vs 阿雷素青年队|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="克里夫巴斯 vs 库德里夫卡|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/7e6cbc5c2a1f5b507eab5ac95eee454b.png" group-title="足球",克里夫巴斯 vs 库德里夫卡|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4569725.m3u8?auth_key=1795275273-0-0-4c68ee7780d7792691cd1bd27f771726
+https://pullgz721.qmuiw.com/live/sd-1-4569725.m3u8?auth_key=1795275613-0-0-3e5e480adf69b36487e46609a27920c1
 #EXTINF:-1 tvg-name="萨拉托夫汽车 vs 彼尔姆帕尔马|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/22a15fc5e7d8fb1706603e24fbcfefac.png" group-title="篮球",萨拉托夫汽车 vs 彼尔姆帕尔马|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="斯塔图里 vs 比瑟汀|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/7dce2557fda84aa53fac0b709d6581af.png" group-title="足球",斯塔图里 vs 比瑟汀|完场
@@ -37,5 +29,9 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="迪艾比 vs 圣莫尔路斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0a3e88426f83d5ce874dabcac72bd908.png" group-title="足球",迪艾比 vs 圣莫尔路斯|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="克拉科维亚 vs 雅盖隆|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f96b7e58be21c0eb3d0322c8a6015081.png" group-title="足球",克拉科维亚 vs 雅盖隆|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4559372.m3u8?auth_key=1795275274-0-0-bfca426a36b42d232932542e17e49b86
+#EXTINF:-1 tvg-name="巴斯蒂亚 vs 维利法兰|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/64ce1c7870a36892fde05cfc7f64c06b.png" group-title="足球",巴斯蒂亚 vs 维利法兰|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="克拉科维亚 vs 雅盖隆|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f96b7e58be21c0eb3d0322c8a6015081.png" group-title="足球",克拉科维亚 vs 雅盖隆|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="维尼亚斯斯特卡斯 vs 苏度瓦曼廷加|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/fcfaa12ce2604d472a17f1eeb193e5ce.png" group-title="篮球",维尼亚斯斯特卡斯 vs 苏度瓦曼廷加|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
