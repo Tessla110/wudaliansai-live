@@ -1,21 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="CFFEB vs ASF迪乌拉索|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/c30dda00c05ccda735a5561866b57215.png" group-title="足球",CFFEB vs ASF迪乌拉索|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="雷伊姆 vs ASFA叶尼加|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1780385559e5a0cc2bb283a984673f98.png" group-title="足球",雷伊姆 vs ASFA叶尼加|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="卡斯卡德竞技 vs 马杰斯蒂克FC|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/db8a84992b024e8260c4b350a4d9f95d.png" group-title="足球",卡斯卡德竞技 vs 马杰斯蒂克FC|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="焦点体育FC vs 科莫US|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/fcdf7b2c6f10ac1417d8c6f429e3a63e.png" group-title="足球",焦点体育FC vs 科莫US|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="木提维拉 vs 比堤欧纳克|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/205bed73efe1f4f7dc5695647b216913.png" group-title="足球",木提维拉 vs 比堤欧纳克|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="阿比让 vs 布瓦凯FC|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/338a6dd1519ae04fd943b1e399a81768.png" group-title="足球",阿比让 vs 布瓦凯FC|未开赛
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="德耶卡努 vs 爱诺瓦体育会|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a908b981566fdc8c479986db8e3fee17.png" group-title="足球",德耶卡努 vs 爱诺瓦体育会|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="CO科霍戈 vs ASEC米莫萨|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/03358137912e2bf6e69498b2f4667e3c.png" group-title="足球",CO科霍戈 vs ASEC米莫萨|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="沙拉曼卡B队 vs CD卡拉桑兹德索利亚|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/bc66e0773621d4c9225390947ca738f1.png" group-title="足球",沙拉曼卡B队 vs CD卡拉桑兹德索利亚|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
@@ -41,7 +29,11 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="切德瓦达 vs 达科沃|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8e2a4b6f347d8102dddfc997acbef64e.png" group-title="篮球",切德瓦达 vs 达科沃|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="桑德克亚 vs 萨尼克|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/bf4d90c223f6832c4ec3098de2f7fb44.png" group-title="足球",桑德克亚 vs 萨尼克|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="林茨 vs 哈特堡格|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/5d33f831f779428858138d28c9dd4480.png" group-title="足球",林茨 vs 哈特堡格|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4567101.m3u8?auth_key=1795282521-0-0-15385988a97ee145a87167664d59d97e
+https://pullgz721.qmuiw.com/live/sd-1-4567101.m3u8?auth_key=1795282833-0-0-7259451940d73633e281b6435a71e337
 #EXTINF:-1 tvg-name="WSG蒂罗尔 vs 奥地利卢斯特瑙|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f9a82ecd54632916dfcf7e1a8e9e1616.png" group-title="足球",WSG蒂罗尔 vs 奥地利卢斯特瑙|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4567102.m3u8?auth_key=1795282521-0-0-edb75853b226b1a5d23b434ede5c63ab
+https://pullgz721.qmuiw.com/live/sd-1-4567102.m3u8?auth_key=1795282833-0-0-853576b26ff41595f2c3d1777df705ae
+#EXTINF:-1 tvg-name="莫斯科MBA女篮 vs 莫斯科迪纳摩女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/15b8b4dfad8e5e9b689613541ddaae5f.png" group-title="篮球",莫斯科MBA女篮 vs 莫斯科迪纳摩女篮|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3939352.m3u8?auth_key=1795282833-0-0-98235a3f92154ec2c6f8d463ff60301e
