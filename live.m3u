@@ -1,17 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="雷根斯堡 vs 维尔茨堡踢球者|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d61c4e6d16164c34a14047c6df3fdcf7.png" group-title="足球",雷根斯堡 vs 维尔茨堡踢球者|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="SC维尔 vs 埃森|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/2938d79d1bc60e1f9bef2e0e7b1e81be.png" group-title="足球",SC维尔 vs 埃森|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="路肯瓦德 vs 开姆尼茨|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/abda9f7f0edc2f83f8f6988365cd4b52.png" group-title="足球",路肯瓦德 vs 开姆尼茨|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="SV塔斯马尼亚柏林 vs 柏林赫塔二队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1d43c7f7c240216a3c629eafcc6e16da.png" group-title="足球",SV塔斯马尼亚柏林 vs 柏林赫塔二队|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="奥厄 vs 巴贝尔斯贝格03|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3ee1e765f85618430f0cf3b75de292f7.png" group-title="足球",奥厄 vs 巴贝尔斯贝格03|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="奥格斯堡二队 vs 上弗兰肯拜罗伊特|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/c7262fc55aa74ca13abb47d251c39803.png" group-title="足球",奥格斯堡二队 vs 上弗兰肯拜罗伊特|完场
+#EXTINF:-1 tvg-name="布格豪森 vs 安斯巴赫|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b67c161842e8b39877bc3cef1ae609a4.png" group-title="足球",布格豪森 vs 安斯巴赫|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="梅明根 vs TSV兰茨贝格|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1b528248d7e186ee951eee6487f9ce55.png" group-title="足球",梅明根 vs TSV兰茨贝格|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
@@ -33,6 +23,8 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="贝尔格莱德红星 vs 苏杜利察|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/61a1f9406cde098a265280a3683da9b7.png" group-title="足球",贝尔格莱德红星 vs 苏杜利察|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="帕姆巴 vs 海岸联|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f1bd4d54ff29efbc8d8e65ce8232cf5d.png" group-title="足球",帕姆巴 vs 海岸联|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="开塞利体育 vs 萨热耶尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b0682ee168970ada040811b16fa9ade1.png" group-title="足球",开塞利体育 vs 萨热耶尔|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="连姆沙 vs 萨赫霍兰|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/c2e153d0aab300e5ef811234c98cdbe6.png" group-title="足球",连姆沙 vs 萨赫霍兰|完场
@@ -44,4 +36,8 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="桑德比BK女足 vs 域堡女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/de4a43608177c81b3fa6e7c2b8929081.png" group-title="足球",桑德比BK女足 vs 域堡女足|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="阿拉维斯 vs 拉科鲁尼亚|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/4014cd779b8949c5ab21908ea3dcda31.png" group-title="足球",阿拉维斯 vs 拉科鲁尼亚|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="帕多瓦U19 vs 克雷莫纳U20|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/2ffcbbb852fa3d7057191ba68a1a42e1.png" group-title="足球",帕多瓦U19 vs 克雷莫纳U20|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="恩特拉青年队 vs 雷吉亚纳U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a9dacf0367fb320a993653e988163a96.png" group-title="足球",恩特拉青年队 vs 雷吉亚纳U19|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
