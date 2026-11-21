@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="布拉迪斯拉发U19 vs 米哈洛夫采U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f6ce817720d2088e6fc5a12735714720.png" group-title="足球",布拉迪斯拉发U19 vs 米哈洛夫采U19|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="扑雷索夫U19 vs 佩特扎尔卡U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/018886b1fbea4a9723a6c4a57b0215da.png" group-title="足球",扑雷索夫U19 vs 佩特扎尔卡U19|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="特纳瓦斯巴达U19 vs 鲁森比洛克U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d6c54ddb1f6c1727c6d08c2099fe3818.png" group-title="足球",特纳瓦斯巴达U19 vs 鲁森比洛克U19|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="特伦辛U19 vs 斯崔达U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f532b18e58b88d85c3f3bf61d092facb.png" group-title="足球",特伦辛U19 vs 斯崔达U19|完场
@@ -41,15 +37,19 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="布尔加斯1919 vs 利斯基|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/eee07e98c33dbee589b014d04141ee48.png" group-title="足球",布尔加斯1919 vs 利斯基|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="佩斯卡拉青年队 vs 科森察青年队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f0c581aa61b176e8b90d1f33aba9ca06.png" group-title="足球",佩斯卡拉青年队 vs 科森察青年队|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="下诺夫哥罗德 vs 莫斯科鱼雷|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/5cf9048be5c1b4c7b7cb573230467256.png" group-title="足球",下诺夫哥罗德 vs 莫斯科鱼雷|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4576565.m3u8?auth_key=1795263246-0-0-86059612f51505d2838d056acc5acbe8
+https://pullgz721.qmuiw.com/live/sd-1-4576565.m3u8?auth_key=1795263574-0-0-edc4e2fe2533e47e55c29eb4e65a3ebe
 #EXTINF:-1 tvg-name="沙马基 vs 托武兹|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/37d454553ae43e27e90cfa76be033b88.png" group-title="足球",沙马基 vs 托武兹|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4595649.m3u8?auth_key=1795263246-0-0-c53bfd5c19515390c6a1458ec94c0e35
+https://pullgz721.qmuiw.com/live/sd-1-4595649.m3u8?auth_key=1795263574-0-0-475bf4e7b61c451426620b39feb60eaf
+#EXTINF:-1 tvg-name="亚松森奥林匹亚后备队 vs 特立尼登斯后备队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/2170361549a8b1752798ba93efdc83dc.png" group-title="足球",亚松森奥林匹亚后备队 vs 特立尼登斯后备队|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="苏西瓦 vs 蒂米什瓦拉|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1091660f3dff84fd648efe31391c5524.jpg" group-title="足球",苏西瓦 vs 蒂米什瓦拉|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4599247.m3u8?auth_key=1795263246-0-0-938e5347718402b0be86729006f7087f
+https://pullgz721.qmuiw.com/live/sd-1-4599247.m3u8?auth_key=1795263574-0-0-0dc4892d6535bf79cec36556c9201f64
 #EXTINF:-1 tvg-name="根克勒比利吉 vs 加济安泰普|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ec111e88997dce5a5f76c26b8e85d7f3.png" group-title="足球",根克勒比利吉 vs 加济安泰普|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4581372.m3u8?auth_key=1795263246-0-0-613b6c6dd0c769c06940ec183e2d6f29
+https://pullgz721.qmuiw.com/live/sd-1-4581372.m3u8?auth_key=1795263574-0-0-4aec9b062d7d09f101f1ea4ea9ae1ea0
 #EXTINF:-1 tvg-name="伊斯坦布尔体育 vs 克斯欧仁古库|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0bfea2ba6182289ed677f5b2450baf4b.png" group-title="足球",伊斯坦布尔体育 vs 克斯欧仁古库|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4583631.m3u8?auth_key=1795263246-0-0-8344051b053baad14e021b25b6615a43
+https://pullgz721.qmuiw.com/live/sd-1-4583631.m3u8?auth_key=1795263574-0-0-1c1d6909d6a0337d4b9afcaaa642d46d
 #EXTINF:-1 tvg-name="马丁1969体育 vs 班德尔马体育|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/33e85da76004bba7d123e7749b69e5b2.png" group-title="足球",马丁1969体育 vs 班德尔马体育|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4583635.m3u8?auth_key=1795263246-0-0-98f06d64ff7a8dbec1fe0e0050d8a619
+https://pullgz721.qmuiw.com/live/sd-1-4583635.m3u8?auth_key=1795263574-0-0-42b1ee04af77929353762787d5c5a1b3
