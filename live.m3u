@@ -39,17 +39,19 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="桑坦德竞技 vs 皇家社会|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0747bed6010b493bbb243d7aaeb7e4a0.png" group-title="足球",桑坦德竞技 vs 皇家社会|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="巴黎 vs 格拉沃利讷|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f96bb22cdad391337c9f1a8585b07dcc.png" group-title="篮球",巴黎 vs 格拉沃利讷|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3941653.m3u8?auth_key=1795367778-0-0-0ee77d4b324bade84ce2a6c9df35178a
+#EXTINF:-1 tvg-name="巴黎 vs 格拉沃利讷|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f96bb22cdad391337c9f1a8585b07dcc.png" group-title="篮球",巴黎 vs 格拉沃利讷|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="巴塞尔 vs 卢塞恩|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/85049bb043de13c3f7f63e8066ffed8a.png" group-title="足球",巴塞尔 vs 卢塞恩|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4556709.m3u8?auth_key=1795367778-0-0-adc214d963d130cf14c7daac9cf34de0
+https://pullgz721.qmuiw.com/live/sd-1-4556709.m3u8?auth_key=1795368083-0-0-1632cf87405d9f320faea610f0cbda25
 #EXTINF:-1 tvg-name="洛桑 vs 瓦杜兹|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0ea4365751bcbdc3c17cb99e2ce06056.png" group-title="足球",洛桑 vs 瓦杜兹|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4556710.m3u8?auth_key=1795367778-0-0-e0c09f928c094763e3906583de417fb3
-#EXTINF:-1 tvg-name="布洛马波卡纳 vs 哈姆斯塔德|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/61603b48126b6e023af5811bf43354b2.png" group-title="足球",布洛马波卡纳 vs 哈姆斯塔德|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4467225.m3u8?auth_key=1795367778-0-0-8b92a42e3b56261afbcc34fdd4db9894
+https://pullgz721.qmuiw.com/live/sd-1-4556710.m3u8?auth_key=1795368083-0-0-b23e776f6e94b114c31961abd21944ab
+#EXTINF:-1 tvg-name="布洛马波卡纳 vs 哈姆斯塔德|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/61603b48126b6e023af5811bf43354b2.png" group-title="足球",布洛马波卡纳 vs 哈姆斯塔德|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="UTA阿拉德 vs 克拉约瓦大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/acd5e194c961b091fcf0065a5d27a8f8.png" group-title="足球",UTA阿拉德 vs 克拉约瓦大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4567824.m3u8?auth_key=1795367778-0-0-c4e063205b96d3401e236fb205c57e57
+https://pullgz721.qmuiw.com/live/sd-1-4567824.m3u8?auth_key=1795368083-0-0-f2add76622963ec255deb5a93e1cbdef
+#EXTINF:-1 tvg-name="圣安德鲁斯卢索尔 vs 塞壬|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/58a8690998af1697ad372dfbd3959b72.png" group-title="足球",圣安德鲁斯卢索尔 vs 塞壬|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="汉堡 vs 哈根|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b39c1fc2fbfd73b3b04fbeae9837dcc8.png" group-title="篮球",汉堡 vs 哈根|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3936167.m3u8?auth_key=1795367778-0-0-eb13f0025e2fefe420536c07a6fd5169
+https://pullgz721.qmuiw.com/live/sd-2-3936167.m3u8?auth_key=1795368083-0-0-e25200e98705d6ecd34630b956f470c5
 #EXTINF:-1 tvg-name="路德维希堡 vs 中央德国|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2b434c60d717f359dc315064848bbf9e.png" group-title="篮球",路德维希堡 vs 中央德国|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3936225.m3u8?auth_key=1795367778-0-0-80b9673af19209dc59725f61f757ffec
+https://pullgz721.qmuiw.com/live/sd-2-3936225.m3u8?auth_key=1795368083-0-0-18f0acc9d784ff84fe6b4223800c3f13
