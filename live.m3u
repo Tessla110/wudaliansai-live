@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="云斯卡尔达斯 vs 国民竞技|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b060f70150fe2b52fba8aa026a930c4e.png" group-title="足球",云斯卡尔达斯 vs 国民竞技|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="梅塔帕 vs 科胡特佩克|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f98516b0b37244c7ad087b47e96f33d9.png" group-title="篮球",梅塔帕 vs 科胡特佩克|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="华盛顿精神女足 vs 堪萨斯城女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/76c34622a2b9c6ccdf6d2c363e255cd3.png" group-title="足球",华盛顿精神女足 vs 堪萨斯城女足|完场
@@ -40,40 +38,40 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="太平洋大学 vs 布拉德利大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/402e4e3d93de592a0bb7cc75e9418e33.png" group-title="篮球",太平洋大学 vs 布拉德利大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="国王 vs 凯尔特人|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1fc010aba7ac510b5364e5f76ca4f060.png" group-title="篮球",国王 vs 凯尔特人|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3931721.m3u8?auth_key=1795324027-0-0-ac170984d698d518d99c6b7dd6a145fb
+https://pullgz721.qmuiw.com/live/hd-zh-2-3931721.m3u8?auth_key=1795325256-0-0-1945f9c6737c2a5635eb47d382c85944
 #EXTINF:-1 tvg-name="奥克兰东郊 vs 惠灵顿凤凰后备队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/400d98a7d41f425de763148e54299823.png" group-title="足球",奥克兰东郊 vs 惠灵顿凤凰后备队|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="老虎大学 vs 墨西哥美洲|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a7df6424c12ac9b7a6e5ca3ff953d5b3.png" group-title="足球",老虎大学 vs 墨西哥美洲|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4553945.m3u8?auth_key=1795324027-0-0-7cae133ed43b70a5c8f6e03cf2edb657
+#EXTINF:-1 tvg-name="老虎大学 vs 墨西哥美洲|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a7df6424c12ac9b7a6e5ca3ff953d5b3.png" group-title="足球",老虎大学 vs 墨西哥美洲|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="三重十四 vs 新宿创造|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0c75b77139a9c50741fcc063b9618709.png" group-title="足球",三重十四 vs 新宿创造|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4624990.m3u8?auth_key=1795324027-0-0-a30ef658cb2c9d08fe77c4faae8b2312
+https://pullgz721.qmuiw.com/live/sd-1-4624990.m3u8?auth_key=1795325257-0-0-193b8aa07235a8cd2fc0f58cc8f75733
 #EXTINF:-1 tvg-name="冲绳SV vs 丸安冈崎|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/09d6732e74cc8f4ece8cfac78a4ef777.png" group-title="足球",冲绳SV vs 丸安冈崎|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4624991.m3u8?auth_key=1795324027-0-0-99887cf0368c193c39100ef410aa327b
+https://pullgz721.qmuiw.com/live/sd-1-4624991.m3u8?auth_key=1795325257-0-0-8568f916f4bfaf8a2fb83716e9f98e3f
 #EXTINF:-1 tvg-name="岩手盛冈仙鹤 vs J-利斯FC|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/6a2af4e6be18c45984a93fce2e76fb7f.png" group-title="足球",岩手盛冈仙鹤 vs J-利斯FC|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4624992.m3u8?auth_key=1795324027-0-0-041f2286bb5ba29516f6b90887aad676
+https://pullgz721.qmuiw.com/live/sd-1-4624992.m3u8?auth_key=1795325257-0-0-089dbb14a6a6a48bbe57e8b373ddd4f6
 #EXTINF:-1 tvg-name="本田制锁 vs 润梅尔青森|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/c3193d175a6db6a5a47226ca5bb30719.png" group-title="足球",本田制锁 vs 润梅尔青森|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4624993.m3u8?auth_key=1795324027-0-0-d4db4c05286097b5ff24d60674e3e766
+https://pullgz721.qmuiw.com/live/sd-1-4624993.m3u8?auth_key=1795325257-0-0-2037fcde6dade3b55d65488fcba48911
 #EXTINF:-1 tvg-name="横河武藏野FC vs FC本田|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e2473e30597b13682634eee883fc7799.png" group-title="足球",横河武藏野FC vs FC本田|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4624994.m3u8?auth_key=1795324027-0-0-0f66781e03e1e41957325adf1d44f908
+https://pullgz721.qmuiw.com/live/sd-1-4624994.m3u8?auth_key=1795325257-0-0-489dc57979cbefc60cba6f6cb39269ba
 #EXTINF:-1 tvg-name="墨尔本胜利女足 vs 珀斯光荣女足|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9404836370542c222032ecea12e9b641.png" group-title="足球",墨尔本胜利女足 vs 珀斯光荣女足|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4625698.m3u8?auth_key=1795324027-0-0-2d259fa6a444d6bc92787ac3db1fa625
+https://pullgz721.qmuiw.com/live/sd-1-4625698.m3u8?auth_key=1795325257-0-0-b36c3a752414b789a5134932a5a5a376
 #EXTINF:-1 tvg-name="杜克大学 vs 华盛顿州立大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2346b82914fac9294c457adbb0f0c03a.png" group-title="篮球",杜克大学 vs 华盛顿州立大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3949502.m3u8?auth_key=1795324027-0-0-4721be1d2ff19060d285306802d61ff3
+https://pullgz721.qmuiw.com/live/sd-2-3949502.m3u8?auth_key=1795325257-0-0-9a3df15f7f6b036ea8cab9552edf1df1
 #EXTINF:-1 tvg-name="阿德莱德城 vs 布罗德美度兰|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/144d2ec9191d3ffe5742433c81d1ed5e.png" group-title="足球",阿德莱德城 vs 布罗德美度兰|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4657688.m3u8?auth_key=1795324027-0-0-cb2313b9f2a182f65176beebd3ec3ff2
+https://pullgz721.qmuiw.com/live/sd-1-4657688.m3u8?auth_key=1795325257-0-0-f9fac5e5e871c611d12d783a9639e4d2
 #EXTINF:-1 tvg-name="埃文代尔 vs 莱卡特老虎|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ff2e694966de559719f778b5c79ea2ad.png" group-title="足球",埃文代尔 vs 莱卡特老虎|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4657689.m3u8?auth_key=1795324027-0-0-e99057a4f1bb73ada98d4b19175d4324
+https://pullgz721.qmuiw.com/live/sd-1-4657689.m3u8?auth_key=1795325257-0-0-273d2e41c177b561c6c8d1c14c22e1f0
 #EXTINF:-1 tvg-name="汤斯维尔火力女篮 vs 本迪高精灵女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ce9b30c4d3c2015ecb7fbcbc91956078.png" group-title="篮球",汤斯维尔火力女篮 vs 本迪高精灵女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3925788.m3u8?auth_key=1795324027-0-0-00e99a752aabfbdcfb3114c0c6c46a8a
+https://pullgz721.qmuiw.com/live/sd-2-3925788.m3u8?auth_key=1795325257-0-0-37fbd8a156ba2b03052bc64e7e5e557b
 #EXTINF:-1 tvg-name="东南墨尔本凤凰 vs 凯恩斯太攀蛇|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/fb957ad093d309e8c337aeb83ebe7857.png" group-title="篮球",东南墨尔本凤凰 vs 凯恩斯太攀蛇|视频直播
-https://pullgz721.qmuiw.com/live/hd-en-2-3925949.m3u8?auth_key=1795324027-0-0-e434c4dbd6a1c1005f4987ac62f40881
+https://pullgz721.qmuiw.com/live/hd-en-2-3925949.m3u8?auth_key=1795325257-0-0-aa94880655f3fc19574eb27e3878b3b2
 #EXTINF:-1 tvg-name="熊本深红 vs 北九州向日葵|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/809e95942827f1fca7b6c5cffd4777cb.png" group-title="足球",熊本深红 vs 北九州向日葵|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4556042.m3u8?auth_key=1795324027-0-0-38744675f824a9c1b7a6c327215834ce
+https://pullgz721.qmuiw.com/live/sd-1-4556042.m3u8?auth_key=1795325257-0-0-7a48518957d05270a066d4adc51c3802
 #EXTINF:-1 tvg-name="鹿儿岛列布尼斯 vs 香川五箭|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7d7e829e1d19b3f7e0a71d0a85ed8e97.png" group-title="篮球",鹿儿岛列布尼斯 vs 香川五箭|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3934870.m3u8?auth_key=1795324027-0-0-508128c56f98b7b769e64c66b1e8f7c3
+https://pullgz721.qmuiw.com/live/sd-2-3934870.m3u8?auth_key=1795325257-0-0-21af9d604019dd291f6339b1869c3226
 #EXTINF:-1 tvg-name="神户胜利船U21 vs FC东京U21|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/2f04d6a0b52a46858373c257a4b5f87e.png" group-title="足球",神户胜利船U21 vs FC东京U21|视频直播
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+https://pullgz721.qmuiw.com/live/sd-1-4669804.m3u8?auth_key=1795325257-0-0-b29e8e1d8990fc311cb0dacbfe748860
 #EXTINF:-1 tvg-name="大阪钢巴U21 vs 东京绿茵U21|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ab99cd748cc00908ebfc02d4ef0aee1d.png" group-title="足球",大阪钢巴U21 vs 东京绿茵U21|视频直播
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+https://pullgz721.qmuiw.com/live/sd-1-4669803.m3u8?auth_key=1795325257-0-0-353c975ca39021777a13dfdb708ecd51
 #EXTINF:-1 tvg-name="沼津青蓝 vs 横滨体育|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/93f986d33eb450bfbee18b2c72ab2fc9.png" group-title="足球",沼津青蓝 vs 横滨体育|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4624995.m3u8?auth_key=1795324027-0-0-c9467fa7f72f65ab9c2084a7a7a6c4fa
+https://pullgz721.qmuiw.com/live/sd-1-4624995.m3u8?auth_key=1795325257-0-0-316c8dd010a29407f2147ad89899eef6
