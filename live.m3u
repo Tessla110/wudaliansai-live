@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="苏瀑天空力量 vs 风城公牛|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8b242b43a5345a1d119ef92736bfd399.png" group-title="篮球",苏瀑天空力量 vs 风城公牛|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="德克萨斯传奇 vs 孟菲斯疾行|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f5a8edf8b84f2ee56df9d74d7131fff2.png" group-title="篮球",德克萨斯传奇 vs 孟菲斯疾行|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="威斯康星牧群 vs 诺布尔斯维尔爆炸|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/fe74121213b2dcc8163e2cefdb59ea25.png" group-title="篮球",威斯康星牧群 vs 诺布尔斯维尔爆炸|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="特洛伊大学 vs 瓦尔帕莱索大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2b15661c58c8468d99a0c1e5c1bdad9a.png" group-title="篮球",特洛伊大学 vs 瓦尔帕莱索大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="塞拉亚 vs 萨卡特佩克|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/6dcb3d6cf364125f4f7671ef04ef5360.png" group-title="足球",塞拉亚 vs 萨卡特佩克|完场
@@ -39,26 +33,26 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="得克萨斯南方大学 vs 新奥尔良大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/455ccb05cdc6c7f42b25ed9926fdcf0c.png" group-title="篮球",得克萨斯南方大学 vs 新奥尔良大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="皇后女篮 vs 南方黄眼企鹅女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ac5ea6457e6dd2491685372c59f1b83d.png" group-title="篮球",皇后女篮 vs 南方黄眼企鹅女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3938205.m3u8?auth_key=1795319457-0-0-680d8adc395d8630d008ec17feb395b4
+#EXTINF:-1 tvg-name="皇后女篮 vs 南方黄眼企鹅女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ac5ea6457e6dd2491685372c59f1b83d.png" group-title="篮球",皇后女篮 vs 南方黄眼企鹅女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="莫雷利亚 vs 拉巴斯竞技|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1cd995bdc2b652d31129d027afb27ed8.png" group-title="足球",莫雷利亚 vs 拉巴斯竞技|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4670633.m3u8?auth_key=1795319457-0-0-8189d995a125604a58f3934241120810
+https://pullgz721.qmuiw.com/live/sd-1-4670633.m3u8?auth_key=1795319767-0-0-37e6a4b4088e25c6a7f7c07d52a1bfc5
 #EXTINF:-1 tvg-name="UP马鲁女篮 vs DLSU绿色弓箭手女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9fc7668dd25547208ec36e8fc04f6cdc.png" group-title="篮球",UP马鲁女篮 vs DLSU绿色弓箭手女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="惠灵顿凤凰 vs 麦克阿瑟FC|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/bd2e5251a95a8006067d443d020d64e8.png" group-title="足球",惠灵顿凤凰 vs 麦克阿瑟FC|视频直播
-https://pullgz721.qmuiw.com/live/hd-en-1-4590472.m3u8?auth_key=1795319457-0-0-4f9ae0693463d1905fbaebb94e6f678d
-#EXTINF:-1 tvg-name="UC首都女篮 vs 塔斯马尼亚珍宝女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0bf8d00e9a4df141d819d0be02302d42.png" group-title="篮球",UC首都女篮 vs 塔斯马尼亚珍宝女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3925787.m3u8?auth_key=1795319457-0-0-7d905353c3af0737976cce1c6a7c20fd
+#EXTINF:-1 tvg-name="惠灵顿凤凰 vs 麦克阿瑟FC|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/bd2e5251a95a8006067d443d020d64e8.png" group-title="足球",惠灵顿凤凰 vs 麦克阿瑟FC|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="UC首都女篮 vs 塔斯马尼亚珍宝女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0bf8d00e9a4df141d819d0be02302d42.png" group-title="篮球",UC首都女篮 vs 塔斯马尼亚珍宝女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="川崎前锋U21 vs 冈山绿雉U21|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/c6bf2c7bfc6b4ef4b8d69075db949976.png" group-title="足球",川崎前锋U21 vs 冈山绿雉U21|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4669802.m3u8?auth_key=1795319457-0-0-1dbffd943aba5e4c736e414091284ddf
+https://pullgz721.qmuiw.com/live/sd-1-4669802.m3u8?auth_key=1795319767-0-0-b3c4d57f0b19677f2d82af5cdf7b0bbc
 #EXTINF:-1 tvg-name="国王 vs 凯尔特人|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1fc010aba7ac510b5364e5f76ca4f060.png" group-title="篮球",国王 vs 凯尔特人|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3931721.m3u8?auth_key=1795319457-0-0-cfc80087d636a891449684ed41b5bfc2
+https://pullgz721.qmuiw.com/live/hd-zh-2-3931721.m3u8?auth_key=1795319767-0-0-a7dc880217a3c2ccc658fd00ad5dd5b6
 #EXTINF:-1 tvg-name="奥克兰东郊 vs 惠灵顿凤凰后备队|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/400d98a7d41f425de763148e54299823.png" group-title="足球",奥克兰东郊 vs 惠灵顿凤凰后备队|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4647570.m3u8?auth_key=1795319457-0-0-ac814c734c6591fe36585eb19fbb17cd
+https://pullgz721.qmuiw.com/live/sd-1-4647570.m3u8?auth_key=1795319767-0-0-eb2751d4dcf0c4e32bf285893028a996
 #EXTINF:-1 tvg-name="老虎大学 vs 墨西哥美洲|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a7df6424c12ac9b7a6e5ca3ff953d5b3.png" group-title="足球",老虎大学 vs 墨西哥美洲|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4553945.m3u8?auth_key=1795319457-0-0-a1cb2914cc9f17b6ac2a3a3bf9e0eeeb
+https://pullgz721.qmuiw.com/live/sd-1-4553945.m3u8?auth_key=1795319767-0-0-a3f61ae873dedb5b7e6f4c5ca06ba131
 #EXTINF:-1 tvg-name="东京日月女篮 vs 三菱电机女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2532dfa883c77f9030c187ed5f77aff7.png" group-title="篮球",东京日月女篮 vs 三菱电机女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960179.m3u8?auth_key=1795319457-0-0-c15a372452befa68e01d53cb153d7e5a
+https://pullgz721.qmuiw.com/live/sd-2-3960179.m3u8?auth_key=1795319767-0-0-65e83a217dd31e1d882a948cf67867bc
 #EXTINF:-1 tvg-name="三重十四 vs 新宿创造|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0c75b77139a9c50741fcc063b9618709.png" group-title="足球",三重十四 vs 新宿创造|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="冲绳SV vs 丸安冈崎|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/09d6732e74cc8f4ece8cfac78a4ef777.png" group-title="足球",冲绳SV vs 丸安冈崎|未开赛
@@ -70,4 +64,10 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="横河武藏野FC vs FC本田|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e2473e30597b13682634eee883fc7799.png" group-title="足球",横河武藏野FC vs FC本田|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="丰田阳光女篮 vs 爱信飞翼女篮|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f3abae6aed6bbdb42fa2fdafe0d43000.png" group-title="篮球",丰田阳光女篮 vs 爱信飞翼女篮|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="墨尔本胜利女足 vs 珀斯光荣女足|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9404836370542c222032ecea12e9b641.png" group-title="足球",墨尔本胜利女足 vs 珀斯光荣女足|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="杜克大学 vs 华盛顿州立大学|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2346b82914fac9294c457adbb0f0c03a.png" group-title="篮球",杜克大学 vs 华盛顿州立大学|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="NU牛头犬女篮 vs UST咆哮虎女篮|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/23a0d8e76a709b850cdb7e2aa141f355.png" group-title="篮球",NU牛头犬女篮 vs UST咆哮虎女篮|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
