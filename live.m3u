@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="法拿莫达利 vs 拜利斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e1985e3906662b3c32216b34c5255a4b.png" group-title="足球",法拿莫达利 vs 拜利斯|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="基安尼纳女篮 vs PAOK萨洛尼卡女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/76cbdecd7ae767621d3ca9e925b207bf.jpg" group-title="篮球",基安尼纳女篮 vs PAOK萨洛尼卡女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="摩洛哥U17 vs 中国U17|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f24868ce67a31d285fbac253dc57256d.png" group-title="足球",摩洛哥U17 vs 中国U17|完场
@@ -41,15 +39,17 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="迪克瓦夏普尔女篮 vs 耶路撒冷列弗夏普尔女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0e31add17b9e32b109ab394bca2fcf8e.png" group-title="篮球",迪克瓦夏普尔女篮 vs 耶路撒冷列弗夏普尔女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="科佩尔 vs 亚穆尼积|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e62d9ac93919ce609ccc531a44c69bee.png" group-title="足球",科佩尔 vs 亚穆尼积|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4646395.m3u8?auth_key=1795458344-0-0-6c79cfab2eef52a71cb071d6f08d07f4
+#EXTINF:-1 tvg-name="科佩尔 vs 亚穆尼积|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e62d9ac93919ce609ccc531a44c69bee.png" group-title="足球",科佩尔 vs 亚穆尼积|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="保德比斯基 vs 特马利卡|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/6b3b62ed8300d4bb2039cade7fa6943b.png" group-title="足球",保德比斯基 vs 特马利卡|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4560380.m3u8?auth_key=1795458344-0-0-c64f1938f6e5399103deae4bc0b55f3d
+https://pullgz721.qmuiw.com/live/sd-1-4560380.m3u8?auth_key=1795458645-0-0-f1b8370c660312911719d671eae7570c
 #EXTINF:-1 tvg-name="内罗毕城雷霆 vs 乌鲁纳尼|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1fd82d75a82e84b7486056b10c070cb8.png" group-title="篮球",内罗毕城雷霆 vs 乌鲁纳尼|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961443.m3u8?auth_key=1795458344-0-0-2c0463775d2228b2a814c2940bc65393
+https://pullgz721.qmuiw.com/live/sd-2-3961443.m3u8?auth_key=1795458645-0-0-9a66a6edc41a8cbb85fb49fe2761c7f5
 #EXTINF:-1 tvg-name="巴沙克谢希尔 vs 乔鲁姆|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f0d939fe86baa9686d9f9f1aa34bc191.png" group-title="足球",巴沙克谢希尔 vs 乔鲁姆|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4581369.m3u8?auth_key=1795458344-0-0-71c0c030ea5bc8ca9008e66dcf19ee14
+https://pullgz721.qmuiw.com/live/sd-1-4581369.m3u8?auth_key=1795458645-0-0-cc97815c524d1dc0511891a817463af3
 #EXTINF:-1 tvg-name="斯拉文 vs 奥西耶克|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a491b4d6a330910fa354ff60a65bb615.png" group-title="足球",斯拉文 vs 奥西耶克|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4552979.m3u8?auth_key=1795458344-0-0-80308ad41b82b517fb35fd484f053c37
+https://pullgz721.qmuiw.com/live/sd-1-4552979.m3u8?auth_key=1795458645-0-0-f0ba9b08a947dcba06ff8d281b58e9ae
 #EXTINF:-1 tvg-name="波德鲁姆 vs 凡城体育|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/52ad6d005782baec899d29055cbed020.png" group-title="足球",波德鲁姆 vs 凡城体育|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4583627.m3u8?auth_key=1795458344-0-0-ea093739a62215f616e7d1d3db413f87
+https://pullgz721.qmuiw.com/live/sd-1-4583627.m3u8?auth_key=1795458645-0-0-eaf19cbee278cff25191b01581035dd9
+#EXTINF:-1 tvg-name="哈马比 vs 哥德堡|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/487d9eecf77605c17123cc81e37313f3.png" group-title="足球",哈马比 vs 哥德堡|视频直播
+https://pullgz721.qmuiw.com/live/sd-1-4467228.m3u8?auth_key=1795458645-0-0-ce8e2a7345a513c5a0af19c3d9fe6cd6
