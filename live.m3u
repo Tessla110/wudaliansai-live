@@ -1,16 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="克卢日大学女篮 vs 亚历山德列女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1a8e0639360a40708af5841d2bede440.png" group-title="篮球",克卢日大学女篮 vs 亚历山德列女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="卡拉戈斯塔 vs 埃斯兰沙尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/683cd0419d5675dff19d880e2378ab61.png" group-title="足球",卡拉戈斯塔 vs 埃斯兰沙尔|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="贾河体育女足 vs 旋风FC女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/34ee145353c7f9a2fce27c01c84f531f.png" group-title="足球",贾河体育女足 vs 旋风FC女足|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="视觉女足 vs 意大利姆邦女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b9dddae075554815bc475c10f4e7b2d7.png" group-title="足球",视觉女足 vs 意大利姆邦女足|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="基贝拉黑星 vs 纳瓦萨体育|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f2bab05f1dc94c2e3205b23126b72f6b.png" group-title="足球",基贝拉黑星 vs 纳瓦萨体育|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="恩佐亚苏格 vs 姆法尔梅|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/803ad9d23e1f2b7cf7f6a7a596344d52.png" group-title="足球",恩佐亚苏格 vs 姆法尔梅|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="卡巴蒂青年 vs 基苏木全明星|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e4cad8e6ca8ae93402a42b79416902e4.png" group-title="足球",卡巴蒂青年 vs 基苏木全明星|完场
@@ -39,7 +29,17 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="索菲亚中央陆军B队 vs 旧扎戈拉贝罗|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/083e0addbc14f4bceafdb62f92bea16c.png" group-title="足球",索菲亚中央陆军B队 vs 旧扎戈拉贝罗|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="萨汉姆 vs 阿曼FC|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/42a53be271279f3e63859ab9801fddaf.png" group-title="足球",萨汉姆 vs 阿曼FC|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="阿拉比乌姆U21 vs 阿尔富吉拉U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a5185e74296d31fdf3772e3c3b60b03d.png" group-title="足球",阿拉比乌姆U21 vs 阿尔富吉拉U21|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="皮尔戈斯 vs 马尔科|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f41c3920e53149ec909bb13c4d21aa73.png" group-title="足球",皮尔戈斯 vs 马尔科|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4633196.m3u8?auth_key=1795444536-0-0-d9a39c498b2f9fa5decc11867832f88c
+#EXTINF:-1 tvg-name="沙哈马U21 vs 迪拜祈祷U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/786f390c7265e8f131b96d217be00824.png" group-title="足球",沙哈马U21 vs 迪拜祈祷U21|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="奥鲁巴U21 vs 酋长U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3873a03f31458604ac06ded6090f0cda.png" group-title="足球",奥鲁巴U21 vs 酋长U21|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="沙迦U21 vs 班尼亚斯U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/096453189121f29e582af6b9b62ec439.png" group-title="足球",沙迦U21 vs 班尼亚斯U21|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="皮尔戈斯 vs 马尔科|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f41c3920e53149ec909bb13c4d21aa73.png" group-title="足球",皮尔戈斯 vs 马尔科|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="乌兹别克斯坦U17 vs 牙买加U17|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9a351d67c7d778c962fcfd734a25913d.png" group-title="足球",乌兹别克斯坦U17 vs 牙买加U17|视频直播
+https://pullgz721.qmuiw.com/live/sd-1-4544829.m3u8?auth_key=1795444845-0-0-a303492f03546f4ddc35904614f111d4
