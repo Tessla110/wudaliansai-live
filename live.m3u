@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="迪利安格恩 vs 马那瓜|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d5a21d689cd054086e3506555035ee3e.png" group-title="足球",迪利安格恩 vs 马那瓜|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="南加州大学 vs 路易斯安那拉法叶分校|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6eb3c8eeb7623acd9b82d54ef522aa53.png" group-title="篮球",南加州大学 vs 路易斯安那拉法叶分校|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="加州圣玛丽大学 vs 曼隆学院|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3f23c2d4ed0305800353a8799c2a4830.png" group-title="篮球",加州圣玛丽大学 vs 曼隆学院|完场
@@ -44,9 +42,9 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="比达纳加尔U21 vs 联盟队U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b7eaf67c896b83053a3b50b691d84090.png" group-title="足球",比达纳加尔U21 vs 联盟队U21|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="东京日视美人女足 vs 神户雌狮女足|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ce447e0e3ad2662871036938cbb0edbc.png" group-title="足球",东京日视美人女足 vs 神户雌狮女足|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4602972.m3u8?auth_key=1795418159-0-0-d9195bf22eea7cdf594440f3e3108d2b
+https://pullgz721.qmuiw.com/live/sd-1-4602972.m3u8?auth_key=1795418478-0-0-7d35e7982b8f4f805190104ec069981a
 #EXTINF:-1 tvg-name="圣贝达红狮 vs EAC将军|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c927fdb4f201b8973d4a0995f62b0ae2.png" group-title="篮球",圣贝达红狮 vs EAC将军|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961428.m3u8?auth_key=1795418159-0-0-ad275d1ef2339636f6522671b4656d7f
+https://pullgz721.qmuiw.com/live/sd-2-3961428.m3u8?auth_key=1795418478-0-0-25ea90bca8be473d1b984081ec73d507
 #EXTINF:-1 tvg-name="马德拉斯工兵 vs 斯图拉德|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0822416345e2d8d33a657df506467eea.png" group-title="足球",马德拉斯工兵 vs 斯图拉德|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="埃塞俄比亚体育学院女足 vs 亚的斯亚特玛FC女足|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a9c1b729970f8ff528751fe61741bb39.png" group-title="足球",埃塞俄比亚体育学院女足 vs 亚的斯亚特玛FC女足|未开赛
@@ -72,4 +70,6 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="维勒斯青年队 vs 切尔诺夫策U21|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/096a24150e021839bf9319755cfbca23.png" group-title="足球",维勒斯青年队 vs 切尔诺夫策U21|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="乌鲁木齐赛尔伟多 vs 阿图什米拉瑟口腔|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3e403d89936c4aa66086db17c44c05eb.png" group-title="足球",乌鲁木齐赛尔伟多 vs 阿图什米拉瑟口腔|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="阿布拉韦弗斯 vs 奎松胡斯克尔|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/5251264ba0d83732beb7883f424e6a8f.png" group-title="篮球",阿布拉韦弗斯 vs 奎松胡斯克尔|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
