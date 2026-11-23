@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="奥地利维也纳女足 vs 第一维也纳女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0454e224a578f2d2fb8e4bafc58e140e.png" group-title="足球",奥地利维也纳女足 vs 第一维也纳女足|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="舍佩斯 vs 布加勒斯特快速|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/dda72c92fb0464e77807b12a5db4994d.png" group-title="足球",舍佩斯 vs 布加勒斯特快速|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="泛伊奥尼亚 vs 皮斯奇科|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/69d390df63447a41db41551bf5996428.png" group-title="篮球",泛伊奥尼亚 vs 皮斯奇科|完场
@@ -40,14 +38,18 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="阿克伦大学 vs 莱特州立大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/617e252dec466dece455319e79b7d52c.png" group-title="篮球",阿克伦大学 vs 莱特州立大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="奥鲁罗 vs 瓜比拉|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d2428da8ed3ec5eeba351e8a5e4c551f.png" group-title="足球",奥鲁罗 vs 瓜比拉|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4661455.m3u8?auth_key=1795466732-0-0-d68512c7ea32c0c11a04a81fc5c9934e
+https://pullgz721.qmuiw.com/live/sd-1-4661455.m3u8?auth_key=1795467063-0-0-e51911f17850348bae7d21df9a74025d
+#EXTINF:-1 tvg-name="摩塔瓜后备 vs CD奥林匹亚后备队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/26261fcef3d6cf6be1fbfb48ab53646d.png" group-title="足球",摩塔瓜后备 vs CD奥林匹亚后备队|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="伏伊伏丁那女篮 vs 科拉克学院女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/10c11ce570c380799ede2ec28ae5ce2a.png" group-title="篮球",伏伊伏丁那女篮 vs 科拉克学院女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="普隆尼亚 vs 普隆尼亚比唐|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/653bbd1aad39a1e5419a82242caec32d.png" group-title="篮球",普隆尼亚 vs 普隆尼亚比唐|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="维特斯 vs 格拉夫夏普|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/73d2e9cacd105fa3c927ab27e9a499ef.png" group-title="足球",维特斯 vs 格拉夫夏普|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4551905.m3u8?auth_key=1795466732-0-0-14ef18ded6c4c844cb474bc6837cbcbe
+https://pullgz721.qmuiw.com/live/sd-1-4551905.m3u8?auth_key=1795467063-0-0-ee30b1ae7fa6a4344e7572d214da2674
 #EXTINF:-1 tvg-name="阿贾克斯U21 vs 阿尔克马尔青年队|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ca3dc7bced54e33d32fd29f63dca51de.png" group-title="足球",阿贾克斯U21 vs 阿尔克马尔青年队|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4551915.m3u8?auth_key=1795466733-0-0-359149a78b3dd0e2f01c6f84b4fd40dd
-#EXTINF:-1 tvg-name="埃因霍温青年队 vs 乌德勒支青年队|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d147dc726146a1ff2feb347e8b91eb7d.png" group-title="足球",埃因霍温青年队 vs 乌德勒支青年队|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4551916.m3u8?auth_key=1795466733-0-0-97fdaa5a7dd63dc3ee0fcb75db7ad91f
+https://pullgz721.qmuiw.com/live/sd-1-4551915.m3u8?auth_key=1795467063-0-0-786cec567f0b739967edb9dee42b8f32
+#EXTINF:-1 tvg-name="埃因霍温青年队 vs 乌德勒支青年队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d147dc726146a1ff2feb347e8b91eb7d.png" group-title="足球",埃因霍温青年队 vs 乌德勒支青年队|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="布拉加女足 vs 本菲卡女足|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/de6b83aaed6957beea8b6fbd6d2fa13e.png" group-title="足球",布拉加女足 vs 本菲卡女足|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4645081.m3u8?auth_key=1795466733-0-0-6cb93f26e9f30f80e3be64e4b6685ac4
+https://pullgz721.qmuiw.com/live/sd-1-4645081.m3u8?auth_key=1795467063-0-0-7f8a78ec43da3bc1c79d57f094600554
