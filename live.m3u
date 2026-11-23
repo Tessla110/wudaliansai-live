@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="奇才 vs 魔术|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ac18ecfecac3af349477383866cf8ef5.png" group-title="篮球",奇才 vs 魔术|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="公牛 vs 掘金|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f15ed15d914b6a608e9a396f03c755b0.png" group-title="篮球",公牛 vs 掘金|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="爵士 vs 独行侠|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8c88df221129169246c5b8a82955fa34.png" group-title="篮球",爵士 vs 独行侠|完场
@@ -40,9 +42,9 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="蒙古U15 vs 北马里亚纳群岛U15|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/cbdabf3ede86db007a1d8f7428533921.png" group-title="足球",蒙古U15 vs 北马里亚纳群岛U15|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="新潟天鹅女足 vs 广岛三箭女足|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/5af9cefed1600799b9c3ee2d60e02cb1.png" group-title="足球",新潟天鹅女足 vs 广岛三箭女足|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4602890.m3u8?auth_key=1795407153-0-0-4ddf3131e372e10cc5cb3dac0da9db91
+https://pullgz721.qmuiw.com/live/sd-1-4602890.m3u8?auth_key=1795408052-0-0-f65dbbc186be1edaf6a6ea67972c2bc2
 #EXTINF:-1 tvg-name="野岛斯特拉女足 vs RB大宫松鼠女足|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/5568ced004ac6d705da33b97a1379069.png" group-title="足球",野岛斯特拉女足 vs RB大宫松鼠女足|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4602984.m3u8?auth_key=1795407153-0-0-22f026f2dffbde56fe9ebfa4999d37b1
+https://pullgz721.qmuiw.com/live/sd-1-4602984.m3u8?auth_key=1795408052-0-0-2eca3a95003989d6cb9a5c8915a64490
 #EXTINF:-1 tvg-name="圣何塞州立大学 vs 芝加哥洛约拉大学|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/13104e3af18e1bd643768ab356a2a5c0.png" group-title="篮球",圣何塞州立大学 vs 芝加哥洛约拉大学|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="长野帕塞罗女足 vs 浦和红钻女足|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/2af4307890e1d9b3ff59e88e8980bad8.png" group-title="足球",长野帕塞罗女足 vs 浦和红钻女足|未开赛
@@ -68,6 +70,4 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="CSJL骑士 vs JRU重型轰炸机|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d12bf57e7104c5e8c90c1dd6f71f39fb.png" group-title="篮球",CSJL骑士 vs JRU重型轰炸机|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="海豚BC vs 纳穆旺戈开拓者|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3cc73c457f3769a6a3f42ded52342946.png" group-title="篮球",海豚BC vs 纳穆旺戈开拓者|未开赛
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="治尼兰德 vs 伊洛瓦底联|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a5cb434d8e844bd1ba4fe4317516ca63.png" group-title="足球",治尼兰德 vs 伊洛瓦底联|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
