@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="犹他河谷大学 vs 史提夫奥斯汀州立大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8dd8aa638919eca4c4a6b4642ebe4ef7.png" group-title="篮球",犹他河谷大学 vs 史提夫奥斯汀州立大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="北卡罗莱纳大学 vs 蒙茅斯大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/fab4793422e0b067b9e72fc43715c4a1.png" group-title="篮球",北卡罗莱纳大学 vs 蒙茅斯大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="北达科他州立大学 vs 威斯康辛斯托特|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6467663fcb634f6b9987526c331abe65.png" group-title="篮球",北达科他州立大学 vs 威斯康辛斯托特|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="公牛 vs 骑士|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f15ed15d914b6a608e9a396f03c755b0.png" group-title="篮球",公牛 vs 骑士|完场
@@ -39,10 +35,12 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="南加州大学女篮 vs 北亚利桑那女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/105a16a227e9b7fc84d99fe67cbf8cdc.png" group-title="篮球",南加州大学女篮 vs 北亚利桑那女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="斯托克顿国王 vs 盐湖城之星|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0e489a3ba9404232a53b9eceb1431a0d.png" group-title="篮球",斯托克顿国王 vs 盐湖城之星|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="湖人 vs 爵士|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/fa6f985041ec3f9729172380ae9cebf8.png" group-title="篮球",湖人 vs 爵士|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3931737.m3u8?auth_key=1795496826-0-0-772b2a33535a80d8fea28402943c0dd3
-#EXTINF:-1 tvg-name="国王 vs 马刺|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1fc010aba7ac510b5364e5f76ca4f060.png" group-title="篮球",国王 vs 马刺|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3931738.m3u8?auth_key=1795496826-0-0-110f33bc4d9924bba576fbfd6d139e1b
+https://pullgz721.qmuiw.com/live/hd-zh-2-3931737.m3u8?auth_key=1795498069-0-0-58a7fc5d96b6522a004278c6152f8a6b
+#EXTINF:-1 tvg-name="国王 vs 马刺|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1fc010aba7ac510b5364e5f76ca4f060.png" group-title="篮球",国王 vs 马刺|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="内华达大学拉斯维加斯分校 vs 东华盛顿大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d4adbe6d4467faf30f3057f97ab32b98.png" group-title="篮球",内华达大学拉斯维加斯分校 vs 东华盛顿大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="皇家班加罗尔 vs 反叛者SC|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/4b6b4944af08355d5375a8d95e6a8395.png" group-title="足球",皇家班加罗尔 vs 反叛者SC|未开赛
@@ -72,4 +70,8 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="加鲁达亚克萨 vs 斯莱曼|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/015df51660b2918c97305936453e454c.png" group-title="足球",加鲁达亚克萨 vs 斯莱曼|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="文化大学 vs 台湾艺大|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/89645130044267b2315d2279800d46b7.png" group-title="篮球",文化大学 vs 台湾艺大|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="巴吞联U21 vs 泰国农业FC U21|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/bb9157b317ac1cfc6c338a2b40e0a790.png" group-title="足球",巴吞联U21 vs 泰国农业FC U21|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="沃洛奇斯克 vs 切尔尼夫|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/af22d4dbc58d0ede8457845472207807.png" group-title="足球",沃洛奇斯克 vs 切尔尼夫|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
