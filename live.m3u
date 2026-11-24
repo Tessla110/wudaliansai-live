@@ -1,18 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="河内公安 vs 神户胜利船|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9882bbda1cd86a2af4e724f399d1a1c8.png" group-title="足球",河内公安 vs 神户胜利船|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="拉查武里 vs 柔佛新山|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ca2b8d70931647840c78209be51763a3.png" group-title="足球",拉查武里 vs 柔佛新山|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="布赖代先锋 vs 阿科多|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/93cb3602a997b8de2f0a671f32ff5c6f.png" group-title="足球",布赖代先锋 vs 阿科多|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="布赖代先锋青年队 vs 利雅得青年人青年队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/5c90745d0706799959b9ac3a7f2b3a69.png" group-title="足球",布赖代先锋青年队 vs 利雅得青年人青年队|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="查巴垒 vs 祖尔菲|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ff21a5b966039a14fa4cd721d29b40ee.png" group-title="足球",查巴垒 vs 祖尔菲|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="塞卡凯阿拉伯 vs 纳杰马体育|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/6b326376b7791573f27a88fe9e9942a7.png" group-title="足球",塞卡凯阿拉伯 vs 纳杰马体育|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="班得瑞 vs 马塔雷联|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a165d8c3da9a195bfc01fd1c41e91a02.png" group-title="足球",班得瑞 vs 马塔雷联|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="Cece联合 vs 韦恩镇联|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/7ae57a18cd21228e5d9b1c0564455f5c.png" group-title="足球",Cece联合 vs 韦恩镇联|完场
@@ -39,6 +27,8 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="布格塞拉 vs 拉永体育|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/5db95690bfe0fa492a593ae56589cb6c.png" group-title="足球",布格塞拉 vs 拉永体育|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="玛芬兹奥 vs 富富尼|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/7798ba679a5b0048adc853424c7d9bea.png" group-title="足球",玛芬兹奥 vs 富富尼|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="诺士郡后备队 vs 罗瑟汉姆后备队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e35fab6ec993b8704b0ae3ae3fd275b6.png" group-title="足球",诺士郡后备队 vs 罗瑟汉姆后备队|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="日本U17 vs 塞尔维亚U17|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3c4d97fd12b32034eecb81ef51583b26.png" group-title="足球",日本U17 vs 塞尔维亚U17|完场
@@ -49,11 +39,21 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="布拉迪斯拉发U19 vs 皇家贝蒂斯U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f6ce817720d2088e6fc5a12735714720.png" group-title="足球",布拉迪斯拉发U19 vs 皇家贝蒂斯U19|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="斯雷尼迪FC vs 西钱马里FC|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ac0943dbb5e9a5b3efa8fe762e23330e.png" group-title="足球",斯雷尼迪FC vs 西钱马里FC|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4660096.m3u8?auth_key=1795532176-0-0-2597765410cc1c5999a3c195c9cd2615
+#EXTINF:-1 tvg-name="维兰库洛FC vs 松戈|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/8d721cf14e3114a903e8ef756fcb43fc.png" group-title="足球",维兰库洛FC vs 松戈|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="斯雷尼迪FC vs 西钱马里FC|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ac0943dbb5e9a5b3efa8fe762e23330e.png" group-title="足球",斯雷尼迪FC vs 西钱马里FC|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="科木青年队 vs 雅典AEKU19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ac1c5afe89adf0b9c98c2d09e66ad24f.png" group-title="足球",科木青年队 vs 雅典AEKU19|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="安集延 vs 塔什干火车头|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d639bb3f26ed6f1600de1e55885fa4be.png" group-title="足球",安集延 vs 塔什干火车头|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4671922.m3u8?auth_key=1795532176-0-0-f30970111b988a6cb1db1cd49bb879b0
+https://pullgz721.qmuiw.com/live/sd-1-4671922.m3u8?auth_key=1795532487-0-0-fd33ba6a8c15a941db7e0bc815548fc8
 #EXTINF:-1 tvg-name="阿尔马雷克  vs 纳曼干新春|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b7ceab59e1e266d0fd3245eb9d3f1f25.png" group-title="足球",阿尔马雷克  vs 纳曼干新春|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4671924.m3u8?auth_key=1795532176-0-0-b4bdd64f5f9f6e6c5bf8002e5fc05c04
+https://pullgz721.qmuiw.com/live/sd-1-4671924.m3u8?auth_key=1795532487-0-0-84874d7e50cbfa2254d5f54409ebbe2a
+#EXTINF:-1 tvg-name="墨西哥U17 vs 喀麦隆U17|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0454e9e662d7379a87c2dc4a10fcf3a3.png" group-title="足球",墨西哥U17 vs 喀麦隆U17|视频直播
+https://pullgz721.qmuiw.com/live/sd-1-4544816.m3u8?auth_key=1795532487-0-0-f278615addded5ed285a800673fd1f88
+#EXTINF:-1 tvg-name="东孟加拉 vs 胡塞因|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/21649c3d173c8f4ec9d526432ad9f088.png" group-title="足球",东孟加拉 vs 胡塞因|视频直播
+https://pullgz721.qmuiw.com/live/hd-zh-1-4621346.m3u8?auth_key=1795532487-0-0-be186900e7dde982fd75a12d78769713
+#EXTINF:-1 tvg-name="阿克隆陶里亚蒂 vs 莫斯科中央陆军|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d5a6f7b99c55a87b8a47337e7fe64588.png" group-title="足球",阿克隆陶里亚蒂 vs 莫斯科中央陆军|视频直播
+https://pullgz721.qmuiw.com/live/sd-1-4566143.m3u8?auth_key=1795532487-0-0-66b9c34c15d661471751ab86c648b759
+#EXTINF:-1 tvg-name="东北联 vs 德里体育|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b019c0b2f14edb23e5c9a10a37a2e548.png" group-title="足球",东北联 vs 德里体育|视频直播
+https://pullgz721.qmuiw.com/live/sd-1-4655873.m3u8?auth_key=1795532487-0-0-df0220d6ae9079f19801583c8a1af8f2
