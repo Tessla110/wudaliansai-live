@@ -1,18 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="布鲁体育俱乐部 vs 老鹰俱乐部|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a93ccb52b05832f45cf16f17ed964ee9.png" group-title="足球",布鲁体育俱乐部 vs 老鹰俱乐部|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="维特斯U21 vs 鹿特丹精英后备队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/4e002890a68d9bfe3a3d8ea14dd62c95.png" group-title="足球",维特斯U21 vs 鹿特丹精英后备队|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="哈尔库尼加SC vs 市立体育|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0fca6625e1b305c35e46b74d48c8a93d.png" group-title="足球",哈尔库尼加SC vs 市立体育|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="锡卜 vs 巴格达警察|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/99436fc30d359790afbd11fe602a5a45.png" group-title="足球",锡卜 vs 巴格达警察|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="迪拜青年国民 vs 胡拜尔库迪西亚|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/05e87b1dbb904915a4a97fc095b73d20.png" group-title="足球",迪拜青年国民 vs 胡拜尔库迪西亚|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="弗拉特里亚 vs 延特拉|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/aabb904ffc5c2e13819a80381208bb68.png" group-title="足球",弗拉特里亚 vs 延特拉|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="巴罗尔 vs 尼姆巴联|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3b6e3ea1a73f3c755bd0c9365fbfeea1.png" group-title="足球",巴罗尔 vs 尼姆巴联|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="阿利图斯爱国者 vs 维尔卡维斯基奥佩拉斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a11aed477c8c46bdaa91f350bcd470f0.png" group-title="篮球",阿利图斯爱国者 vs 维尔卡维斯基奥佩拉斯|完场
@@ -34,21 +22,27 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="肖姆龙 vs 米格代尔哈曼|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/bc000dc872fedf2a22532c8c1678091b.png" group-title="篮球",肖姆龙 vs 米格代尔哈曼|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="拉马特哈萨隆 vs 艾丽祖尔阿什克伦|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6a9fd0708c75bf061e17d0c8f382c030.png" group-title="篮球",拉马特哈萨隆 vs 艾丽祖尔阿什克伦|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3943178.m3u8?auth_key=1795546622-0-0-06efdc18456f931cf6adac8c42ed4a40
+https://pullgz721.qmuiw.com/live/sd-2-3943178.m3u8?auth_key=1795546961-0-0-d1964f190364a2de2c22f7f1291cefb3
 #EXTINF:-1 tvg-name="尤尔巴科 vs 维迪斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3d995069492ab37b226502f4272ceb5a.png" group-title="篮球",尤尔巴科 vs 维迪斯|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="塔菲FC vs 莫鲁普尔流浪者队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f169557b45b00f6c03b22f8228dfea6c.png" group-title="足球",塔菲FC vs 莫鲁普尔流浪者队|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="罗勒斯镇 vs 哈博罗内监狱|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/db470ee32f42f5136319c669f876d75b.png" group-title="足球",罗勒斯镇 vs 哈博罗内监狱|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="利雅得体育U21 vs 阿赫利U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/fb232d98e08fcc91a3e60f7a8b7231fa.png" group-title="足球",利雅得体育U21 vs 阿赫利U21|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="伊蒂哈德U21 vs 艾哈斯姆U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/06209178b01a25844c5139dbd0e2bddf.png" group-title="足球",伊蒂哈德U21 vs 艾哈斯姆U21|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="科佩尔U19 vs NK布拉沃U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f12ccf1f32b4881aeb928baa304aa10e.png" group-title="足球",科佩尔U19 vs NK布拉沃U19|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="贝西克塔斯 vs 巴黎|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/94dada68497d1016c38eb742c5040164.png" group-title="篮球",贝西克塔斯 vs 巴黎|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="特兰加体育俱乐部 vs AS坎贝内|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b7f428ffab13fa5685625a5fdb4f9673.png" group-title="足球",特兰加体育俱乐部 vs AS坎贝内|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="科洛特里 vs 凯鲁万|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/812793f65a5b41d894b14dd3ab3486fc.png" group-title="篮球",科洛特里 vs 凯鲁万|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="穆纳尔太阳 vs 内罗毕城雷霆|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/798027e56c628894b4ec529e6b2ff0ba.png" group-title="篮球",穆纳尔太阳 vs 内罗毕城雷霆|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961550.m3u8?auth_key=1795546622-0-0-d447042c6ca4c87607d05373725bb1ed
+https://pullgz721.qmuiw.com/live/sd-2-3961550.m3u8?auth_key=1795546961-0-0-0907483a73846c44eea0316f6d7f54b8
 #EXTINF:-1 tvg-name="杜海勒 vs 新未来城体育|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/5736b9d2b0cadc3c1ba779bf6787d878.png" group-title="足球",杜海勒 vs 新未来城体育|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="克雷廷加 vs 希卢泰|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/49733bcd43e176bb7c96189a5cd07e7d.png" group-title="篮球",克雷廷加 vs 希卢泰|完场
@@ -58,10 +52,12 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="海法马卡比女篮 vs 霍隆女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b51423ba4d286e71d05ec9d1c591258b.jpg" group-title="篮球",海法马卡比女篮 vs 霍隆女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="欧米茄金牛座 vs 马萨基爱|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/34ce3a8240cd28197f6c78894b335f4f.png" group-title="篮球",欧米茄金牛座 vs 马萨基爱|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961088.m3u8?auth_key=1795546622-0-0-0ebead1574fe17afd037178a2eb69ff5
+https://pullgz721.qmuiw.com/live/sd-2-3961088.m3u8?auth_key=1795546961-0-0-e5a4b69c38e1c8797e81baa99e57a1ec
 #EXTINF:-1 tvg-name="贝尔蒙特大学 vs 阿克伦大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4008a28ae4bf09749c8389049aced785.png" group-title="篮球",贝尔蒙特大学 vs 阿克伦大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3953735.m3u8?auth_key=1795546622-0-0-d227c41fca3b2e71ed37f8d38411bcd5
+https://pullgz721.qmuiw.com/live/sd-2-3953735.m3u8?auth_key=1795546961-0-0-5ce74c6137878ab4f60cfa137ae15d84
 #EXTINF:-1 tvg-name="博德闪耀 vs 林茨|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/98854ab97eadf3d2c7c6d657ad99df96.png" group-title="足球",博德闪耀 vs 林茨|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-1-4628407.m3u8?auth_key=1795546622-0-0-64e7d0d81966300c9127f7c9bee456ef
+https://pullgz721.qmuiw.com/live/hd-zh-1-4628407.m3u8?auth_key=1795546961-0-0-204215cc318af67c8e77a78f7e382cd9
 #EXTINF:-1 tvg-name="加拉塔萨雷 vs 阿斯顿维拉|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/fbcf002c8d6dd34813fa2b3a4cc9b04c.png" group-title="足球",加拉塔萨雷 vs 阿斯顿维拉|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-1-4628433.m3u8?auth_key=1795546622-0-0-e031c2d518b04ae1ae33989eaeb3cd70
+https://pullgz721.qmuiw.com/live/hd-zh-1-4628433.m3u8?auth_key=1795546961-0-0-781cb3e89e03b0ea0f20792b424107d9
+#EXTINF:-1 tvg-name="史泰比亚 vs 卡坦扎罗|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/00341629f46340bd928496510b3147f9.png" group-title="足球",史泰比亚 vs 卡坦扎罗|视频直播
+https://pullgz721.qmuiw.com/live/sd-1-4594716.m3u8?auth_key=1795546961-0-0-d2e7728c466b6fcf651a95e7ba322738
