@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="火箭 vs 快船|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/bcfe797437f18526ff4e62177021f638.png" group-title="篮球",火箭 vs 快船|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="帕拉尔米拿罗斯 vs 瓜卡拉斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/80a1520cb56fc2adeb8c501d143a41f8.png" group-title="篮球",帕拉尔米拿罗斯 vs 瓜卡拉斯|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="弗吉尼亚联邦大学 vs 普罗维登斯学院|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3873aa4cb6eb6b434df421c72b8d441d.png" group-title="篮球",弗吉尼亚联邦大学 vs 普罗维登斯学院|完场
@@ -41,17 +39,13 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="皇家班加罗尔 vs 反叛者SC|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/4b6b4944af08355d5375a8d95e6a8395.png" group-title="足球",皇家班加罗尔 vs 反叛者SC|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="伊尔加切夫布纳 vs 马吉布纳FC|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a392a545290cff3c7ba4516e6512a2ef.png" group-title="足球",伊尔加切夫布纳 vs 马吉布纳FC|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4671961.m3u8?auth_key=1795505632-0-0-f386ffd1e25572a1c572027e1f5d1ad3
+#EXTINF:-1 tvg-name="伊尔加切夫布纳 vs 马吉布纳FC|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a392a545290cff3c7ba4516e6512a2ef.png" group-title="足球",伊尔加切夫布纳 vs 马吉布纳FC|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="台湾科技大学 vs 黎明学院|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c9649076e60cce8cac4abc168dc2d598.png" group-title="篮球",台湾科技大学 vs 黎明学院|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960914.m3u8?auth_key=1795505632-0-0-878c51b1053cc24e52dc91d9a47b6344
-#EXTINF:-1 tvg-name="纽卡斯尔喷气机 vs 柏太阳神|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/296c68ac5ad3ff621c10c6ebfb9954ca.png" group-title="足球",纽卡斯尔喷气机 vs 柏太阳神|未开赛
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+https://pullgz721.qmuiw.com/live/sd-2-3960914.m3u8?auth_key=1795507611-0-0-2195cb2692ee636c313a758bfcd8c262
+#EXTINF:-1 tvg-name="纽卡斯尔喷气机 vs 柏太阳神|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/296c68ac5ad3ff621c10c6ebfb9954ca.png" group-title="足球",纽卡斯尔喷气机 vs 柏太阳神|视频直播
+https://pullgz721.qmuiw.com/live/hd-zh-1-4621531.m3u8?auth_key=1795507611-0-0-b484602a88751786ad11533cc31d27ed
 #EXTINF:-1 tvg-name="ASC艾瑟 vs 班加罗尔梦幻联|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/65c03c5fa9d46a3874fa1bdc2388cf9c.png" group-title="足球",ASC艾瑟 vs 班加罗尔梦幻联|未开赛
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="ASC中心FC vs 班加罗尔联|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/5e1e93f0c13d03a2d23bfa87ee39a9d2.png" group-title="足球",ASC中心FC vs 班加罗尔联|未开赛
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="岘港 vs 芹苴鲶鱼|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f7c31ff2fe4f675e3900007fa3a75c92.png" group-title="篮球",岘港 vs 芹苴鲶鱼|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="富通FC vs MFS拉汉马特|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/03032f281ba9ef416f4f84a19dfd160a.png" group-title="足球",富通FC vs MFS拉汉马特|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
@@ -80,4 +74,6 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="廊莫那浦府U21 vs 孔敬联U21|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e980bc63171991b344c6e93b81b7d92c.png" group-title="足球",廊莫那浦府U21 vs 孔敬联U21|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="大田市民 vs 北京国安|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/090eeb1513e8f1d0cf6d8647d10b2eea.png" group-title="足球",大田市民 vs 北京国安|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="京都不死鸟 vs 浦项铁人|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/7d6fa50ea67cde7d66612a8189897ba5.png" group-title="足球",京都不死鸟 vs 浦项铁人|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
