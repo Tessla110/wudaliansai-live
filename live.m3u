@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="广东奥普特女篮 vs 河南豫光金铅女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/00523cd4bf48d4e5c995253012cce01e.png" group-title="篮球",广东奥普特女篮 vs 河南豫光金铅女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="山西竹叶青酒女篮 vs 武汉盛帆黄鹤女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3afdfda57ca6ef4d3d875f098902f58f.png" group-title="篮球",山西竹叶青酒女篮 vs 武汉盛帆黄鹤女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="法德 vs 帕尔斯布什尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/20f4fc928a4d3670b734de99430ff3d0.png" group-title="足球",法德 vs 帕尔斯布什尔|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="温州 vs 海宁|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7668891984cf151b9f9ff5d2b3aef82d.png" group-title="篮球",温州 vs 海宁|完场
@@ -20,6 +16,8 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="格瑞巴吉 vs 马拉多特DG|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/23db36ed4ce1b2c012e744cce1020fd9.png" group-title="足球",格瑞巴吉 vs 马拉多特DG|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="多德勒支U21 vs NAC U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e9a74afecd99a85412c175005243a454.png" group-title="足球",多德勒支U21 vs NAC U21|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="迈克尔奥伦加 vs 内罗毕星城|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/6cee0d13f756fec769cca85774c3176b.png" group-title="足球",迈克尔奥伦加 vs 内罗毕星城|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="罗安达别墅 vs 裁决FC|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0aa01ef01963dd5d58e8d0c9344a34e3.png" group-title="足球",罗安达别墅 vs 裁决FC|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
@@ -41,11 +39,11 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="布赖代先锋青年队 vs 利雅得青年人青年队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/5c90745d0706799959b9ac3a7f2b3a69.png" group-title="足球",布赖代先锋青年队 vs 利雅得青年人青年队|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="查巴垒 vs 祖尔菲|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ff21a5b966039a14fa4cd721d29b40ee.png" group-title="足球",查巴垒 vs 祖尔菲|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4602062.m3u8?auth_key=1795529906-0-0-a84c4819078ca6419665f0c9f2b985fb
+#EXTINF:-1 tvg-name="查巴垒 vs 祖尔菲|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ff21a5b966039a14fa4cd721d29b40ee.png" group-title="足球",查巴垒 vs 祖尔菲|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="塞卡凯阿拉伯 vs 纳杰马体育|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/6b326376b7791573f27a88fe9e9942a7.png" group-title="足球",塞卡凯阿拉伯 vs 纳杰马体育|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="哥斯达黎加U17 vs 爱尔兰U17|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/97bdd7257b1537fcc539e69120e0da69.png" group-title="足球",哥斯达黎加U17 vs 爱尔兰U17|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4544801.m3u8?auth_key=1795529906-0-0-7c639a1fce5a3dffab6052bce57acc92
+https://pullgz721.qmuiw.com/live/sd-1-4544801.m3u8?auth_key=1795530231-0-0-bd7f80de21e912986f3dbaa62d35ff66
 #EXTINF:-1 tvg-name="委内瑞拉U17 vs 罗马尼亚U17|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b010575a978341fc8c5883bbb423adfc.png" group-title="足球",委内瑞拉U17 vs 罗马尼亚U17|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4544832.m3u8?auth_key=1795529906-0-0-0792432cbc618c0e9f80fd8f25089efd
+https://pullgz721.qmuiw.com/live/sd-1-4544832.m3u8?auth_key=1795530231-0-0-082c4200e2f290a986a53e5c77511434
