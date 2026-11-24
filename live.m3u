@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="维琴察 vs 凯勒雷斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/af68158e991ab635b8735937e8d529f7.png" group-title="足球",维琴察 vs 凯勒雷斯|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="巴勒莫 vs 南蒂罗尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/7254916ff6c50332b4e1b570068f2825.png" group-title="足球",巴勒莫 vs 南蒂罗尔|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="特兰米尔流浪 vs 埃弗顿U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ab2dca1aa72f4b869e3ddcdc8a126122.png" group-title="足球",特兰米尔流浪 vs 埃弗顿U21|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="牛津联 vs 热刺U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/67ce0804944640bc8d67e886879b77c4.png" group-title="足球",牛津联 vs 热刺U21|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="迪特科尼 vs USV伊斯琛|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/4194adc3ca68fa0049f296e5d119bb75.png" group-title="足球",迪特科尼 vs USV伊斯琛|完场
@@ -39,7 +33,13 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="都灵 vs 卡塞塔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6d70bd5e94e2871770d1382cef4cbc60.png" group-title="篮球",都灵 vs 卡塞塔|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="瓦伦西亚 vs 帕纳辛纳科斯|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a3819bb7ddd5edc47416d1efb5539fd3.png" group-title="篮球",瓦伦西亚 vs 帕纳辛纳科斯|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3926726.m3u8?auth_key=1795555720-0-0-c06116b6399bd6fa2ca752ef9a0d0422
+#EXTINF:-1 tvg-name="奥罗拉 vs 昂热|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/aa56a2aa750b26efb3fb6dc983a21252.jpg" group-title="篮球",奥罗拉 vs 昂热|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="瓦伦西亚 vs 帕纳辛纳科斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a3819bb7ddd5edc47416d1efb5539fd3.png" group-title="篮球",瓦伦西亚 vs 帕纳辛纳科斯|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="密歇根州立大学女篮 vs 弗吉尼亚理工女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/cc1f365329d24b0b9181a84cd967f693.png" group-title="篮球",密歇根州立大学女篮 vs 弗吉尼亚理工女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="莫约拉 vs 巴利米纳联队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/2e2a2df7ad0548fc79b13cca7a43a857.png" group-title="足球",莫约拉 vs 巴利米纳联队|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="利文斯顿 vs 彼得黑德|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/7891830ea55446bdab1cc9d1f5202b05.png" group-title="足球",利文斯顿 vs 彼得黑德|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
