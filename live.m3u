@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="马都拉联 vs 佩塞拉|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/320ff18ba51acdf34c92311dec8186a7.png" group-title="足球",马都拉联 vs 佩塞拉|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="巴杨卡拉泗水联 vs 塞曼巴东|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/837cf9a178940067578b7343018e003a.png" group-title="足球",巴杨卡拉泗水联 vs 塞曼巴东|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="格瑞巴吉 vs 马拉多特DG|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/23db36ed4ce1b2c012e744cce1020fd9.png" group-title="足球",格瑞巴吉 vs 马拉多特DG|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="多德勒支U21 vs NAC U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e9a74afecd99a85412c175005243a454.png" group-title="足球",多德勒支U21 vs NAC U21|完场
@@ -39,11 +35,13 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="Cece联合 vs 韦恩镇联|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/7ae57a18cd21228e5d9b1c0564455f5c.png" group-title="足球",Cece联合 vs 韦恩镇联|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="巴图科特马 vs 苏卢尔塔凯泰玛|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3af24d8daf661477a316539b0ae94ec2.png" group-title="足球",巴图科特马 vs 苏卢尔塔凯泰玛|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="哥斯达黎加U17 vs 爱尔兰U17|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/97bdd7257b1537fcc539e69120e0da69.png" group-title="足球",哥斯达黎加U17 vs 爱尔兰U17|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="委内瑞拉U17 vs 罗马尼亚U17|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b010575a978341fc8c5883bbb423adfc.png" group-title="足球",委内瑞拉U17 vs 罗马尼亚U17|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="日本U17 vs 塞尔维亚U17|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3c4d97fd12b32034eecb81ef51583b26.png" group-title="足球",日本U17 vs 塞尔维亚U17|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4544814.m3u8?auth_key=1795530537-0-0-1582324621db5d356db092084d7586ed
+https://pullgz721.qmuiw.com/live/sd-1-4544814.m3u8?auth_key=1795530849-0-0-e2264df9cb4756593a043ccfc17300d9
 #EXTINF:-1 tvg-name="阿森纳U19 vs 多特蒙德U19|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/361260e39f38a6fdd23d64eec1530ba1.png" group-title="足球",阿森纳U19 vs 多特蒙德U19|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4638839.m3u8?auth_key=1795530537-0-0-0b19ee9d858bf8ad37324305aca1c0a4
+https://pullgz721.qmuiw.com/live/sd-1-4638839.m3u8?auth_key=1795530849-0-0-660e70d14e08897ea6e06933c04daaf2
