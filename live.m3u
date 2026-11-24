@@ -1,22 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="佛罗里达国际大学 vs 南犹他大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/87bf4bac3e42a11ce4fcfccae682ca70.png" group-title="篮球",佛罗里达国际大学 vs 南犹他大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="马斯里 vs 佩特雷姆|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1e724366f6bee2eb1e7dd707a3f7f671.png" group-title="足球",马斯里 vs 佩特雷姆|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="阿拉伯建筑 vs 阿尔卡纳|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d2ba8945533ebbda0bcccf6cf21a4bd4.png" group-title="足球",阿拉伯建筑 vs 阿尔卡纳|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="利雅得胜利 vs 萨德|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0d9975f7e846a1ecb099f4cd62d1b8f7.png" group-title="足球",利雅得胜利 vs 萨德|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="赫福特 vs 舒瓦查特|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ef72fcebb9c8c9473a295b27745f01fc.png" group-title="足球",赫福特 vs 舒瓦查特|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="玛格丽特AC vs 维也纳1980|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/cd28a01452e451833d4f8bfae7051a91.png" group-title="足球",玛格丽特AC vs 维也纳1980|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="匹兹堡大学 vs 俄克拉荷马大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/n1466a11dbb0ea749d117f971b03ebc2a.png" group-title="篮球",匹兹堡大学 vs 俄克拉荷马大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="伊利诺芝加哥分校 vs 莱斯大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ff9662b644dcedaacab2399a46bc5b44.png" group-title="篮球",伊利诺芝加哥分校 vs 莱斯大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="贝内文托 vs 恩波利|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/32ea0f2d506ec8181164b8563387f7f0.png" group-title="足球",贝内文托 vs 恩波利|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="切塞纳 vs 阿斯科利|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/5898771001e107f09662d4a57e5de9e0.png" group-title="足球",切塞纳 vs 阿斯科利|完场
@@ -25,8 +9,8 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="维琴察 vs 凯勒雷斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/af68158e991ab635b8735937e8d529f7.png" group-title="足球",维琴察 vs 凯勒雷斯|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="巴勒莫 vs 南蒂罗尔|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/7254916ff6c50332b4e1b570068f2825.png" group-title="足球",巴勒莫 vs 南蒂罗尔|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4594720.m3u8?auth_key=1795553698-0-0-46fcff38a85e78ff7e9e989ea53c423f
+#EXTINF:-1 tvg-name="巴勒莫 vs 南蒂罗尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/7254916ff6c50332b4e1b570068f2825.png" group-title="足球",巴勒莫 vs 南蒂罗尔|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="特兰米尔流浪 vs 埃弗顿U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ab2dca1aa72f4b869e3ddcdc8a126122.png" group-title="足球",特兰米尔流浪 vs 埃弗顿U21|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="牛津联 vs 热刺U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/67ce0804944640bc8d67e886879b77c4.png" group-title="足球",牛津联 vs 热刺U21|完场
@@ -37,9 +21,11 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="圣托奥林匹克女足U20 vs 格雷米奥女足U20|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/805742261a6bac23b25e6dec13c57146.png" group-title="足球",圣托奥林匹克女足U20 vs 格雷米奥女足U20|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="拜仁慕尼黑 vs 特拉维夫马卡比|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/99a5187dc20d019f4fd223a6a6de80a6.png" group-title="篮球",拜仁慕尼黑 vs 特拉维夫马卡比|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3926494.m3u8?auth_key=1795553698-0-0-5e9bc8bc2603f8c194c834a023142541
+#EXTINF:-1 tvg-name="拜仁慕尼黑 vs 特拉维夫马卡比|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/99a5187dc20d019f4fd223a6a6de80a6.png" group-title="篮球",拜仁慕尼黑 vs 特拉维夫马卡比|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="马里博尔 vs 霍普斯波尔泽拉|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7aea518b9991046c18ae5fa59893b5c8.png" group-title="篮球",马里博尔 vs 霍普斯波尔泽拉|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="俄勒冈州立大学 vs 旧金山大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/58d784132399bfa7a2592f3226c8b5ac.png" group-title="篮球",俄勒冈州立大学 vs 旧金山大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="索尔福德市 vs 桑德兰U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1a1ad0dd072846068375a813074cd45d.png" group-title="足球",索尔福德市 vs 桑德兰U21|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
@@ -56,4 +42,4 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="弗拉斯卡蒂女篮 vs 马特利卡女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1e042d50cb8ad9eb9650d2e00938c3d1.png" group-title="篮球",弗拉斯卡蒂女篮 vs 马特利卡女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="瓦伦西亚 vs 帕纳辛纳科斯|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a3819bb7ddd5edc47416d1efb5539fd3.png" group-title="篮球",瓦伦西亚 vs 帕纳辛纳科斯|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3926726.m3u8?auth_key=1795553698-0-0-446e39171e0ea8e8d3a3e8bce8013809
+https://pullgz721.qmuiw.com/live/sd-2-3926726.m3u8?auth_key=1795554737-0-0-63dbde72e4e6dd01e175168d6037fa90
