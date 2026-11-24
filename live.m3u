@@ -41,9 +41,11 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="纽黑文大学 vs 林登伍德|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f28a51fa5a9c462d81d60c8f9ca4a231.png" group-title="篮球",纽黑文大学 vs 林登伍德|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="海军官校 vs 宾州州立大学利伯克郡分校|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7a7ca69ec76190d016be4611b4f18297.png" group-title="篮球",海军官校 vs 宾州州立大学利伯克郡分校|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3956786.m3u8?auth_key=1795561487-0-0-313ee5098f1aa3008529a98276fcffef
-#EXTINF:-1 tvg-name="科其姆波 vs 拉卡莱拉联|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e62f69a9de87796972eb59d19c27e59c.png" group-title="足球",科其姆波 vs 拉卡莱拉联|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4665513.m3u8?auth_key=1795561487-0-0-410e05627556b7c6f203e8fd29260785
-#EXTINF:-1 tvg-name="坦帕湾太阳女足 vs 达拉斯特瑞尼特女足|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/2177301a342c64d8ef826cfa8dd9a6dd.png" group-title="足球",坦帕湾太阳女足 vs 达拉斯特瑞尼特女足|未开赛
+#EXTINF:-1 tvg-name="帕兰德森后备队 vs 乔洛马后备队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/fa22e2c3a2007ac3f4faa00280fb75b4.png" group-title="足球",帕兰德森后备队 vs 乔洛马后备队|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="海军官校 vs 宾州州立大学利伯克郡分校|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7a7ca69ec76190d016be4611b4f18297.png" group-title="篮球",海军官校 vs 宾州州立大学利伯克郡分校|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="CLIP女篮 vs 纳塔考女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6e40a74f5cce2e87b50649b7dba162b5.jpg" group-title="篮球",CLIP女篮 vs 纳塔考女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="科其姆波 vs 拉卡莱拉联|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e62f69a9de87796972eb59d19c27e59c.png" group-title="足球",科其姆波 vs 拉卡莱拉联|视频直播
+https://pullgz721.qmuiw.com/live/sd-1-4665513.m3u8?auth_key=1795561801-0-0-a5c287d94bffe91ba8858c3446d73efb
