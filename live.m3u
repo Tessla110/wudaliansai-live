@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="巴利米纳后备队 vs 林菲尔德后备队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9910f605f20078b007b6ee65fe948b83.png" group-title="足球",巴利米纳后备队 vs 林菲尔德后备队|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="拉普拉塔体操 vs 纽维尔老男孩|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f323884c2481d25aa4b316a43583b733.png" group-title="足球",拉普拉塔体操 vs 纽维尔老男孩|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="莱万特 vs 埃尔切|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/2728d4cb86a245d6835a6d2fdbbd3baa.png" group-title="足球",莱万特 vs 埃尔切|完场
@@ -42,8 +40,10 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="巴西国际 vs 维多利亚|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/7fc8831956b0f4fab51d0390a3957780.png" group-title="足球",巴西国际 vs 维多利亚|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="博塔弗戈 vs 圣保罗|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/5d83c47462e5afb6f1add0ad508c300b.png" group-title="足球",博塔弗戈 vs 圣保罗|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4465953.m3u8?auth_key=1795481390-0-0-7ebc965be8b2ee90fcf970d01b93421e
+https://pullgz721.qmuiw.com/live/sd-1-4465953.m3u8?auth_key=1795481714-0-0-e9334b4b51d78b3d1548ad71797b9344
+#EXTINF:-1 tvg-name="詹宁斯手雷 vs 波特斯老虎FC|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/5cdcc62a58324292a083227cbf748eb0.png" group-title="足球",詹宁斯手雷 vs 波特斯老虎FC|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="巴拉圭民族 vs 波特诺山丘|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ffa3acd73ef1b617c050414162a20694.png" group-title="足球",巴拉圭民族 vs 波特诺山丘|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4631238.m3u8?auth_key=1795481390-0-0-069f29806a2714434991f36987ace8e6
+https://pullgz721.qmuiw.com/live/sd-1-4631238.m3u8?auth_key=1795481714-0-0-a394e033593903779e76af4981e7f8df
 #EXTINF:-1 tvg-name="桑托斯 vs 格雷米奥|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0840bace9b911b3f0dbadb710ea20316.png" group-title="足球",桑托斯 vs 格雷米奥|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4465890.m3u8?auth_key=1795481390-0-0-a0dcc71c593e60d9095f2528cbc8b498
+https://pullgz721.qmuiw.com/live/sd-1-4465890.m3u8?auth_key=1795481714-0-0-7d4a8868a051fa91be9e3c9c17dbf779
