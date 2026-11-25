@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="特雷佩纳 vs 彭拿洛沙|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f7df573caa2a08326f5375d040197d9a.png" group-title="足球",特雷佩纳 vs 彭拿洛沙|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="吉斯伯勒镇 vs 贝弗利镇|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/018eb5e278de3edbc771ff18974c83e8.png" group-title="足球",吉斯伯勒镇 vs 贝弗利镇|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="拉科奥里塔 vs SP科莫斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/40c76cf491d11d7589c5c65dcc380cd3.png" group-title="足球",拉科奥里塔 vs SP科莫斯|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="弗洛戈雷 vs 维图斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d5d71160eed1da6cc49ddbd0e063fbaf.png" group-title="足球",弗洛戈雷 vs 维图斯|完场
@@ -40,6 +36,8 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="顿涅茨克矿工 vs 费内巴切|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/141bcf6ab6d0bc7b8c67dc5eeb9f347d.png" group-title="足球",顿涅茨克矿工 vs 费内巴切|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="葡萄牙体育 vs 曼联|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/646764e6e2fe4ca7970b9eb87c8b65af.png" group-title="足球",葡萄牙体育 vs 曼联|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="阿克伦大学 vs 阿帕拉契亚州立大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/617e252dec466dece455319e79b7d52c.png" group-title="篮球",阿克伦大学 vs 阿帕拉契亚州立大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="斯托克城 vs 米尔沃尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0940f5d85ff24758b56578fcae90c750.png" group-title="足球",斯托克城 vs 米尔沃尔|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
