@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="加州大学圣塔巴巴拉分校 vs 北卡罗莱纳绿乡大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/fb1815f4b2844930b2fd1327bd8fa23a.png" group-title="篮球",加州大学圣塔巴巴拉分校 vs 北卡罗莱纳绿乡大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="华盛顿州立大学 vs 萨姆休斯顿州立大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/46ba22be2967cf26c024077d9e573127.png" group-title="篮球",华盛顿州立大学 vs 萨姆休斯顿州立大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="圣路易斯大学 vs 大峡谷大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8178a03ea19f890618234b8edb82af36.jpg" group-title="篮球",圣路易斯大学 vs 大峡谷大学|完场
@@ -41,14 +39,16 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="北九州向日葵 vs 金泽共进|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/fefa11f94d0efff34a0f98ee4440a34b.png" group-title="足球",北九州向日葵 vs 金泽共进|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="堪萨斯州立大学 vs 冈萨加大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0d1160c94e4741bebc26b0ae59731b7d.png" group-title="篮球",堪萨斯州立大学 vs 冈萨加大学|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="关岛U15 vs 蒙古U15|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/041b3059c8eeb75cbb1fb9d7b41eb495.png" group-title="足球",关岛U15 vs 蒙古U15|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4665678.m3u8?auth_key=1795592335-0-0-b399965726cfe9d17a75543d8961039e
+https://pullgz721.qmuiw.com/live/sd-1-4665678.m3u8?auth_key=1795592633-0-0-55047c03a73fdc39f39d4ba9134dd6d9
 #EXTINF:-1 tvg-name="政治大学 vs 黎明学院|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9a375c3cfabdb09790f68881f0afb3b3.png" group-title="篮球",政治大学 vs 黎明学院|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960847.m3u8?auth_key=1795592335-0-0-c38d20e99e74a6be3f904bc5b7f53e12
+https://pullgz721.qmuiw.com/live/sd-2-3960847.m3u8?auth_key=1795592633-0-0-ffdc39504b10ba8871887775434ea6d6
 #EXTINF:-1 tvg-name="ADMU蓝鹰 vs 东方大学红勇士|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a5a85ebe8fca4abdb0d757ed08f494ad.png" group-title="篮球",ADMU蓝鹰 vs 东方大学红勇士|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3957949.m3u8?auth_key=1795592335-0-0-143fb45dd94fa47bb05b480619b8d977
+https://pullgz721.qmuiw.com/live/sd-2-3957949.m3u8?auth_key=1795592633-0-0-03d60b44eeda33bd72b58972dcaa634e
 #EXTINF:-1 tvg-name="原州东浦新世代预备队 vs 首尔三星雷电二队|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a890026613f6356d5fbd63befeb15e9d.png" group-title="篮球",原州东浦新世代预备队 vs 首尔三星雷电二队|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961540.m3u8?auth_key=1795592335-0-0-75984e05c4802b4ed65c93778a4a0e4b
+https://pullgz721.qmuiw.com/live/sd-2-3961540.m3u8?auth_key=1795592633-0-0-1068103104d720d094cdb9e1712ec303
 #EXTINF:-1 tvg-name="墨尔本胜利 vs 越电信体工|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/c540f8f279c09a2a3df1cbbfe82d7184.png" group-title="足球",墨尔本胜利 vs 越电信体工|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="丛安仁丹女篮 vs 河内女篮|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/dfa06a56f8c8ae3d576c17c66c64821b.png" group-title="篮球",丛安仁丹女篮 vs 河内女篮|未开赛
@@ -72,4 +72,6 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="中原大学 vs 文化大学|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ba95936390b7180d34770d0a81c86a90.png" group-title="篮球",中原大学 vs 文化大学|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="科瓦利夫卡科洛斯U19 vs 鲁克维尼基青年队|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/8b3a215d96c7ed3f7c45ce561b912e96.png" group-title="足球",科瓦利夫卡科洛斯U19 vs 鲁克维尼基青年队|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="UST咆哮虎 vs ADU猎鹰|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a6670119f5094730ba6f2d7dc7ed219d.png" group-title="篮球",UST咆哮虎 vs ADU猎鹰|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
