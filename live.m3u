@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="德尔特雷斯 vs 佩斯克谏义里|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/38e51433ffd0b37c2d0f15d1b0f1f983.png" group-title="足球",德尔特雷斯 vs 佩斯克谏义里|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="PSM望加锡 vs 佩斯普拉|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0d74d0d263697b29a9ad3bfc78a6cc46.png" group-title="足球",PSM望加锡 vs 佩斯普拉|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="阿雷马 vs 伊森穆朗|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/55cba4a142146e2cdc317d21eb4daf76.png" group-title="足球",阿雷马 vs 伊森穆朗|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="普特吉拉 vs 三宝垄|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/abcae841781d6e4cee6341d4c627bd4d.png" group-title="足球",普特吉拉 vs 三宝垄|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="巴厘联 vs 巴日托|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/09fe2ecf88f68970da755f8655d5da8a.png" group-title="足球",巴厘联 vs 巴日托|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="萨格勒布迪纳摩U19 vs 本菲卡U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a1f707e37827aab4c741567e4b33fa11.png" group-title="足球",萨格勒布迪纳摩U19 vs 本菲卡U19|完场
@@ -39,15 +31,19 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="布凯里耶 vs 麦加统一|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/608b8974ad512df1293585825bef3cee.png" group-title="足球",布凯里耶 vs 麦加统一|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="贝鲁特海岸青年 vs 贝鲁特支持者|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3787e09608acdc458bb8a10e9d8dfbb6.png" group-title="足球",贝鲁特海岸青年 vs 贝鲁特支持者|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4654092.m3u8?auth_key=1795615904-0-0-5a1fb95dee51407a5ddce4dabc191ef1
+#EXTINF:-1 tvg-name="贝鲁特海岸青年 vs 贝鲁特支持者|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3787e09608acdc458bb8a10e9d8dfbb6.png" group-title="足球",贝鲁特海岸青年 vs 贝鲁特支持者|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="克里夫巴斯 vs 哈尔科夫冶金|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/7e6cbc5c2a1f5b507eab5ac95eee454b.png" group-title="足球",克里夫巴斯 vs 哈尔科夫冶金|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4569668.m3u8?auth_key=1795615904-0-0-edccc04d80f059d05cb62546c334f129
+https://pullgz721.qmuiw.com/live/sd-1-4569668.m3u8?auth_key=1795616220-0-0-07cab80f5501c1894453ad2209f5104f
 #EXTINF:-1 tvg-name="万隆 vs FC首尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b2004093bf25a5a8d1768970d6e49d71.png" group-title="足球",万隆 vs FC首尔|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="波迈特市 vs 米格里青年队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a63a265858037349a81e2f1b500df35e.jfif" group-title="足球",波迈特市 vs 米格里青年队|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="理文U22 vs 东区U22|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9cb0f7b1025943e3788e5c92b63ad521.png" group-title="足球",理文U22 vs 东区U22|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="林同 vs 芹苴鲶鱼|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0052c743c020487da732da84bb9bd61b.png" group-title="篮球",林同 vs 芹苴鲶鱼|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="厄瓜多尔U17 vs 韩国U17|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a1319379e867b2da282acfe3c5131564.png" group-title="足球",厄瓜多尔U17 vs 韩国U17|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4544855.m3u8?auth_key=1795615904-0-0-566c58dd6b7e4548e4c473b7f7a010a5
+https://pullgz721.qmuiw.com/live/sd-1-4544855.m3u8?auth_key=1795616220-0-0-17b2fd385fe5dd3b64235da33dbf352d
 #EXTINF:-1 tvg-name="乌干达U17 vs 新喀里多尼亚U17|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0dd60ff5ad34f774a6c468f0f927ccc6.png" group-title="足球",乌干达U17 vs 新喀里多尼亚U17|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4544916.m3u8?auth_key=1795615904-0-0-8b6e0308b9239e382f205a6b39755ca9
+https://pullgz721.qmuiw.com/live/sd-1-4544916.m3u8?auth_key=1795616220-0-0-d6b9a4d6107dc378ca7c8d5d67d41c4e
