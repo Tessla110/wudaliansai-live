@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="拉科奥里塔 vs SP科莫斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/40c76cf491d11d7589c5c65dcc380cd3.png" group-title="足球",拉科奥里塔 vs SP科莫斯|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="弗洛戈雷 vs 维图斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d5d71160eed1da6cc49ddbd0e063fbaf.png" group-title="足球",弗洛戈雷 vs 维图斯|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="博尔顿 vs 西布罗姆维奇|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/2c3f4f15f3330c4ea9ea9638ae5fb9ce.png" group-title="足球",博尔顿 vs 西布罗姆维奇|完场
@@ -16,6 +14,8 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="哈特尔浦 vs 索利赫尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b83df663a6378db57642ac557d6f1046.png" group-title="足球",哈特尔浦 vs 索利赫尔|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="马拉海德联 vs 宾高凯尔特|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/6f866e23dce32f6aad41392f9f391323.png" group-title="足球",马拉海德联 vs 宾高凯尔特|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="俄克拉荷马州立大学 vs 杰克逊州立大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/082cad31f590fd103bca851b8fb43e09.png" group-title="篮球",俄克拉荷马州立大学 vs 杰克逊州立大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="CD普拉滕斯女足 vs 旧金山堡女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ead66e4de59b6afe197fe5e0077f9d25.png" group-title="足球",CD普拉滕斯女足 vs 旧金山堡女足|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
