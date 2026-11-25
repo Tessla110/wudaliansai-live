@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="圣何塞地震 vs 休斯敦迪纳摩|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/7079d708b4e391c0c26b20da7b2fb32c.png" group-title="足球",圣何塞地震 vs 休斯敦迪纳摩|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="UST咆哮虎女篮 vs ADU猎鹰女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1f860c56601c46249e206580c6e5baa8.png" group-title="篮球",UST咆哮虎女篮 vs ADU猎鹰女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="林同女篮 vs 胡志明市女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c22a75e228adbffb3c67576c6f8dfc78.png" group-title="篮球",林同女篮 vs 胡志明市女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="印度银行 vs 印度银联|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/4d52237f5ea5f5b87a2cea0fa0000c58.png" group-title="足球",印度银行 vs 印度银联|完场
@@ -42,26 +38,28 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="巴达维亚俱乐部 vs 佩西克库宁根|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/2253dbcd8d156ad82a18627d27db5134.jpg" group-title="足球",巴达维亚俱乐部 vs 佩西克库宁根|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="波斯科塔格朗 vs 雅加达乌达拉|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e443a9c402bdc235c2a6673a450a6d48.jpg" group-title="足球",波斯科塔格朗 vs 雅加达乌达拉|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4672501.m3u8?auth_key=1795602232-0-0-7665f451c2cdb7dfca123c29beed2c79
+https://pullgz721.qmuiw.com/live/sd-1-4672501.m3u8?auth_key=1795602550-0-0-37e2570db698a7857745c16e79541985
 #EXTINF:-1 tvg-name="大城府 vs 班加比|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1621e12d6cea8b501e00dd2219ae7e8a.png" group-title="足球",大城府 vs 班加比|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="巴吞他尼大学 vs 湛杵日联|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ddd7363a437af91534de4d6f561e63a9.png" group-title="足球",巴吞他尼大学 vs 湛杵日联|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="仰光联 vs 妙瓦底|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/545790121cf7b80b0f02caec40a31ea6.png" group-title="足球",仰光联 vs 妙瓦底|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4640963.m3u8?auth_key=1795602232-0-0-322b386ef49e534617218cae00a24835
+https://pullgz721.qmuiw.com/live/sd-1-4640963.m3u8?auth_key=1795602550-0-0-a97c906177478fbaa2b02ed2bf052237
 #EXTINF:-1 tvg-name="掸邦联 vs 蒂察尔阿尔曼|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/81591ca25d2179a9877ec9c24bbe59e3.png" group-title="足球",掸邦联 vs 蒂察尔阿尔曼|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4640984.m3u8?auth_key=1795602232-0-0-2a4986355333265bdedb8c3cbe03165b
+https://pullgz721.qmuiw.com/live/sd-1-4640984.m3u8?auth_key=1795602550-0-0-28b1ffc8c1fff0cb2db9e3a1e9225f10
 #EXTINF:-1 tvg-name="中原大学 vs 文化大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ba95936390b7180d34770d0a81c86a90.png" group-title="篮球",中原大学 vs 文化大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960848.m3u8?auth_key=1795602232-0-0-7b56bdd42eadb00e62e9f4f4bd175e58
+https://pullgz721.qmuiw.com/live/sd-2-3960848.m3u8?auth_key=1795602550-0-0-ea18ee3ad0ce8957cd801e9578602612
 #EXTINF:-1 tvg-name="UST咆哮虎 vs ADU猎鹰|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a6670119f5094730ba6f2d7dc7ed219d.png" group-title="篮球",UST咆哮虎 vs ADU猎鹰|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3957950.m3u8?auth_key=1795602232-0-0-b653b93110de486148c5145e96855a21
+https://pullgz721.qmuiw.com/live/sd-2-3957950.m3u8?auth_key=1795602550-0-0-3dfd937f6bc1bd873b20a54827a71bab
 #EXTINF:-1 tvg-name="滋贺湖王 vs 高知联合|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/c7c81ba5deb4cc8d28180e51e0944c74.png" group-title="足球",滋贺湖王 vs 高知联合|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4556107.m3u8?auth_key=1795602232-0-0-40c3a567664cb2ae6de673468e6a7970
+https://pullgz721.qmuiw.com/live/sd-1-4556107.m3u8?auth_key=1795602550-0-0-3b688db4b790afd226696fd6135321cd
 #EXTINF:-1 tvg-name="斯图拉德 vs 特克尼克|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ea6e7468642b0b6e9f46c23b50a929e4.png" group-title="足球",斯图拉德 vs 特克尼克|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4670315.m3u8?auth_key=1795602232-0-0-dd6ef3d6bfbead7037b7a238773c975a
+https://pullgz721.qmuiw.com/live/sd-1-4670315.m3u8?auth_key=1795602550-0-0-3956df26f568465f5243dd2a06ec7789
 #EXTINF:-1 tvg-name="萨古拉利 vs 古泰斯拖比度|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a9bea85988465e9accfae7984ac850eb.png" group-title="足球",萨古拉利 vs 古泰斯拖比度|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4479640.m3u8?auth_key=1795602232-0-0-9ed3d176f2018920916ff2ae6f5a45d2
+https://pullgz721.qmuiw.com/live/sd-1-4479640.m3u8?auth_key=1795602550-0-0-b0eef5f6593d10468705971f0a8d94d8
 #EXTINF:-1 tvg-name="八户于南乡 vs 新潟天鹅|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3b0ad7d22d856a34a523cf4cecde0789.png" group-title="足球",八户于南乡 vs 新潟天鹅|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4555663.m3u8?auth_key=1795602232-0-0-4de3de6ba6b02366fd366f12cb5a5ced
+https://pullgz721.qmuiw.com/live/sd-1-4555663.m3u8?auth_key=1795602550-0-0-20aef43a946f6dd1dfb5972d1e2c307e
 #EXTINF:-1 tvg-name="FC今治 vs 宫崎棒牛鸟|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/978b618556d660a58857523d14d3f741.png" group-title="足球",FC今治 vs 宫崎棒牛鸟|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4555717.m3u8?auth_key=1795602232-0-0-437c6c0a542975fcad1fe2a485318c2e
+https://pullgz721.qmuiw.com/live/sd-1-4555717.m3u8?auth_key=1795602550-0-0-1a9f2fce1dd89b5876ead6938b06e982
+#EXTINF:-1 tvg-name="SC相模原 vs 爱媛FC|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/970cdb79441d516ce0708f3c35b65755.png" group-title="足球",SC相模原 vs 爱媛FC|视频直播
+https://pullgz721.qmuiw.com/live/sd-1-4556117.m3u8?auth_key=1795602550-0-0-b67bfabcf572ce22b54daf7a35c783ab
