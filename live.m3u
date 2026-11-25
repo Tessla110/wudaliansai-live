@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="谢里夫U19 vs 特拉维夫马卡比U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/bed626911f71ff3ce34e2914fe359d82.png" group-title="足球",谢里夫U19 vs 特拉维夫马卡比U19|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="赫尔辛基U19 vs 斯塔贝克U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/810e441efea4034a2ca342ccc9ad46d7.png" group-title="足球",赫尔辛基U19 vs 斯塔贝克U19|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="迪拜 vs 贝尔格莱德游击|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b7ceee3b48fa0f0bcf1a705348539cbb.png" group-title="篮球",迪拜 vs 贝尔格莱德游击|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="佩恩斯维尔 vs 利比里亚国际船舶队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/2d43fcef0676c2c611600247bab74a3b.png" group-title="足球",佩恩斯维尔 vs 利比里亚国际船舶队|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="布洛夫 vs 高山俱乐部|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/11c6bb6144b421a3c1270131a132a8c4.png" group-title="足球",布洛夫 vs 高山俱乐部|完场
@@ -45,5 +39,9 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="坦佩雷恩女篮 vs 塔皮奥拉洪卡女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ab031b7b23c09d78c3fffd487ea63368.png" group-title="篮球",坦佩雷恩女篮 vs 塔皮奥拉洪卡女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="托帕女篮 vs 科沃特女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b66107b3b39c767b1bd38cdd0b90d609.png" group-title="篮球",托帕女篮 vs 科沃特女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="维姆佩林女篮 vs BC诺基亚女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0d84213670cec27e34784666440704ae.png" group-title="篮球",维姆佩林女篮 vs BC诺基亚女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="卡塔尔SC vs 迪拜胜利|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e17b91a2f24fb83448c42da816708785.png" group-title="足球",卡塔尔SC vs 迪拜胜利|视频直播
+https://pullgz721.qmuiw.com/live/sd-1-4657164.m3u8?auth_key=1795630720-0-0-a7a7dfdef3d62e8581f66543305782b5
