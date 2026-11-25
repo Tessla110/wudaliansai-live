@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="山形山神 vs 磐田喜悦|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/5f12aeb3876fe101ab8b486ff9ea679a.png" group-title="足球",山形山神 vs 磐田喜悦|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="枥木市FC vs 秋田蓝闪电|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0587c755424c4e6290e45f9c52fb7b13.png" group-title="足球",枥木市FC vs 秋田蓝闪电|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="横滨FC vs 仙台七夕|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/97316a8300d28bfd97a6da0aff5dc0ea.png" group-title="足球",横滨FC vs 仙台七夕|完场
@@ -35,17 +33,21 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="南市台钢 vs 台中磐石|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/490ca64de18b8b5457c1f1079b30d1d1.png" group-title="足球",南市台钢 vs 台中磐石|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="NIGD银行 vs 哈迪亚霍萨纳|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/4b13f5a322f2864a4c316a60214bddd4.png" group-title="足球",NIGD银行 vs 哈迪亚霍萨纳|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="浦和红钻 vs 大阪樱花|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ca15e36551392e8c99b53b5b2f8531d3.png" group-title="足球",浦和红钻 vs 大阪樱花|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="莫哈末丹 vs 拉贾斯坦联|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/07668fe49f8fec6832919e14449eb340.png" group-title="足球",莫哈末丹 vs 拉贾斯坦联|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="基辅迪纳摩U19 vs 利维贝雷U19|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a8bc722114f556fc57962258558533af.png" group-title="足球",基辅迪纳摩U19 vs 利维贝雷U19|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4670543.m3u8?auth_key=1795609972-0-0-b620336445ee1ffdb20c8693b28b6d80
+https://pullgz721.qmuiw.com/live/sd-1-4670543.m3u8?auth_key=1795610292-0-0-5c343dd570c1268644dca63d7835cef0
+#EXTINF:-1 tvg-name="庆和 vs 军队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/33c64036434b66a7fc2285b7f5fa4e02.png" group-title="篮球",庆和 vs 军队|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="KS波罗尼亚 vs 索克尔克勒泽威|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e6052898b39cf9fed605525435d15629.png" group-title="足球",KS波罗尼亚 vs 索克尔克勒泽威|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4666181.m3u8?auth_key=1795609972-0-0-9662d518828711955ae2f39b63be684f
+https://pullgz721.qmuiw.com/live/sd-1-4666181.m3u8?auth_key=1795610292-0-0-203015b589a046dc2f2c8f95614822c4
 #EXTINF:-1 tvg-name="清迈联 vs 玛哈沙拉堪联|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d7947c628537b232f1dc4fc11b03076c.png" group-title="足球",清迈联 vs 玛哈沙拉堪联|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4600387.m3u8?auth_key=1795609972-0-0-592749b1fecc3c756b886012e72bbaa9
+https://pullgz721.qmuiw.com/live/sd-1-4600387.m3u8?auth_key=1795610292-0-0-c843d353ad4ddc4d5144e479b2dd4a45
 #EXTINF:-1 tvg-name="泰国农业大学 vs 帕府联合|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/7c673f9808c5a6ec50d3c89f84a53444.png" group-title="足球",泰国农业大学 vs 帕府联合|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4600388.m3u8?auth_key=1795609972-0-0-aca9a6ce3eaa8215d9940183785b796c
+https://pullgz721.qmuiw.com/live/sd-1-4600388.m3u8?auth_key=1795610292-0-0-c3c888ceca0dc347aa1f138e514b0d12
 #EXTINF:-1 tvg-name="宝岛梦想家 vs 新竹攻城狮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9c0da8a9409a4e838274dd9efb06d5a1.png" group-title="篮球",宝岛梦想家 vs 新竹攻城狮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3940345.m3u8?auth_key=1795609972-0-0-67b52a88e7fa07383b234824d6b4631f
+https://pullgz721.qmuiw.com/live/sd-2-3940345.m3u8?auth_key=1795610292-0-0-a3313671aef1d028e370d1138c56b5e9
