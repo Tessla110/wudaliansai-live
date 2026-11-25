@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="梅尼萨JS vs CS斯法辛|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c2e12a0f01c6d26494723a497c099760.png" group-title="篮球",梅尼萨JS vs CS斯法辛|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="格罗蒙巴利亚 vs ES拉德斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/fb669910833c49ec88a181b5d0c300ce.png" group-title="篮球",格罗蒙巴利亚 vs ES拉德斯|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="席特拉 vs 萨马海伊|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/fc1b9db193bf4db6ab0b4ede2d0bd0de.png" group-title="篮球",席特拉 vs 萨马海伊|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="班斯卡比斯特里察女篮 vs 科希策青年女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/783856dbc96837953031f69caec68002.png" group-title="篮球",班斯卡比斯特里察女篮 vs 科希策青年女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="格但斯克戈尔塔塔学院 vs AZS托伦|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3dcc0182fd427b9811bf1a7392d913c3.png" group-title="篮球",格但斯克戈尔塔塔学院 vs AZS托伦|完场
@@ -40,18 +34,20 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="LCC大学女篮 vs 阿利图斯RKL女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/19206864e4d82bf46e29cfb42daac0eb.png" group-title="篮球",LCC大学女篮 vs 阿利图斯RKL女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="喀山红宝石 vs 莫斯科罗迪纳|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/576ea7818d6f4a1faa2e2a6a3550ecf4.png" group-title="足球",喀山红宝石 vs 莫斯科罗迪纳|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4566111.m3u8?auth_key=1795634900-0-0-588d4582d21ce438c949a712ed41c699
+https://pullgz721.qmuiw.com/live/sd-1-4566111.m3u8?auth_key=1795635209-0-0-cfcbe2d3bd2dde2a90c609845a261d82
 #EXTINF:-1 tvg-name="莫斯科火车头 vs 罗斯托夫|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1787ab351d2b4053a0fc97038aa5bea5.png" group-title="足球",莫斯科火车头 vs 罗斯托夫|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="霍什奥尔姆女篮 vs 西素女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3f3ed2783b4340c34effe823f0a40b4c.png" group-title="篮球",霍什奥尔姆女篮 vs 西素女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="悠纳 vs 马什哈德|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/58d955c26a054b4a74c3c2f861a5250e.png" group-title="足球",悠纳 vs 马什哈德|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="耶鲁大学 vs 莱特州立大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a4971dc4b7ade405be73c6dea97411f0.png" group-title="篮球",耶鲁大学 vs 莱特州立大学|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="波兹南女篮 vs BCC德索纳女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/709b27c9d545430da3109e0dd2f5f630.png" group-title="篮球",波兹南女篮 vs BCC德索纳女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="萨巴赫 vs 巴萨|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3333e7a476b2b7e0555c0c7607d1a10e.png" group-title="足球",萨巴赫 vs 巴萨|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-1-4628491.m3u8?auth_key=1795634900-0-0-8f52fa5a7b7ad7c46e94f8ab448e2680
+https://pullgz721.qmuiw.com/live/hd-zh-1-4628491.m3u8?auth_key=1795635209-0-0-ccdce4adc9d3e2dc218fe2ee1e6ddb30
 #EXTINF:-1 tvg-name="布拉格斯拉维亚 vs 比利亚雷亚尔|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/2080ede2c5d09638a7188913c81075ef.png" group-title="足球",布拉格斯拉维亚 vs 比利亚雷亚尔|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-1-4628501.m3u8?auth_key=1795634900-0-0-cd6d731a46b6da01d428378af22cb73f
+https://pullgz721.qmuiw.com/live/hd-zh-1-4628501.m3u8?auth_key=1795635209-0-0-64d4b1a79e1b72391a51a9b99558fbcb
 #EXTINF:-1 tvg-name="克雷莫纳 vs 阿韦利诺|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0b0e25267dabd15c405070329df5fbdb.png" group-title="足球",克雷莫纳 vs 阿韦利诺|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4594714.m3u8?auth_key=1795634900-0-0-181618dda57f43aa8555373b6ded641b
+https://pullgz721.qmuiw.com/live/sd-1-4594714.m3u8?auth_key=1795635209-0-0-8326d55cbe13aca575c74211e2c03e28
