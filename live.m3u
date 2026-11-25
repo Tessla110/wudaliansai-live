@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="佩拉拉达 vs 赫罗纳B队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/03248510ed2059772333bd7e6f94872f.png" group-title="足球",佩拉拉达 vs 赫罗纳B队|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="阿美利简奴青年队 vs 亚美利加RJU20|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3e29103ab89b7dc20af02698aa2eb389.png" group-title="足球",阿美利简奴青年队 vs 亚美利加RJU20|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="奥拉里亚U20 vs 雷森德U20|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/229ee6039f0646b988f288fe06e1405d.png" group-title="足球",奥拉里亚U20 vs 雷森德U20|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="博塔福格SE vs 六月七日|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9f605c89eacc87e505699cb1dd55817d.png" group-title="足球",博塔福格SE vs 六月七日|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="里亚潮 vs 中央竞技SE|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/c3d7abd2bed7a3ee31d4bc20a9a1dcef.png" group-title="足球",里亚潮 vs 中央竞技SE|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="贝塞利贾 vs 卡姆萨篮球|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2a33f6aa43bd7e7b5e533e1b848adceb.png" group-title="篮球",贝塞利贾 vs 卡姆萨篮球|完场
@@ -45,13 +37,17 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="希罗米 vs 夏普尔卡法舒亚|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/615f327f14ceb97a1118f9125678161b.png" group-title="足球",希罗米 vs 夏普尔卡法舒亚|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="塔拉维亚 vs 干昆斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/cd2efe976fbac0a984a4ce1e0656216a.png" group-title="足球",塔拉维亚 vs 干昆斯|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="帕纳多里高斯女篮 vs 杰里斯女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c04e50ed82c949d9ba952b66ee02dbed.png" group-title="篮球",帕纳多里高斯女篮 vs 杰里斯女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="戴维森学院 vs 杜兰大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/n2fcb4bf30364ffbb63ae1ff6ff8a8278.png" group-title="篮球",戴维森学院 vs 杜兰大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="威尼斯雷耶女篮 vs 科斯塔马斯纳加女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/152802f4f430b863afab52d7eb1837c9.png" group-title="篮球",威尼斯雷耶女篮 vs 科斯塔马斯纳加女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="曼托瓦 vs 阿雷佐|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/adf79e68db478e32f1a2b2fe39df4668.png" group-title="足球",曼托瓦 vs 阿雷佐|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4594718.m3u8?auth_key=1795638110-0-0-4e22396f137f0906670bde77cf26bdd0
+https://pullgz721.qmuiw.com/live/sd-1-4594718.m3u8?auth_key=1795638460-0-0-2dc2cb195676d7ecc4c13b6f084a0e5a
 #EXTINF:-1 tvg-name="帕多瓦 vs 桑普多利亚|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/498ce1dc4289645db9437dcaf3cb4439.png" group-title="足球",帕多瓦 vs 桑普多利亚|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4594719.m3u8?auth_key=1795638110-0-0-1516b2a7e05a51a09ad6c3a480d34fb5
+https://pullgz721.qmuiw.com/live/sd-1-4594719.m3u8?auth_key=1795638460-0-0-f6e38b90dc4760f4c58b9006bb41ccfe
 #EXTINF:-1 tvg-name="比萨 vs 摩德纳|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/7ca5de14056c7290f6787e0943aa11ad.png" group-title="足球",比萨 vs 摩德纳|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4594721.m3u8?auth_key=1795638110-0-0-962e72a2e2188bbefc23a3d689f86c86
+https://pullgz721.qmuiw.com/live/sd-1-4594721.m3u8?auth_key=1795638460-0-0-3632c18f0777aa55a8440dc8f98fed9e
