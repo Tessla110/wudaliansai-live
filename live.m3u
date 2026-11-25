@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="冈山绿雉 vs 清水心跳|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/fb5c6121bf5b351f60ebf8ffd5b9d887.png" group-title="足球",冈山绿雉 vs 清水心跳|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="福冈黄蜂 vs 横滨水手|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/bf0e2229b39b6cb6fd17e9d0f3fb747e.png" group-title="足球",福冈黄蜂 vs 横滨水手|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="千叶市原 vs 名古屋鲸鱼|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9ce2dfe0c36e6a9774eaecf9731375b6.png" group-title="足球",千叶市原 vs 名古屋鲸鱼|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="长崎航海 vs 川崎前锋|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b28ace839956d8eacce11926ea5e43b3.png" group-title="足球",长崎航海 vs 川崎前锋|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="山形山神 vs 磐田喜悦|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/5f12aeb3876fe101ab8b486ff9ea679a.png" group-title="足球",山形山神 vs 磐田喜悦|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="枥木市FC vs 秋田蓝闪电|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0587c755424c4e6290e45f9c52fb7b13.png" group-title="足球",枥木市FC vs 秋田蓝闪电|完场
@@ -48,12 +40,12 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="莫哈末丹 vs 拉贾斯坦联|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/07668fe49f8fec6832919e14449eb340.png" group-title="足球",莫哈末丹 vs 拉贾斯坦联|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="基辅迪纳摩U19 vs 利维贝雷U19|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a8bc722114f556fc57962258558533af.png" group-title="足球",基辅迪纳摩U19 vs 利维贝雷U19|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4670543.m3u8?auth_key=1795609639-0-0-2047dd96cb5212942beeb09a940f1824
+https://pullgz721.qmuiw.com/live/sd-1-4670543.m3u8?auth_key=1795609972-0-0-b620336445ee1ffdb20c8693b28b6d80
 #EXTINF:-1 tvg-name="KS波罗尼亚 vs 索克尔克勒泽威|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e6052898b39cf9fed605525435d15629.png" group-title="足球",KS波罗尼亚 vs 索克尔克勒泽威|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4666181.m3u8?auth_key=1795609639-0-0-895e943d211646a8642bcd106bb2eed6
+https://pullgz721.qmuiw.com/live/sd-1-4666181.m3u8?auth_key=1795609972-0-0-9662d518828711955ae2f39b63be684f
 #EXTINF:-1 tvg-name="清迈联 vs 玛哈沙拉堪联|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d7947c628537b232f1dc4fc11b03076c.png" group-title="足球",清迈联 vs 玛哈沙拉堪联|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4600387.m3u8?auth_key=1795609639-0-0-4cf986d79a15fcc73acea599e08855e1
+https://pullgz721.qmuiw.com/live/sd-1-4600387.m3u8?auth_key=1795609972-0-0-592749b1fecc3c756b886012e72bbaa9
 #EXTINF:-1 tvg-name="泰国农业大学 vs 帕府联合|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/7c673f9808c5a6ec50d3c89f84a53444.png" group-title="足球",泰国农业大学 vs 帕府联合|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4600388.m3u8?auth_key=1795609639-0-0-0eb00a326d09086a47ac18d9077812c8
+https://pullgz721.qmuiw.com/live/sd-1-4600388.m3u8?auth_key=1795609972-0-0-aca9a6ce3eaa8215d9940183785b796c
 #EXTINF:-1 tvg-name="宝岛梦想家 vs 新竹攻城狮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9c0da8a9409a4e838274dd9efb06d5a1.png" group-title="篮球",宝岛梦想家 vs 新竹攻城狮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3940345.m3u8?auth_key=1795609639-0-0-6ae1ee35d1417d4ea0bcf71140a5ca31
+https://pullgz721.qmuiw.com/live/sd-2-3940345.m3u8?auth_key=1795609972-0-0-67b52a88e7fa07383b234824d6b4631f
