@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="奥多明尼女篮 vs 圣玛丽女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/477592b1b9480a70dbb58905a4a9b928.png" group-title="篮球",奥多明尼女篮 vs 圣玛丽女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="哈丁格 vs 艾维克|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/006883b0c57ecc19f984fcd8b3a272f7.png" group-title="篮球",哈丁格 vs 艾维克|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="克雷莫纳 vs 阿韦利诺|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0b0e25267dabd15c405070329df5fbdb.png" group-title="足球",克雷莫纳 vs 阿韦利诺|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="韦尔瓦女足 vs 巴达洛纳女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e48a9f6f9956c241033c8e924fe657d4.png" group-title="足球",韦尔瓦女足 vs 巴达洛纳女足|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="佩拉拉达 vs 赫罗纳B队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/03248510ed2059772333bd7e6f94872f.png" group-title="足球",佩拉拉达 vs 赫罗纳B队|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="阿美利简奴青年队 vs 亚美利加RJU20|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3e29103ab89b7dc20af02698aa2eb389.png" group-title="足球",阿美利简奴青年队 vs 亚美利加RJU20|完场
@@ -39,15 +31,19 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="USK布拉格女篮 vs AZS卢布林女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c1f429c714968a3f321beef1feed940e.png" group-title="篮球",USK布拉格女篮 vs AZS卢布林女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="布赖代合作 vs 纳达|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/440da1fad5d16ada9a9742bf5d14c98e.png" group-title="足球",布赖代合作 vs 纳达|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-1-4621327.m3u8?auth_key=1795637451-0-0-185b694a9056691bcc0563c2472e3820
+#EXTINF:-1 tvg-name="布赖代合作 vs 纳达|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/440da1fad5d16ada9a9742bf5d14c98e.png" group-title="足球",布赖代合作 vs 纳达|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="密歇根女篮 vs 托莱多女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/n70d6b6759a63d443f0923c2498da5cf9.png" group-title="篮球",密歇根女篮 vs 托莱多女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="弗里堡女篮 vs 布雷塔尼女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/cae873b97a5799b62bc618958ae67068.png" group-title="篮球",弗里堡女篮 vs 布雷塔尼女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="帕纳多里高斯女篮 vs 杰里斯女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c04e50ed82c949d9ba952b66ee02dbed.png" group-title="篮球",帕纳多里高斯女篮 vs 杰里斯女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="威尼斯雷耶女篮 vs 科斯塔马斯纳加女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/152802f4f430b863afab52d7eb1837c9.png" group-title="篮球",威尼斯雷耶女篮 vs 科斯塔马斯纳加女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="曼托瓦 vs 阿雷佐|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/adf79e68db478e32f1a2b2fe39df4668.png" group-title="足球",曼托瓦 vs 阿雷佐|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4594718.m3u8?auth_key=1795637451-0-0-aecdb69b1753c3f3ad9fae95366e540f
+https://pullgz721.qmuiw.com/live/sd-1-4594718.m3u8?auth_key=1795637761-0-0-11fdb5b61e0016ab1241b2d603f47d2c
 #EXTINF:-1 tvg-name="帕多瓦 vs 桑普多利亚|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/498ce1dc4289645db9437dcaf3cb4439.png" group-title="足球",帕多瓦 vs 桑普多利亚|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4594719.m3u8?auth_key=1795637451-0-0-d643886c7a8b08fc28da159a5c7f09a4
+https://pullgz721.qmuiw.com/live/sd-1-4594719.m3u8?auth_key=1795637761-0-0-ff1512aa29b30f784ac0ee8bf90235e2
 #EXTINF:-1 tvg-name="比萨 vs 摩德纳|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/7ca5de14056c7290f6787e0943aa11ad.png" group-title="足球",比萨 vs 摩德纳|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4594721.m3u8?auth_key=1795637451-0-0-051e81a603e167fc6ddf7d5991c1cf25
+https://pullgz721.qmuiw.com/live/sd-1-4594721.m3u8?auth_key=1795637761-0-0-ad7b4293567b2fed904d7cf5bf66f5ec
