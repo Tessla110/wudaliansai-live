@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="弗洛戈雷 vs 维图斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d5d71160eed1da6cc49ddbd0e063fbaf.png" group-title="足球",弗洛戈雷 vs 维图斯|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="博尔顿 vs 西布罗姆维奇|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/2c3f4f15f3330c4ea9ea9638ae5fb9ce.png" group-title="足球",博尔顿 vs 西布罗姆维奇|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="伯恩利 vs 伯明翰|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1091af5aa9fc4a30411785954edb9159.png" group-title="足球",伯恩利 vs 伯明翰|完场
