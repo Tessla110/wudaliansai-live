@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="坎帕拉市女足 vs 乌干达殉道者高中女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/c03fb0fa44e1351a4d696656107fcf88.png" group-title="足球",坎帕拉市女足 vs 乌干达殉道者高中女足|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="FK帕沃兹 vs 帕米尔中央陆军|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/90e500f4c59aaa22f721dd715f73fd50.png" group-title="足球",FK帕沃兹 vs 帕米尔中央陆军|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="雷加塔吉克冶铝厂 vs 萨多图尔松佐达|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/7b9d42db01009692077178915f9c1623.png" group-title="足球",雷加塔吉克冶铝厂 vs 萨多图尔松佐达|完场
@@ -44,16 +42,18 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="巴库体育FK vs 古萨尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/afd11580da1ff691b68dcb564d9d10e5.png" group-title="足球",巴库体育FK vs 古萨尔|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="蒙古 vs 印尼|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9f8bb56fe64efcf7f3d1daffb5b8dd8c.png" group-title="篮球",蒙古 vs 印尼|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3943510.m3u8?auth_key=1795696268-0-0-9480b0823a2500fe36e653e0fcc4c601
+https://pullgz721.qmuiw.com/live/sd-2-3943510.m3u8?auth_key=1795697083-0-0-c76ea829c6db92982d7b1fbf99671361
 #EXTINF:-1 tvg-name="同奈 vs 军队|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ce8c85d255eec0aa1440dd127445bf43.png" group-title="篮球",同奈 vs 军队|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961698.m3u8?auth_key=1795696268-0-0-a55fb81f29548a623f2d7c71e3495e04
+https://pullgz721.qmuiw.com/live/sd-2-3961698.m3u8?auth_key=1795697083-0-0-d3837a1589b62bd54e859f458e985355
 #EXTINF:-1 tvg-name="TPF程逸府 vs 宋卡|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/2f75eaf59b862667f070c7f693839446.png" group-title="足球",TPF程逸府 vs 宋卡|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4600392.m3u8?auth_key=1795696268-0-0-39ae01ade04f1561d935395a56d5c104
+https://pullgz721.qmuiw.com/live/sd-1-4600392.m3u8?auth_key=1795697083-0-0-25d0135b1484dc14787d938dc89472e2
 #EXTINF:-1 tvg-name="四川远达美乐女篮 vs 江苏南钢女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/762193981179bd9e412c2f38d2846449.png" group-title="篮球",四川远达美乐女篮 vs 江苏南钢女篮|视频直播
-https://pullgz721.qmuiw.com/live/hd-en-2-3958907.m3u8?auth_key=1795696268-0-0-c053cdc1990b0b577bf71d8dbc4a342b
+https://pullgz721.qmuiw.com/live/hd-en-2-3958907.m3u8?auth_key=1795697083-0-0-c533ba598c1b3bbbca90317d7af7e7c9
 #EXTINF:-1 tvg-name="山西竹叶青酒女篮 vs 上海浦发银行女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3afdfda57ca6ef4d3d875f098902f58f.png" group-title="篮球",山西竹叶青酒女篮 vs 上海浦发银行女篮|视频直播
-https://pullgz721.qmuiw.com/live/hd-en-2-3958908.m3u8?auth_key=1795696268-0-0-818f693977f85abdd6d496ba5ad448db
+https://pullgz721.qmuiw.com/live/hd-en-2-3958908.m3u8?auth_key=1795697083-0-0-a89f21ffcfeebdc169afc69e0de10022
 #EXTINF:-1 tvg-name="武汉盛帆黄鹤女篮 vs 石家庄英励女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c654d3c56f74e62af5ceb3c9fb7451de.png" group-title="篮球",武汉盛帆黄鹤女篮 vs 石家庄英励女篮|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3958909.m3u8?auth_key=1795696268-0-0-9adaec8edda7157347834534e6e805ad
+https://pullgz721.qmuiw.com/live/hd-zh-2-3958909.m3u8?auth_key=1795697083-0-0-a53283a0271503485ba813f3656ffe49
 #EXTINF:-1 tvg-name="台州 vs 江山|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c82e37019c13de7bb7737093062f8bf4.png" group-title="篮球",台州 vs 江山|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3939009.m3u8?auth_key=1795696268-0-0-9b6dd6ca569ab0f7259afe5d2aa26b5d
+https://pullgz721.qmuiw.com/live/sd-2-3939009.m3u8?auth_key=1795697083-0-0-c970112d762d8e373c782b0a1ad9cfe6
+#EXTINF:-1 tvg-name="达尔城 vs 海豚BC|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f5e8ec8d9e4c5d850f6a88c6a8e15021.png" group-title="篮球",达尔城 vs 海豚BC|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3961720.m3u8?auth_key=1795697083-0-0-a936f367fa88da05e32694b801184a0e
