@@ -1,9 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="梅塔帕 vs 科胡特佩克|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f98516b0b37244c7ad087b47e96f33d9.png" group-title="篮球",梅塔帕 vs 科胡特佩克|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="国民竞技 vs 麦德林独立|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/4ee24366d09a9239bb2c4207a5008111.png" group-title="足球",国民竞技 vs 麦德林独立|完场
+#EXTINF:-1 tvg-name="佛罗里达獾 vs 佛罗里达狼|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3684130c7f9e71ba96ce85d6a1bbac74.png" group-title="足球",佛罗里达獾 vs 佛罗里达狼|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="得州大学埃尔帕索分校 vs 东密歇根|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/5f20096d34066fc0c483ee5d2f86867f.png" group-title="篮球",得州大学埃尔帕索分校 vs 东密歇根|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
@@ -41,14 +39,16 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="林同女篮 vs 丛安仁丹女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c22a75e228adbffb3c67576c6f8dfc78.png" group-title="篮球",林同女篮 vs 丛安仁丹女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="台湾科技大学 vs 中原大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c9649076e60cce8cac4abc168dc2d598.png" group-title="篮球",台湾科技大学 vs 中原大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960850.m3u8?auth_key=1795676023-0-0-93bfebd61caf141f97c78d9f2c18e553
+#EXTINF:-1 tvg-name="台湾科技大学 vs 中原大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c9649076e60cce8cac4abc168dc2d598.png" group-title="篮球",台湾科技大学 vs 中原大学|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="斐济 vs 中国香港|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3e6a86278c2671cad16cd7f26c08db8b.png" group-title="篮球",斐济 vs 中国香港|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="一基金会U21 vs 比达纳加尔U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f57b9483d90e4b4125775a4f2397bfa8.png" group-title="足球",一基金会U21 vs 比达纳加尔U21|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="科罗拉多州立大学 vs 克莱姆森大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c5cc431b68b485d6a7c350b17e83aa6e.png" group-title="篮球",科罗拉多州立大学 vs 克莱姆森大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961595.m3u8?auth_key=1795676023-0-0-eb2d95c6fdcd23365ac393baeee525b1
+https://pullgz721.qmuiw.com/live/sd-2-3961595.m3u8?auth_key=1795676370-0-0-dcd554be5162745ad92633288e4f6496
 #EXTINF:-1 tvg-name="圣路易斯大学 vs 斯坦福大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8178a03ea19f890618234b8edb82af36.jpg" group-title="篮球",圣路易斯大学 vs 斯坦福大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961617.m3u8?auth_key=1795676023-0-0-059e74b8b752ef1793678cfb8a68df7d
+https://pullgz721.qmuiw.com/live/sd-2-3961617.m3u8?auth_key=1795676370-0-0-41cc5f4b0b8f6e0808bac637a3aa96af
 #EXTINF:-1 tvg-name="健行科技大学 vs 政治大学|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7372c41e738b7e55c532c8ffc7baa30c.png" group-title="篮球",健行科技大学 vs 政治大学|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="AC台北 vs 新北航源|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/eec294df654c839365f20625cc713753.png" group-title="足球",AC台北 vs 新北航源|未开赛
@@ -72,4 +72,6 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="南墨尔本 vs 欧克莱卡诺|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3728683390847f335552d077cf0b8752.png" group-title="足球",南墨尔本 vs 欧克莱卡诺|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="帕瑟卡帕斯巴苏鲁安 vs 恩加达|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f0d090a7424e6095685029d494d4276c.png" group-title="足球",帕瑟卡帕斯巴苏鲁安 vs 恩加达|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="格勒斯克联 vs 普尔巴灵加|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/cf874342c7bd44f351c9d502674f94b8.png" group-title="足球",格勒斯克联 vs 普尔巴灵加|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
