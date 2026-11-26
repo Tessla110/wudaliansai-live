@@ -1,14 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="TPF程逸府 vs 宋卡|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/2f75eaf59b862667f070c7f693839446.png" group-title="足球",TPF程逸府 vs 宋卡|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="奥林匹亚埃里温 vs 米卡|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a6907095ebeeaa9f35f3ff49c5366d57.png" group-title="足球",奥林匹亚埃里温 vs 米卡|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="四川远达美乐女篮 vs 江苏南钢女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/762193981179bd9e412c2f38d2846449.png" group-title="篮球",四川远达美乐女篮 vs 江苏南钢女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="山西竹叶青酒女篮 vs 上海浦发银行女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3afdfda57ca6ef4d3d875f098902f58f.png" group-title="篮球",山西竹叶青酒女篮 vs 上海浦发银行女篮|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="武汉盛帆黄鹤女篮 vs 石家庄英励女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c654d3c56f74e62af5ceb3c9fb7451de.png" group-title="篮球",武汉盛帆黄鹤女篮 vs 石家庄英励女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="台州 vs 江山|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c82e37019c13de7bb7737093062f8bf4.png" group-title="篮球",台州 vs 江山|完场
@@ -37,6 +29,10 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="艾沙赫 vs 阿喀巴|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9ecc6ebc53acf5b5a772580027db51eb.png" group-title="足球",艾沙赫 vs 阿喀巴|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="沙汉 vs 安曼阿赫利|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/62243718d57ddc7ef2c7957600ecddb5.png" group-title="足球",沙汉 vs 安曼阿赫利|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="安曼FC vs 马恩|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3a138bb2a74b164acc9e25271b6ca8a0.png" group-title="足球",安曼FC vs 马恩|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="哈伊阿米尔哈桑 vs 伊蒂哈德连姆沙|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/4826e757ca880807dcdd0227f4641292.png" group-title="足球",哈伊阿米尔哈桑 vs 伊蒂哈德连姆沙|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="萨赫霍兰 vs 哈舒梅亚|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/7bc72c1216f39dd544b25a943a48619e.png" group-title="足球",萨赫霍兰 vs 哈舒梅亚|完场
@@ -45,7 +41,9 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="布兰U19 vs 布罗马博亚纳U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/50052a928bcbe956f796d88077eea62b.png" group-title="足球",布兰U19 vs 布罗马博亚纳U19|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="科里库U19 vs 法拿莫达利U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9a86008d96844bad6f169f44a58a4779.png" group-title="足球",科里库U19 vs 法拿莫达利U19|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="岘港 vs 河内|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f7c31ff2fe4f675e3900007fa3a75c92.png" group-title="篮球",岘港 vs 河内|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="沙特 vs 中国|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/74598b2e0e004c9a8c87e221e8f65996.png" group-title="篮球",沙特 vs 中国|视频直播
-https://pullgz721.qmuiw.com/live/hd-en-2-3923784.m3u8?auth_key=1795703099-0-0-9d658666d551c21a2c1922c301f48a35
+https://pullgz721.qmuiw.com/live/hd-en-2-3923784.m3u8?auth_key=1795703410-0-0-f5085a67c8a11d71a237fc4151551267
