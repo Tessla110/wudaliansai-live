@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="塞尔塔 vs 伯恩茅斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/4cae02e963f046f381c25a5d16039d0b.png" group-title="足球",塞尔塔 vs 伯恩茅斯|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="萨格勒布迪纳摩 vs 勒沃库森|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b22d9b2c5fc8d98df9194a9c5d66ec83.png" group-title="足球",萨格勒布迪纳摩 vs 勒沃库森|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="阿贾克斯 vs 图恩|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/187929503752357480bce47813a9741f.png" group-title="足球",阿贾克斯 vs 图恩|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="马赛 vs 索非亚列夫斯基|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/bf38710e138f43618dac312e088195bd.png" group-title="足球",马赛 vs 索非亚列夫斯基|完场
@@ -36,7 +32,7 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="戈尔佐夫女篮 vs 恩斯诺女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/45e473a800d9162013348562ce2423da.png" group-title="篮球",戈尔佐夫女篮 vs 恩斯诺女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="希腊 vs 格鲁吉亚|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b17842ce6fb723a04d8795d8adb195f7.png" group-title="篮球",希腊 vs 格鲁吉亚|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3931010.m3u8?auth_key=1795723130-0-0-7c579767adb784bf120ee49d3d52efe7
+https://pullgz721.qmuiw.com/live/sd-2-3931010.m3u8?auth_key=1795723450-0-0-eff2499fa045d771db2b0764ab1301c1
 #EXTINF:-1 tvg-name="黑山 vs 西班牙|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d611867da29bd4ebe52826f8622c96d6.jpg" group-title="篮球",黑山 vs 西班牙|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="基里亚特奥诺夏普尔 vs 马卡比拉马特|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/81c2b83be7b24d3119547353442ba9ab.png" group-title="足球",基里亚特奥诺夏普尔 vs 马卡比拉马特|完场
@@ -48,10 +44,10 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="奥尔堡 vs 埃斯比约|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1068c9f5e4fda4454e55834ee9073f2a.png" group-title="足球",奥尔堡 vs 埃斯比约|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="挪威 vs 比利时|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/51b4e9e1793e4283bb17d4a9e0245a28.png" group-title="篮球",挪威 vs 比利时|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3933221.m3u8?auth_key=1795723130-0-0-213fecf112661d283e685dcde5e700b7
+https://pullgz721.qmuiw.com/live/sd-2-3933221.m3u8?auth_key=1795723450-0-0-b73d3dac6a574bb306acca2de926a0b7
 #EXTINF:-1 tvg-name="黎巴嫩 vs 日本|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/01fbdbd570011d3ff9420955163f2cbf.jpg" group-title="篮球",黎巴嫩 vs 日本|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3923781.m3u8?auth_key=1795723130-0-0-99a796ae6053e842169c034ce2010c1b
+https://pullgz721.qmuiw.com/live/sd-2-3923781.m3u8?auth_key=1795723450-0-0-7206713773abd704e1fa75937fea8d4c
 #EXTINF:-1 tvg-name="意大利 vs 土耳其|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/08bfffbb80cd7dca9fca43d93584a87d.png" group-title="篮球",意大利 vs 土耳其|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3931012.m3u8?auth_key=1795723130-0-0-759958f637b0e64304331e868eef97e7
+https://pullgz721.qmuiw.com/live/sd-2-3931012.m3u8?auth_key=1795723450-0-0-d168ac3a1f0fcb64249ecde7886631f7
 #EXTINF:-1 tvg-name="葡萄牙 vs 乌克兰|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f3ac89a5f052460169843d9793296c29.png" group-title="篮球",葡萄牙 vs 乌克兰|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3931015.m3u8?auth_key=1795723130-0-0-994653a7a54042665a02cb58ae0b53ed
+https://pullgz721.qmuiw.com/live/sd-2-3931015.m3u8?auth_key=1795723450-0-0-b99c7e9e309b8cf44a39a64714744c69
