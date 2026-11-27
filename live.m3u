@@ -1,11 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="扎胡 vs 卡帕拉|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b91a30ad7ae7390c8c7d39e8c292fcc4.png" group-title="足球",扎胡 vs 卡帕拉|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="克雷莫纳U20 vs 布雷西亚U19|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3026dca17a89822f058ca4a08e913fcc.png" group-title="足球",克雷莫纳U20 vs 布雷西亚U19|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="阿尔希拉尔班加西 vs 巴特南|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b66769ef2bdda1b3ca96f4d0a90dc6d7.png" group-title="足球",阿尔希拉尔班加西 vs 巴特南|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="瑞士女足U19 vs 瑞典女足U18|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/809ccadcac6afaee1ce02dcf43668f94.png" group-title="足球",瑞士女足U19 vs 瑞典女足U18|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="戈莫拉联 vs 米德兰流浪者FC|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/75d0521f0776f3d18a0ec87521257e9c.png" group-title="足球",戈莫拉联 vs 米德兰流浪者FC|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
@@ -44,16 +42,16 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="胡拜尔库迪西亚 vs 费哈|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/bc74439d19c8bbaa17c57406b120b86d.png" group-title="足球",胡拜尔库迪西亚 vs 费哈|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="尼菲治巴库 vs 兹拉|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/2d9ea2234c3ada82b3d0355791c45669.png" group-title="足球",尼菲治巴库 vs 兹拉|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4595653.m3u8?auth_key=1795796497-0-0-ddef3ea2f2ed49246ba708448ab92103
+https://pullgz721.qmuiw.com/live/sd-1-4595653.m3u8?auth_key=1795796795-0-0-05e8f881adaf6f3ab8b7fc6edc8d83e3
 #EXTINF:-1 tvg-name="哈萨克斯坦 vs 科威特|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6ace4fcfc4eb6fcdb7924018bea97e19.png" group-title="篮球",哈萨克斯坦 vs 科威特|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3943509.m3u8?auth_key=1795796497-0-0-26bb238d5d1935493883c3ed4faeb77b
+https://pullgz721.qmuiw.com/live/sd-2-3943509.m3u8?auth_key=1795796795-0-0-4932c4ab28e86f169b0fe6ba4744208b
 #EXTINF:-1 tvg-name="东里法 vs 伊迪法克|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e6280d08fa83c34395d79386edd4f208.png" group-title="足球",东里法 vs 伊迪法克|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4662684.m3u8?auth_key=1795796497-0-0-a5f1edaba75bef5421d747be389b9426
+https://pullgz721.qmuiw.com/live/sd-1-4662684.m3u8?auth_key=1795796795-0-0-669b2fb6ec3530fc0a098c0dcc077a04
 #EXTINF:-1 tvg-name="玛基亚 vs 麦纳麦|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/6602cc46045f8575bf620823f92ddadf.png" group-title="足球",玛基亚 vs 麦纳麦|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4662685.m3u8?auth_key=1795796497-0-0-9e09c00ab88a4f1bab10e00892114433
+https://pullgz721.qmuiw.com/live/sd-1-4662685.m3u8?auth_key=1795796795-0-0-7848b938e5c5044b2deb753ca2250bef
 #EXTINF:-1 tvg-name="阿尔及利亚U17 vs 多米尼加U17|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e8cf5f6d2078faa01108507e14a7bc64.png" group-title="足球",阿尔及利亚U17 vs 多米尼加U17|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4544840.m3u8?auth_key=1795796497-0-0-30182e0ae498dca167432dfda8afc7ec
+https://pullgz721.qmuiw.com/live/sd-1-4544840.m3u8?auth_key=1795796795-0-0-36812e0f85d40800de8b577d465266e0
 #EXTINF:-1 tvg-name="黑山U17 vs 智利U17|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9176a27b14af851186db2439d2a0dc71.png" group-title="足球",黑山U17 vs 智利U17|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4544866.m3u8?auth_key=1795796497-0-0-d6d8342a34f9ad4441d93b6a43e12c42
+https://pullgz721.qmuiw.com/live/sd-1-4544866.m3u8?auth_key=1795796795-0-0-c74105a94f962adb02ddd9a2e7091196
 #EXTINF:-1 tvg-name="克卢日大学 vs 舍佩斯|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/74c37787bcf9656e1372913981f69859.png" group-title="足球",克卢日大学 vs 舍佩斯|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4567851.m3u8?auth_key=1795796497-0-0-d699b0df1213a59c409194521ce52fbb
+https://pullgz721.qmuiw.com/live/sd-1-4567851.m3u8?auth_key=1795796795-0-0-9e48d7ef753220ce92d139356a1e9a49
