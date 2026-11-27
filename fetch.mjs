@@ -200,13 +200,13 @@ function buildM3U(items) {
 
 const domain = await pickHealthyDomain();
 if (!domain) {
-  console.error("no healthy upstream domain, keeping old live.m3u");
-  process.exit(1);
+  console.log("no healthy upstream domain, keeping old live.m3u");
+  process.exit(0);
 }
 const items = await fetchLiveList(domain);
 if (!items.length) {
-  console.error("empty live list, keeping old live.m3u");
-  process.exit(1);
+  console.log("empty live list, keeping old live.m3u");
+  process.exit(0);
 }
 writeFileSync("live.m3u", buildM3U(items));
 const live = items.filter((m) => m.m_status === 1).length;
