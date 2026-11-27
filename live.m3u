@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="布拉格斯巴达 vs 阿尔克马尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/5b8479ebddd13feeef3165a1393aad19.png" group-title="足球",布拉格斯巴达 vs 阿尔克马尔|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="桑德兰 vs 雅盖隆|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9b111ad58ebc40b6bbcc47414b204d87.png" group-title="足球",桑德兰 vs 雅盖隆|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="北西兰 vs 帕纳辛纳科斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d63099fdff083541d1ebef9beae90f63.png" group-title="足球",北西兰 vs 帕纳辛纳科斯|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="托伦斯 vs 凯尔特人|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/3555977b288a6b8b02f876b0e5a1da53.png" group-title="足球",托伦斯 vs 凯尔特人|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="哈伊杜克 vs 圣图尔登|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/5099192a1226b54aa2ce2a430edf9af9.png" group-title="足球",哈伊杜克 vs 圣图尔登|完场
@@ -31,11 +25,15 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="NCR瓦隆戈女篮 vs CLIP B（W）|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/19442d09b10edb837cb60dd3933314cb.png" group-title="篮球",NCR瓦隆戈女篮 vs CLIP B（W）|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="犹他州立大学 vs 南加州大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/09cc1d375236476ba0ac885b66b11bff.png" group-title="篮球",犹他州立大学 vs 南加州大学|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="密歇根州立大学 vs 阿肯色大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9b209449dd4c8271eab470659c17ce54.png" group-title="篮球",密歇根州立大学 vs 阿肯色大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="CA克鲁兹U21 vs 里约梅奥U21|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/de1b7252fd3f4fc683a94081fd40df59.png" group-title="篮球",CA克鲁兹U21 vs 里约梅奥U21|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="漫游者 vs 雷科莱塔体育|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/75f99e91b5c00aa5df50ed3c0d576e0b.png" group-title="足球",漫游者 vs 雷科莱塔体育|未开赛
+#EXTINF:-1 tvg-name="阿根廷独立后备队 vs 体操和击剑后备队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/591cd3c2ab45ee154bada8fba71e55aa.png" group-title="足球",阿根廷独立后备队 vs 体操和击剑后备队|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="蒂罗尔 vs 古兰尼CE|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1089afd4810ed2b1a22ef7a73c128fdc.png" group-title="足球",蒂罗尔 vs 古兰尼CE|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="圣安德雷女篮U20 vs ARAE卡坦杜瓦女篮U20|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/e5c0347b055bdc8a5b32243a53dc5ad8.png" group-title="篮球",圣安德雷女篮U20 vs ARAE卡坦杜瓦女篮U20|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
@@ -44,12 +42,18 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="埃卡泰佩克FC vs 墨西哥竞技 F.E.|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f8fefa1062b7f72982263757680421c0.png" group-title="足球",埃卡泰佩克FC vs 墨西哥竞技 F.E.|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="乌拉圭 vs 加拿大|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/24cc81f4b4dd40118fa918860cf3685a.png" group-title="篮球",乌拉圭 vs 加拿大|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3931131.m3u8?auth_key=1795737435-0-0-837e591ed823835cce4de586d7fc2c6b
+https://pullgz721.qmuiw.com/live/sd-2-3931131.m3u8?auth_key=1795737767-0-0-ceb28e9e6a74260c2311e04a0acac0aa
 #EXTINF:-1 tvg-name="波特诺山丘 vs 亚松森自由|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/c210e6c1fadf9e292797da2cdf685555.jpg" group-title="足球",波特诺山丘 vs 亚松森自由|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4670823.m3u8?auth_key=1795737435-0-0-3aed7b41669f071ac2d23f06092f3831
+https://pullgz721.qmuiw.com/live/sd-1-4670823.m3u8?auth_key=1795737767-0-0-02d3d0a49a15d948aa860d6734e6d6b1
 #EXTINF:-1 tvg-name="爱荷华州立 vs 田纳西大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6e0c52848b055416fdc695100cfe53cb.png" group-title="篮球",爱荷华州立 vs 田纳西大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="圣保罗 vs 雷莫|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/31f5171de0e1404fdebcef19cd7cd409.png" group-title="足球",圣保罗 vs 雷莫|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4465921.m3u8?auth_key=1795737435-0-0-ce605563b59749cf30900a4a9557d3ea
+https://pullgz721.qmuiw.com/live/sd-1-4465921.m3u8?auth_key=1795737767-0-0-6f698e8be051b321d58af55c56a409b8
 #EXTINF:-1 tvg-name="委内瑞拉 vs 厄瓜多尔|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d0db709693d50a16569308f6d39e4130.png" group-title="篮球",委内瑞拉 vs 厄瓜多尔|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961749.m3u8?auth_key=1795737435-0-0-1c857e179f06c09210c43975c9e8c508
+https://pullgz721.qmuiw.com/live/sd-2-3961749.m3u8?auth_key=1795737767-0-0-60f559caa4b87000cae5b3e1497f1754
+#EXTINF:-1 tvg-name="基尔梅斯 vs 维德马体育|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/e4264dbac73ccb92d40de8de63542b18.jpg" group-title="篮球",基尔梅斯 vs 维德马体育|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="波托西民族 vs 阿雷米斯|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/060a702eb4a21e167d342664576ac123.png" group-title="篮球",波托西民族 vs 阿雷米斯|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="和平传说 vs 布劳恩波托西|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a4f351ed549c85e969be8a264f31572a.png" group-title="篮球",和平传说 vs 布劳恩波托西|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
