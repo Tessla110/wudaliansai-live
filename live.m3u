@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="巴贝尔斯贝格03 vs BSG化学莱比锡|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e46fbbd386ed6db1a1c5114b7bc4b077.png" group-title="足球",巴贝尔斯贝格03 vs BSG化学莱比锡|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="柏林迪纳摩 vs 爱尔福特红白|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/98f5158600d93a17cb15326d5bc56434.png" group-title="足球",柏林迪纳摩 vs 爱尔福特红白|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="圣约翰大学 vs 爱荷华州立|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f6ba150d23eafa770a339b557d087acd.png" group-title="篮球",圣约翰大学 vs 爱荷华州立|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="地拉那海王星 vs 斯坎德培|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/50d99f714bc99d0de8e2ed070fb61b00.png" group-title="篮球",地拉那海王星 vs 斯坎德培|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="梅里马克学院 vs 佛蒙特大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/2f2c56544fc05590a695783b166e29b7.png" group-title="篮球",梅里马克学院 vs 佛蒙特大学|完场
@@ -37,21 +31,29 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="佩特罗鲁 vs 阿格斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a568766c6a9883fa021d0469ec813dc2.png" group-title="足球",佩特罗鲁 vs 阿格斯|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="吉奥里 vs 德布雷辛尼|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1fac0c84b8a2914bc8449c720f56a2da.png" group-title="足球",吉奥里 vs 德布雷辛尼|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4568967.m3u8?auth_key=1795811403-0-0-0ea8a449fc56d717a090208eb121fab2
+#EXTINF:-1 tvg-name="吉奥里 vs 德布雷辛尼|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1fac0c84b8a2914bc8449c720f56a2da.png" group-title="足球",吉奥里 vs 德布雷辛尼|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="奥丁恩 vs 托伦CF|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/bcb7c13ff9746a60fa8c3e748acd054d.jpg" group-title="足球",奥丁恩 vs 托伦CF|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="孟菲斯大学 vs 维克森林大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/fcb93ee75d45a72cea51073b699c289f.png" group-title="篮球",孟菲斯大学 vs 维克森林大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961823.m3u8?auth_key=1795811403-0-0-3e99add5adf43e089553c282a2796632
+https://pullgz721.qmuiw.com/live/sd-2-3961823.m3u8?auth_key=1795811735-0-0-e1b904734cf5624c23973182cb37071d
+#EXTINF:-1 tvg-name="TCU女篮 vs 佐治亚理工女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/17b31dec1d184088a76fd8549888edb5.png" group-title="篮球",TCU女篮 vs 佐治亚理工女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="华盛顿大学女篮 vs 俄克拉荷马州立大学女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3349cb0a71ef470490f4e262f95941b8.png" group-title="篮球",华盛顿大学女篮 vs 俄克拉荷马州立大学女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="南加州大学女篮 vs 圣约瑟女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/105a16a227e9b7fc84d99fe67cbf8cdc.png" group-title="篮球",南加州大学女篮 vs 圣约瑟女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="费尔菲尔德大学 vs 海军官校|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ef37cb35b6170f236bde089f4104ddcd.png" group-title="篮球",费尔菲尔德大学 vs 海军官校|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3949658.m3u8?auth_key=1795811403-0-0-3ce4b221c24f55993d1217f4481e9c1b
+https://pullgz721.qmuiw.com/live/sd-2-3949658.m3u8?auth_key=1795811735-0-0-f23803d6a81dfc64d2b770672e9c9ff2
 #EXTINF:-1 tvg-name="莱莫恩 vs 缅因大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a893627eef6cdfaec914dca7b8fe4fd4.png" group-title="篮球",莱莫恩 vs 缅因大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3949669.m3u8?auth_key=1795811403-0-0-f327e397b98d7646b4c9816a05b75af2
+https://pullgz721.qmuiw.com/live/sd-2-3949669.m3u8?auth_key=1795811735-0-0-698c3732c28aff9c80ad6c807157b4b2
 #EXTINF:-1 tvg-name="德芬 vs 奥伦斯CS|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e6e7908a2efe1a1688bfb86106e98c30.png" group-title="足球",德芬 vs 奥伦斯CS|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4671749.m3u8?auth_key=1795811403-0-0-f2ee5fd932c2116ea58da4c38f7f891b
+https://pullgz721.qmuiw.com/live/sd-1-4671749.m3u8?auth_key=1795811735-0-0-3768031ec824656e67cfa7a9944b0ac1
 #EXTINF:-1 tvg-name="荷兰 vs 以色列|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a1e584d12a4233b7ded3d0d54f847240.png" group-title="篮球",荷兰 vs 以色列|视频直播
-https://pullgz721.qmuiw.com/live/hd-en-2-3931058.m3u8?auth_key=1795811403-0-0-7c2221e1dd9d39a3fece180651a2805e
+https://pullgz721.qmuiw.com/live/hd-en-2-3931058.m3u8?auth_key=1795811735-0-0-2c3d5489f60c898f530cd9d35abbdc3c
+#EXTINF:-1 tvg-name="斯洛文尼亚 vs 芬兰|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/35ddc4d975ebf4ca72e69c453bc89d44.png" group-title="篮球",斯洛文尼亚 vs 芬兰|视频直播
+https://pullgz721.qmuiw.com/live/hd-en-2-3931060.m3u8?auth_key=1795811735-0-0-d0550aaff7af6f5a09003040afabae54
+#EXTINF:-1 tvg-name="法兰波垒斯 vs 欧本|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d67cdae3f4d4af11bc1738a09376cd24.png" group-title="足球",法兰波垒斯 vs 欧本|视频直播
+https://pullgz721.qmuiw.com/live/sd-1-4561159.m3u8?auth_key=1795811735-0-0-d12388171482625d3fc23fd4d2d48324
+#EXTINF:-1 tvg-name="亨克B队 vs 安德莱赫特B队|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/090e676e6ca4c7e29d4e011a41772638.png" group-title="足球",亨克B队 vs 安德莱赫特B队|视频直播
+https://pullgz721.qmuiw.com/live/sd-1-4561160.m3u8?auth_key=1795811735-0-0-a3b73080060f528e0c0acefe030e76ee
