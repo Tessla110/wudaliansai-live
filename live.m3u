@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="卡琳娜古宾 vs 韦尔科波尔斯基|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f9ad7c5e1ecd608d869f12e22cf6ab13.png" group-title="足球",卡琳娜古宾 vs 韦尔科波尔斯基|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="叙利亚 vs 菲律宾|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d5313f24c755a8f9d6963dd1d532b118.png" group-title="篮球",叙利亚 vs 菲律宾|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="萨拜FC vs 西马里|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e8ff74bbde41ecfd522e50ad4dd8e7b5.png" group-title="足球",萨拜FC vs 西马里|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="马利舍瓦 vs 罗拉匹|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/026dbf213ca4c10c52bca7daef8e3c57.png" group-title="足球",马利舍瓦 vs 罗拉匹|完场
@@ -41,9 +37,11 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="乌泰他尼森林 vs 四色菊联|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/0bebca8b04365cbdf36703122a59189c.png" group-title="足球",乌泰他尼森林 vs 四色菊联|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="文莱DPMM vs 吉兰丹红战士|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/25dae24c4bfc4a6fdd53d090a39821dd.png" group-title="足球",文莱DPMM vs 吉兰丹红战士|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4598757.m3u8?auth_key=1795788414-0-0-cf75eadfb7b4a4b20ca0e45d4b857332
+#EXTINF:-1 tvg-name="扩塔禾 vs 卡瓦拉赫|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d93bb0bd716e30d01182025fe1da3486.png" group-title="足球",扩塔禾 vs 卡瓦拉赫|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="文莱DPMM vs 吉兰丹红战士|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/25dae24c4bfc4a6fdd53d090a39821dd.png" group-title="足球",文莱DPMM vs 吉兰丹红战士|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="拉斯永恒 vs 塞哈特海湾|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/f68cdd9a1511a39c64d451766c30c3bf.png" group-title="足球",拉斯永恒 vs 塞哈特海湾|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4599655.m3u8?auth_key=1795788414-0-0-10468f11daad91584334511124cff7fa
+https://pullgz721.qmuiw.com/live/sd-1-4599655.m3u8?auth_key=1795788742-0-0-f43ef7fdda7056507d4c7606cc666af1
 #EXTINF:-1 tvg-name="萨格勒布迪纳摩B队 vs 贺瓦斯|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/795cd310ec9ea16119e7ab2e2e672dd9.png" group-title="足球",萨格勒布迪纳摩B队 vs 贺瓦斯|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4621155.m3u8?auth_key=1795788414-0-0-01f91253311e40bd6d31fa245aaa1985
+https://pullgz721.qmuiw.com/live/sd-1-4621155.m3u8?auth_key=1795788742-0-0-d8e7eebeb360f1345fedef28ff7e4a6a
