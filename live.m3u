@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="沃伦点城 vs 韦德斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9a909cbbfef90825027502a604348412.png" group-title="足球",沃伦点城 vs 韦德斯|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="斯坎索普联 vs 威尔德斯通|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e7f6f7ed23a2fd59cdf1c417d0519598.png" group-title="足球",斯坎索普联 vs 威尔德斯通|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="卡菲利体育 vs 巴格兰龙|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/6fdd1b24a6794e36579be5cda316bcc6.png" group-title="足球",卡菲利体育 vs 巴格兰龙|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="巴拉城 vs 卡亚士维斯|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/86d5514b93200eabb47833999c232703.jpg" group-title="足球",巴拉城 vs 卡亚士维斯|完场
@@ -28,7 +24,7 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="巴利马卡斯流浪 vs 多林斯城|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/c63be574179ba52c572299793384765f.png" group-title="足球",巴利马卡斯流浪 vs 多林斯城|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="贝勒大学 vs 德克萨斯基督教大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/081e26ad8799fa6468d3c5ff680259e3.png" group-title="篮球",贝勒大学 vs 德克萨斯基督教大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961854.m3u8?auth_key=1795817387-0-0-6eb9ec9f6ff913ab98a5c5aef51ee923
+https://pullgz721.qmuiw.com/live/sd-2-3961854.m3u8?auth_key=1795817725-0-0-8a29756ed16ce3bae91d01023e916d10
 #EXTINF:-1 tvg-name="德拉瓦大学女篮 vs 加州大学伯克利分校女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c3a1e5744e4000e8992ab4beee6d273c.png" group-title="篮球",德拉瓦大学女篮 vs 加州大学伯克利分校女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="路易斯安那理工大学 vs 德州州立|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f09ddf4028f26b1a27052430d169324f.png" group-title="篮球",路易斯安那理工大学 vs 德州州立|完场
@@ -37,23 +33,23 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="莱万特 vs 桑坦德竞技|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/2728d4cb86a245d6835a6d2fdbbd3baa.png" group-title="足球",莱万特 vs 桑坦德竞技|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="马里迪莫 vs 马德拉国民|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a5caa04e895b6b33ba8e816522795c30.png" group-title="足球",马里迪莫 vs 马德拉国民|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4578255.m3u8?auth_key=1795817388-0-0-f995ccd9041a983ea7cf6f27786aea68
+#EXTINF:-1 tvg-name="马里迪莫 vs 马德拉国民|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a5caa04e895b6b33ba8e816522795c30.png" group-title="足球",马里迪莫 vs 马德拉国民|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="卡特加斯能量室内足球队 vs MRA纳瓦拉室内足球队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/5909d571e036e2a5b53abea8a5a4da57.png" group-title="足球",卡特加斯能量室内足球队 vs MRA纳瓦拉室内足球队|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="大力神 vs CF安特克拉|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/5fee3011a980cc45bdb285e81fb86698.png" group-title="足球",大力神 vs CF安特克拉|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="俄勒冈大学 vs 马里兰大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ceaa9601b03242f7bbe6f651987c0904.png" group-title="篮球",俄勒冈大学 vs 马里兰大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961797.m3u8?auth_key=1795817388-0-0-25740baf95c403eab84e74b60e611e36
+https://pullgz721.qmuiw.com/live/sd-2-3961797.m3u8?auth_key=1795817726-0-0-ae9ea2eb8e2d95ab77abc8ec6b63b4fa
 #EXTINF:-1 tvg-name="巴克尼尔大学 vs 拉萨尔大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/nfe6819893c9d6110c2c5f0c4a50f5b1d.png" group-title="篮球",巴克尼尔大学 vs 拉萨尔大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3953240.m3u8?auth_key=1795817388-0-0-73855683557de06a5ff456d2e6fe832a
+https://pullgz721.qmuiw.com/live/sd-2-3953240.m3u8?auth_key=1795817726-0-0-952e06d591145f8ba075f7a872151aa4
 #EXTINF:-1 tvg-name="联合沃鲁威 vs BBC克鲁恩洛默尔|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/4072c3975cbd466b8195caa979760dd6.png" group-title="篮球",联合沃鲁威 vs BBC克鲁恩洛默尔|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="安特卫普巨人B队 vs 霍尔蒂库特狼队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/11b6515913544fc4c003ead6bbcc3361.png" group-title="篮球",安特卫普巨人B队 vs 霍尔蒂库特狼队|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="美国大学 vs 拉德福德大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/094aa981935f08fead91573b3ff4309e.png" group-title="篮球",美国大学 vs 拉德福德大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3949660.m3u8?auth_key=1795817388-0-0-d4a5627c10f5f53df4c416db6949a135
+https://pullgz721.qmuiw.com/live/sd-2-3949660.m3u8?auth_key=1795817726-0-0-e7c9025c6f80a0b6d98059ff6af56d36
 #EXTINF:-1 tvg-name="密苏里大学 vs 阿肯色大学派恩布拉夫分校|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9f9ae89d34bb4eba955cb17dfc8226ad.png" group-title="篮球",密苏里大学 vs 阿肯色大学派恩布拉夫分校|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3951818.m3u8?auth_key=1795817388-0-0-5f8507649233f1bda99f877ede264ed6
+https://pullgz721.qmuiw.com/live/sd-2-3951818.m3u8?auth_key=1795817726-0-0-ce153ef5e3ec2b22d5598afc690db79e
 #EXTINF:-1 tvg-name="厄瓜多尔 vs 古巴|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/a55c437563cde26692ca64040df4a25c.png" group-title="篮球",厄瓜多尔 vs 古巴|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961751.m3u8?auth_key=1795817388-0-0-316e09e3be5caf64b5c5b9726eab075d
+https://pullgz721.qmuiw.com/live/sd-2-3961751.m3u8?auth_key=1795817726-0-0-290382c23b0c41fb1db5d16fc5b9c786
