@@ -93,7 +93,10 @@ async function encQuery(plaintext) {
 
 async function apiCall(host, path, plaintext = "") {
   const url = `${host}${path}?${await encQuery(plaintext)}`;
-  const res = await fetch(url, { headers: { accept: "application/json" } });
+  const res = await fetch(url, {
+    method: "POST",
+    headers: { accept: "application/json" },
+  });
   if (!res.ok) return null;
   const json = await res.json();
   if (json.code !== 200 || typeof json.data !== "string") return null;
@@ -202,8 +205,8 @@ if (!domain) {
 }
 const items = await fetchLiveList(domain);
 if (!items.length) {
-  console.log("empty live list, keeping old live.m3u");
-  process.exit(0);
+  console.error("empty live list, keeping old live.m3u");
+  process.exit(1);
 }
 writeFileSync("live.m3u", buildM3U(items));
 const live = items.filter((m) => m.m_status === 1).length;
