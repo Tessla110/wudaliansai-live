@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="台湾师大 vs 中原大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/b068d55b47eed117e64615da5a530e47.png" group-title="篮球",台湾师大 vs 中原大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="马来西亚 vs 斐济|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/d580436ffcf5531ff33500bb724315da.png" group-title="篮球",马来西亚 vs 斐济|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="班加罗尔梦幻联 vs 班加罗尔城|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/adc9a8d697f1b5a2e9ea74962caef4d1.png" group-title="足球",班加罗尔梦幻联 vs 班加罗尔城|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="约旦 vs 新西兰|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ad269016d377a139581206b40ad4a941.png" group-title="篮球",约旦 vs 新西兰|完场
@@ -44,14 +40,14 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="曼戎市 vs 雪兰莪大学AAK|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a416c453833944746179a6292d07aa67.jfif" group-title="足球",曼戎市 vs 雪兰莪大学AAK|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="精英国王FC vs 亚洲雄狮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/1b4bbe9d637d7e3e8f8c1dea1a77db36.png" group-title="足球",精英国王FC vs 亚洲雄狮|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4673320.m3u8?auth_key=1795776255-0-0-7aa3c702b9d93a1788d7703b1e7bda78
-#EXTINF:-1 tvg-name="台湾科技大学 vs 文化大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c9649076e60cce8cac4abc168dc2d598.png" group-title="篮球",台湾科技大学 vs 文化大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960856.m3u8?auth_key=1795776255-0-0-c59051bd432dda382c8b12a02819ef99
-#EXTINF:-1 tvg-name="伊朗 vs 澳大利亚|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/77418e1cfd63306bf63717d76c23e910.png" group-title="篮球",伊朗 vs 澳大利亚|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3923788.m3u8?auth_key=1795776255-0-0-92b117d16ab785a73a811fee028250b5
+https://pullgz721.qmuiw.com/live/sd-1-4673320.m3u8?auth_key=1795776591-0-0-6563cca52cc34a92355ff4f1fc67347a
+#EXTINF:-1 tvg-name="台湾科技大学 vs 文化大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c9649076e60cce8cac4abc168dc2d598.png" group-title="篮球",台湾科技大学 vs 文化大学|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="伊朗 vs 澳大利亚|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/77418e1cfd63306bf63717d76c23e910.png" group-title="篮球",伊朗 vs 澳大利亚|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="实皆联U20 vs 汉达瓦底联U20|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/cac919d4e209d0d4b842cd60c6057f31.png" group-title="足球",实皆联U20 vs 汉达瓦底联U20|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4672811.m3u8?auth_key=1795776255-0-0-4dfef368d7b941411c24dd2e907a8df7
+https://pullgz721.qmuiw.com/live/sd-1-4672811.m3u8?auth_key=1795776592-0-0-a100bfcb834fa4e3510bf8afebc44ad1
 #EXTINF:-1 tvg-name="军队 vs 林同|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/e96be0c9825e4738a77047b8afaa504c.png" group-title="篮球",军队 vs 林同|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961859.m3u8?auth_key=1795776255-0-0-73707c949e8ea97e8bc6e2ccec6c4751
+https://pullgz721.qmuiw.com/live/sd-2-3961859.m3u8?auth_key=1795776592-0-0-cb4811b052f476cc0707b9a1b416b144
 #EXTINF:-1 tvg-name="龙仁三星女篮 vs 新韩银行大鸟女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f32dc2e6652e5866f55f47e4d9318bf1.png" group-title="篮球",龙仁三星女篮 vs 新韩银行大鸟女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3946122.m3u8?auth_key=1795776255-0-0-defe8182fbf0ed59bef01fa27a1b012f
+https://pullgz721.qmuiw.com/live/sd-2-3946122.m3u8?auth_key=1795776592-0-0-8ae4b6bd7ba9395f6d1a835d6d0a405d
