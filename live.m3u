@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="高阳天空枪手预备队 vs 蔚山现代太阳神二队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/832e62d124a66ee4951e47fbc4312650.png" group-title="篮球",高阳天空枪手预备队 vs 蔚山现代太阳神二队|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="蒙古U15 vs 中国澳门U15|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/cbdabf3ede86db007a1d8f7428533921.png" group-title="足球",蒙古U15 vs 中国澳门U15|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="辛辛那提女篮 vs 俄亥俄迈阿密女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/af9d288e67004550a1762ae437d69083.png" group-title="篮球",辛辛那提女篮 vs 俄亥俄迈阿密女篮|完场
@@ -39,20 +37,20 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="约旦 vs 新西兰|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/ad269016d377a139581206b40ad4a941.png" group-title="篮球",约旦 vs 新西兰|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="南方黄眼企鹅女篮 vs 北卡胡女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6e46c86df4d3da8c33d691e00d7dd833.png" group-title="篮球",南方黄眼企鹅女篮 vs 北卡胡女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3938162.m3u8?auth_key=1795766915-0-0-4906f71fd6f52dadeafb77598930c6d6
+#EXTINF:-1 tvg-name="南方黄眼企鹅女篮 vs 北卡胡女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6e46c86df4d3da8c33d691e00d7dd833.png" group-title="篮球",南方黄眼企鹅女篮 vs 北卡胡女篮|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="关岛U15 vs 北马里亚纳群岛U15|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/041b3059c8eeb75cbb1fb9d7b41eb495.png" group-title="足球",关岛U15 vs 北马里亚纳群岛U15|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="黎明学院 vs 健行科技大学|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/041fd440b673dac192587be1b453d038.png" group-title="篮球",黎明学院 vs 健行科技大学|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3960855.m3u8?auth_key=1795766915-0-0-e78bc84bd61edf3843ff4cd74b6a1ee9
+https://pullgz721.qmuiw.com/live/sd-2-3960855.m3u8?auth_key=1795768063-0-0-bea3d4851992499bdb26b2852a99e4f0
 #EXTINF:-1 tvg-name="抵抗者FC vs 阿格尼普拉|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d574a61b5e8eb37ca0c037a100e78423.png" group-title="足球",抵抗者FC vs 阿格尼普拉|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4671114.m3u8?auth_key=1795766915-0-0-efde88704d0dc1c447dd99a14caaac57
+https://pullgz721.qmuiw.com/live/sd-1-4671114.m3u8?auth_key=1795768063-0-0-0f3c33e43863d9495cd4ec8b90ee042a
 #EXTINF:-1 tvg-name="印尼 vs 泰国|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8d4aca15bee632dc0709e24152c7f529.png" group-title="篮球",印尼 vs 泰国|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3943516.m3u8?auth_key=1795766915-0-0-78a33d3f7e28ea7cc62d9a8aae0cb4c0
+https://pullgz721.qmuiw.com/live/sd-2-3943516.m3u8?auth_key=1795768063-0-0-9b10c6772bc7f95079bae0907e747fd3
 #EXTINF:-1 tvg-name="老街女篮 vs 胡志明市女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1de154634f1b9898543c3d344b71e8e8.png" group-title="篮球",老街女篮 vs 胡志明市女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961775.m3u8?auth_key=1795766915-0-0-936cc39d06d6688caeb7bb00c63bfd10
-#EXTINF:-1 tvg-name="UC首都女篮 vs 吉朗毒液女篮|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0bf8d00e9a4df141d819d0be02302d42.png" group-title="篮球",UC首都女篮 vs 吉朗毒液女篮|未开赛
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+https://pullgz721.qmuiw.com/live/sd-2-3961775.m3u8?auth_key=1795768063-0-0-1d9e381a65f378769c17cf0b1ad34699
+#EXTINF:-1 tvg-name="UC首都女篮 vs 吉朗毒液女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/0bf8d00e9a4df141d819d0be02302d42.png" group-title="篮球",UC首都女篮 vs 吉朗毒液女篮|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3925791.m3u8?auth_key=1795768063-0-0-1baa6c116edc609873332c54bbc4b202
 #EXTINF:-1 tvg-name="西班牙女足U19 vs 以色列女足U19|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d4ba1a59720b46c8ac03e2c2a86bcfe1.png" group-title="足球",西班牙女足U19 vs 以色列女足U19|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="布罗德美度兰 vs 昆士兰狮队|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/4f0ff310b253f34bfd414c5b2502082c.png" group-title="足球",布罗德美度兰 vs 昆士兰狮队|未开赛
@@ -78,4 +76,6 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="塞浦路斯女足 vs 卢森堡女足|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/7bac573ccb329a6dab2ba79e7075f7a0.png" group-title="足球",塞浦路斯女足 vs 卢森堡女足|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="伊朗 vs 澳大利亚|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/77418e1cfd63306bf63717d76c23e910.png" group-title="篮球",伊朗 vs 澳大利亚|未开赛
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="比达耶特拉维夫巴亚 vs 马卡比贝奈贾尔朱利亚|未开赛" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/a0334a40cc0ce7e9eed00315091db9ba.png" group-title="足球",比达耶特拉维夫巴亚 vs 马卡比贝奈贾尔朱利亚|未开赛
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
