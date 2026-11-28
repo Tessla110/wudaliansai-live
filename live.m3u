@@ -1,17 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="活塞 vs 雄鹿|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3f82122a48e98eaccc5e71307eba801a.png" group-title="篮球",活塞 vs 雄鹿|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="步行者 vs 76人|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6f313b682482799762cf60dbc30dbfae.png" group-title="篮球",步行者 vs 76人|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="猛龙 vs 篮网|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/e299ddecec93dc5c8db83b1761e2fa1f.png" group-title="篮球",猛龙 vs 篮网|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="哥伦比亚大学女篮 vs 斯坦福大学女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/acaa4b420e98dc759cc728a1b6203d7d.png" group-title="篮球",哥伦比亚大学女篮 vs 斯坦福大学女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="西北大学 vs 东北大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/7443032d34dd4fdbb273e6eff2063887.png" group-title="篮球",西北大学 vs 东北大学|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="太平洋战士 vs 阿特萨诺斯梅特佩克|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/699a0592d465b74416e4c404173dddeb.png" group-title="足球",太平洋战士 vs 阿特萨诺斯梅特佩克|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="苏瀑天空力量 vs 威斯康星牧群|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/8b242b43a5345a1d119ef92736bfd399.png" group-title="篮球",苏瀑天空力量 vs 威斯康星牧群|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="德克萨斯传奇 vs 奥西奥拉魔术|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/f5a8edf8b84f2ee56df9d74d7131fff2.png" group-title="篮球",德克萨斯传奇 vs 奥西奥拉魔术|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
@@ -43,9 +39,13 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="美国女足 vs 萨尔瓦多女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/8986a59ba835b1362a51cbc3505c9780.png" group-title="足球",美国女足 vs 萨尔瓦多女足|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
+#EXTINF:-1 tvg-name="埃尔芬埼玉女足 vs 东洋大学女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/9b1119aadf6f76ffbd2a59945a0aab73.png" group-title="足球",埃尔芬埼玉女足 vs 东洋大学女足|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="森林狼 vs 灰熊|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1700678b84ba5a771e76a067027bebb9.png" group-title="篮球",森林狼 vs 灰熊|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3931513.m3u8?auth_key=1795836446-0-0-ddd79e41a26a5dc374bf00eae9c0d50a
+https://pullgz721.qmuiw.com/live/hd-zh-2-3931513.m3u8?auth_key=1795836775-0-0-9ad192472049a4ecb02bad086c661aa7
 #EXTINF:-1 tvg-name="百万富翁 vs 卡利美洲|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/88bf2a10fe7e8d3f9a21b73f3f77fcde.png" group-title="足球",百万富翁 vs 卡利美洲|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4671059.m3u8?auth_key=1795836446-0-0-04b272213142751b65d492151df33208
+https://pullgz721.qmuiw.com/live/sd-1-4671059.m3u8?auth_key=1795836775-0-0-045508618f9e93939260d90dea54ced3
 #EXTINF:-1 tvg-name="辛辛那提女篮 vs 明尼苏达女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/af9d288e67004550a1762ae437d69083.png" group-title="篮球",辛辛那提女篮 vs 明尼苏达女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3961866.m3u8?auth_key=1795836446-0-0-59e6f1cbf552d1b227dd7b3342c94ef7
+https://pullgz721.qmuiw.com/live/sd-2-3961866.m3u8?auth_key=1795836775-0-0-68d1bfc9ce197dd4a59f22feb4e6c0f4
+#EXTINF:-1 tvg-name="太阳 vs 独行侠|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/da3c882a7e0bc592b4c1ba9d8c5fb68d.png" group-title="篮球",太阳 vs 独行侠|视频直播
+https://pullgz721.qmuiw.com/live/hd-zh-2-3931514.m3u8?auth_key=1795836775-0-0-9a507f20ff1ae44b16c1cd2722aa50b7
