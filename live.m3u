@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="静冈顶点 vs 福井吹风|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/c8cc6d43c8c97ff1724a04c96388fae9.png" group-title="篮球",静冈顶点 vs 福井吹风|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="香川五箭 vs 奈良雄心|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/42c4e7101dbccc08f3ae423748e72714.png" group-title="篮球",香川五箭 vs 奈良雄心|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="东京日视美人女足 vs 中京大学女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/ce447e0e3ad2662871036938cbb0edbc.png" group-title="足球",东京日视美人女足 vs 中京大学女足|完场
@@ -41,27 +39,27 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="大陆普瓦凯女篮 vs 皇后女篮|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/55a34103e311f9131150b1b21af83ae6.png" group-title="篮球",大陆普瓦凯女篮 vs 皇后女篮|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="甘孜队 vs 乐山队|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/853cf63bfcc20d600b30101a412a36df.png" group-title="足球",甘孜队 vs 乐山队|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4670381.m3u8?auth_key=1795855252-0-0-94931b7e5378d1ae26f23b0bfe3dd312
+#EXTINF:-1 tvg-name="甘孜队 vs 乐山队|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/853cf63bfcc20d600b30101a412a36df.png" group-title="足球",甘孜队 vs 乐山队|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="友利银行女篮 vs 富川KEB女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/372ebf16ae571d85ee98090b0ee60e41.png" group-title="篮球",友利银行女篮 vs 富川KEB女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3946109.m3u8?auth_key=1795855252-0-0-105604c58ce28529a013da781dd0a0a0
+https://pullgz721.qmuiw.com/live/sd-2-3946109.m3u8?auth_key=1795855583-0-0-8b7361fb3100c4ead528cb56791a8f78
 #EXTINF:-1 tvg-name="柏太阳神 vs 广岛三箭|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/d272859d78eb8ca7a14753f4293fbf45.png" group-title="足球",柏太阳神 vs 广岛三箭|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4555286.m3u8?auth_key=1795855252-0-0-7a3800c0b7b54b5a32d3e0ea73af7dad
+https://pullgz721.qmuiw.com/live/sd-1-4555286.m3u8?auth_key=1795855583-0-0-5d7efacd4c6eee5ff21def57aa00d090
 #EXTINF:-1 tvg-name="北区 vs 冠忠南区|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/13a16c993e82e2185b2d869cf5aa0973.png" group-title="足球",北区 vs 冠忠南区|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4602386.m3u8?auth_key=1795855252-0-0-5b4f5f95719cc7293f384717c076d6eb
+https://pullgz721.qmuiw.com/live/sd-1-4602386.m3u8?auth_key=1795855583-0-0-e33c5a80177dfba4b7a55319fa9fc534
 #EXTINF:-1 tvg-name="富川FC vs 金泉尚武|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/640f8c62cb294e1cc308a44ed2a62891.png" group-title="足球",富川FC vs 金泉尚武|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4662801.m3u8?auth_key=1795855252-0-0-ce19d372af8d903d5db82a94c99fccda
+https://pullgz721.qmuiw.com/live/sd-1-4662801.m3u8?auth_key=1795855583-0-0-054df5c80c46491c7cc4f59054c16c5f
 #EXTINF:-1 tvg-name="浦项铁人 vs 光州FC|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/6f05c460789939ac83282bd0686446f1.png" group-title="足球",浦项铁人 vs 光州FC|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4662802.m3u8?auth_key=1795855252-0-0-ef92025b26deeb17153fa9ed0856c2b6
+https://pullgz721.qmuiw.com/live/sd-1-4662802.m3u8?auth_key=1795855583-0-0-7fce4d1580f232b83bde2dffdefb12ef
 #EXTINF:-1 tvg-name="白沙队 vs 屯昌队|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/96d7d603b79aa4ade1556ad5189dd439.png" group-title="足球",白沙队 vs 屯昌队|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4658415.m3u8?auth_key=1795855252-0-0-3cae271fdef41b037d2a61f31963d11e
+https://pullgz721.qmuiw.com/live/sd-1-4658415.m3u8?auth_key=1795855583-0-0-4f73e431c01e1fcadecad2f52a9e87f4
 #EXTINF:-1 tvg-name="马哈利卡 vs 卡雅FC|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/e6ebd8a0e4686622ea405129300f862e.png" group-title="足球",马哈利卡 vs 卡雅FC|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4642346.m3u8?auth_key=1795855252-0-0-f3e79de2a55cb20ea66e1a597e97ca21
+https://pullgz721.qmuiw.com/live/sd-1-4642346.m3u8?auth_key=1795855583-0-0-c1225f856c55c305e56e051e0a91ab91
 #EXTINF:-1 tvg-name="巴林 vs 哈萨克斯坦|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/939045fc3f62477368f62d714ab67401.png" group-title="篮球",巴林 vs 哈萨克斯坦|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3943514.m3u8?auth_key=1795855253-0-0-c1120f7f5fe8c27ae2058b5e7b0ce0ff
+https://pullgz721.qmuiw.com/live/sd-2-3943514.m3u8?auth_key=1795855583-0-0-9d4271c2751862a5899758ffa69dc5d6
 #EXTINF:-1 tvg-name="珀斯山猫女篮 vs 阿德莱德闪电女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1813b3b36d7d59bc02b28035db7aed23.png" group-title="篮球",珀斯山猫女篮 vs 阿德莱德闪电女篮|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3925793.m3u8?auth_key=1795855253-0-0-8cb0d5b0d6e51bcc5c6118e52e498b72
+https://pullgz721.qmuiw.com/live/sd-2-3925793.m3u8?auth_key=1795855583-0-0-e52c16d38340177bb46ee764f8daeec5
 #EXTINF:-1 tvg-name="东京八王子市火车 vs 东京地球之友|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/9a8139a7d8b8d54c3f09098fe6c1bfb6.png" group-title="篮球",东京八王子市火车 vs 东京地球之友|视频直播
-https://pullgz721.qmuiw.com/live/sd-2-3934778.m3u8?auth_key=1795855253-0-0-a5e8e4eaf0456f277c38605a97678bfc
+https://pullgz721.qmuiw.com/live/sd-2-3934778.m3u8?auth_key=1795855583-0-0-3c6174a9aebcd6285ecd0449f8ceb2f5
 #EXTINF:-1 tvg-name="掸邦联 vs 实皆联|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/81591ca25d2179a9877ec9c24bbe59e3.png" group-title="足球",掸邦联 vs 实皆联|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4640986.m3u8?auth_key=1795855253-0-0-737f637add15724703f4b5f81464e7f2
+https://pullgz721.qmuiw.com/live/sd-1-4640986.m3u8?auth_key=1795855583-0-0-1b4cdc9541f5607578a27d769dc86c0d
