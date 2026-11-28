@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="密西西比州立大学 vs 宾夕法尼亚州立大学|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/86f68a4327783b767c5bcecfb2fc784f.png" group-title="篮球",密西西比州立大学 vs 宾夕法尼亚州立大学|完场
-https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="活塞 vs 雄鹿|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/3f82122a48e98eaccc5e71307eba801a.png" group-title="篮球",活塞 vs 雄鹿|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="步行者 vs 76人|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/6f313b682482799762cf60dbc30dbfae.png" group-title="篮球",步行者 vs 76人|完场
@@ -43,9 +41,11 @@ https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="哥伦布机员 vs 迈阿密国际|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/b6d8f81e8454813b3e672b179e627d3a.png" group-title="足球",哥伦布机员 vs 迈阿密国际|完场
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
-#EXTINF:-1 tvg-name="美国女足 vs 萨尔瓦多女足|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/8986a59ba835b1362a51cbc3505c9780.png" group-title="足球",美国女足 vs 萨尔瓦多女足|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4549791.m3u8?auth_key=1795836129-0-0-16a3e55f425975c4d3cb9771b4183838
+#EXTINF:-1 tvg-name="美国女足 vs 萨尔瓦多女足|完场" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/8986a59ba835b1362a51cbc3505c9780.png" group-title="足球",美国女足 vs 萨尔瓦多女足|完场
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="森林狼 vs 灰熊|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/1700678b84ba5a771e76a067027bebb9.png" group-title="篮球",森林狼 vs 灰熊|视频直播
-https://pullgz721.qmuiw.com/live/hd-zh-2-3931513.m3u8?auth_key=1795836129-0-0-bd7bc1ba00ab0a039aa4ecc5008645f5
+https://pullgz721.qmuiw.com/live/hd-zh-2-3931513.m3u8?auth_key=1795836446-0-0-ddd79e41a26a5dc374bf00eae9c0d50a
 #EXTINF:-1 tvg-name="百万富翁 vs 卡利美洲|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/foot/88bf2a10fe7e8d3f9a21b73f3f77fcde.png" group-title="足球",百万富翁 vs 卡利美洲|视频直播
-https://pullgz721.qmuiw.com/live/sd-1-4671059.m3u8?auth_key=1795836129-0-0-04a4fdee53f4626cec26ceca5716145d
+https://pullgz721.qmuiw.com/live/sd-1-4671059.m3u8?auth_key=1795836446-0-0-04b272213142751b65d492151df33208
+#EXTINF:-1 tvg-name="辛辛那提女篮 vs 明尼苏达女篮|视频直播" tvg-logo="https://resource.nj82wbp.top/data/resources/images/team/basket/af9d288e67004550a1762ae437d69083.png" group-title="篮球",辛辛那提女篮 vs 明尼苏达女篮|视频直播
+https://pullgz721.qmuiw.com/live/sd-2-3961866.m3u8?auth_key=1795836446-0-0-59e6f1cbf552d1b227dd7b3342c94ef7
